@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "676c21748226b2d9b5688724"
+  },
+  "product_id": "PRODUCT051",
+  "artistName": "Taylor Swift",
+  "numberOfTracks": 14,
+  "totalPlayingTime": "55 minutes",
+  "publisher": "Big Machine Records"
+},
+{
+  "_id": {
+    "$oid": "676c21748226b2d9b5688725"
+  },
+  "product_id": "PRODUCT052",
+  "artistName": "The Beatles",
+  "numberOfTracks": 13,
+  "totalPlayingTime": "48 minutes",
+  "publisher": "Parlophone"
+},
+{
+  "_id": {
+    "$oid": "676c21748226b2d9b5688726"
+  },
+  "product_id": "PRODUCT053",
+  "artistName": "Michael Jackson",
+  "numberOfTracks": 10,
+  "totalPlayingTime": "42 minutes",
+  "publisher": "Epic Records"
+},
+{
+  "_id": {
+    "$oid": "676c21748226b2d9b5688727"
+  },
+  "product_id": "PRODUCT054",
+  "artistName": "Queen",
+  "numberOfTracks": 12,
+  "totalPlayingTime": "50 minutes",
+  "publisher": "EMI Records"
+},
+{
+  "_id": {
+    "$oid": "676c21748226b2d9b5688728"
+  },
+  "product_id": "PRODUCT055",
+  "artistName": "Adele",
+  "numberOfTracks": 11,
+  "totalPlayingTime": "40 minutes",
+  "publisher": "XL Recordings"
+},
+{
+  "_id": {
+    "$oid": "676c21748226b2d9b5688729"
+  },
+  "product_id": "PRODUCT056",
+  "artistName": "Bob Dylan",
+  "numberOfTracks": 15,
+  "totalPlayingTime": "60 minutes",
+  "publisher": "Columbia Records"
+},
+{
+  "_id": {
+    "$oid": "676c21748226b2d9b568872a"
+  },
+  "product_id": "PRODUCT057",
+  "artistName": "Eminem",
+  "numberOfTracks": 16,
+  "totalPlayingTime": "58 minutes",
+  "publisher": "Aftermath Entertainment"
+},
+{
+  "_id": {
+    "$oid": "676c21748226b2d9b568872b"
+  },
+  "product_id": "PRODUCT058",
+  "artistName": "Pink Floyd",
+  "numberOfTracks": 9,
+  "totalPlayingTime": "45 minutes",
+  "publisher": "Harvest Records"
+},
+{
+  "_id": {
+    "$oid": "676c21748226b2d9b568872c"
+  },
+  "product_id": "PRODUCT059",
+  "artistName": "Rihanna",
+  "numberOfTracks": 13,
+  "totalPlayingTime": "46 minutes",
+  "publisher": "Def Jam Recordings"
+},
+{
+  "_id": {
+    "$oid": "676c21748226b2d9b568872d"
+  },
+  "product_id": "PRODUCT060",
+  "artistName": "Bruce Springsteen",
+  "numberOfTracks": 12,
+  "totalPlayingTime": "52 minutes",
+  "publisher": "Columbia Records"
+}]

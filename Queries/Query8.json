@@ -1,0 +1,90 @@
+db.getCollection('CurrentOrders').aggregate(
+  [
+    { $unwind: { path: '$currentOrderItems' } },
+    {
+      $group: {
+        _id: '$currentOrderItems.product_id',
+        totalSalesQuantity: {
+          $sum: '$currentOrderItems.quantity'
+        }
+      }
+    },
+    {
+      $lookup: {
+        from: 'DailyInventoryLevel',
+        localField: '_id',
+        foreignField: 'product_id',
+        as: 'inventoryDetails'
+      }
+    },
+    {
+      $unwind: {
+        path: '$inventoryDetails',
+        preserveNullAndEmptyArrays: true
+      }
+    },
+    {
+      $lookup: {
+        from: 'FreshProducts',
+        localField: '_id',
+        foreignField: 'product_id',
+        as: 'freshProductDetails'
+      }
+    },
+    {
+      $lookup: {
+        from: 'OtherProducts',
+        localField: '_id',
+        foreignField: 'product_id',
+        as: 'otherProductDetails'
+      }
+    },
+    {
+      $unwind: {
+        path: '$freshProductDetails',
+        preserveNullAndEmptyArrays: true
+      }
+    },
+    {
+      $unwind: {
+        path: '$otherProductDetails',
+        preserveNullAndEmptyArrays: true
+      }
+    },
+    {
+      $project: {
+        productId: '$_id',
+        totalSalesQuantity: 1,
+        currentInventory: {
+          $ifNull: [
+            '$inventoryDetails.inventoryQuantity',
+            0
+          ]
+        },
+        totalSalesValue: {
+          $multiply: [
+            '$totalSalesQuantity',
+            {
+              $cond: {
+                if: {
+                  $gt: [
+                    '$freshProductDetails.standardPrice',
+                    0
+                  ]
+                },
+                then: '$freshProductDetails.standardPrice',
+                else: {
+                  $ifNull: [
+                    '$otherProductDetails.standardPrice',
+                    0
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);

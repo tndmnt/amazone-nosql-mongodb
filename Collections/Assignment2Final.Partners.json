@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "676c219b8226b2d9b568886e"
+  },
+  "partner_id": "PARTNER001",
+  "partnerName": "Alex Johnson",
+  "partnerAge": 28,
+  "partnerGender": "Male",
+  "presentLocation": {
+    "type": "Point",
+    "coordinates": [
+      -2.2375,
+      53.4819
+    ]
+  },
+  "status": {
+    "idle": 1,
+    "active": {
+      "deliveryErrand": 0
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "676c219b8226b2d9b568886f"
+  },
+  "partner_id": "PARTNER002",
+  "partnerName": "Sophia Taylor",
+  "partnerAge": 32,
+  "partnerGender": "Female",
+  "presentLocation": {
+    "type": "Point",
+    "coordinates": [
+      -2.2483,
+      53.4771
+    ]
+  },
+  "status": {
+    "idle": 0,
+    "active": {
+      "deliveryErrand": 1
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "676c219b8226b2d9b5688870"
+  },
+  "partner_id": "PARTNER003",
+  "partnerName": "Ethan Lee",
+  "partnerAge": 25,
+  "partnerGender": "Male",
+  "presentLocation": {
+    "type": "Point",
+    "coordinates": [
+      -2.2404,
+      53.4766
+    ]
+  },
+  "status": {
+    "idle": 1,
+    "active": {
+      "deliveryErrand": 0
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "676c219b8226b2d9b5688871"
+  },
+  "partner_id": "PARTNER004",
+  "partnerName": "Isabella Moore",
+  "partnerAge": 29,
+  "partnerGender": "Female",
+  "presentLocation": {
+    "type": "Point",
+    "coordinates": [
+      -2.2439,
+      53.4824
+    ]
+  },
+  "status": {
+    "idle": 0,
+    "active": {
+      "deliveryErrand": 2
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "676c219b8226b2d9b5688872"
+  },
+  "partner_id": "PARTNER005",
+  "partnerName": "Liam Brown",
+  "partnerAge": 35,
+  "partnerGender": "Male",
+  "presentLocation": {
+    "type": "Point",
+    "coordinates": [
+      -2.2234,
+      53.4872
+    ]
+  },
+  "status": {
+    "idle": 0,
+    "active": {
+      "deliveryErrand": 1
+    }
+  }
+}]

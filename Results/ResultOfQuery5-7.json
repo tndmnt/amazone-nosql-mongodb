@@ -1,0 +1,84 @@
+// Query 5 Result
+{
+    _id: ObjectId('6759a8b4c13a0bffa6f7bbcb'),
+    order_id: 'ORDER102',
+    customer_id: 'CUSTOMER009',
+    orderDate: '2024-11-02',
+    partner_id: 'PARTNER004',
+    currentOrderItems: [
+      {
+        product_id: 'PRODUCT048',
+        productType: 'others',
+        quantity: 3
+      },
+      {
+        product_id: 'PRODUCT080',
+        productType: 'others',
+        quantity: 7
+      },
+      {
+        product_id: 'PRODUCT001',
+        productType: 'fresh',
+        quantity: 3
+      }
+    ],
+    totalOrderCost: null,
+    orderStatus: 'unpaid'
+  }
+
+  // Query 6 Result
+  {
+    _id: ObjectId('6759a8b4c13a0bffa6f7bbcb'),
+    order_id: 'ORDER102',
+    customer_id: 'CUSTOMER009',
+    orderDate: '2024-11-02',
+    partner_id: 'PARTNER004',
+    currentOrderItems: [
+      {
+        product_id: 'PRODUCT048',
+        productType: 'others',
+        quantity: 3
+      },
+      {
+        product_id: 'PRODUCT080',
+        productType: 'others',
+        quantity: 7
+      },
+      {
+        product_id: 'PRODUCT001',
+        productType: 'fresh',
+        quantity: 3
+      }
+    ],
+    totalOrderCost: 994.5,
+    orderStatus: 'unpaid'
+  }
+
+  // Query 7 Result
+  {
+    _id: ObjectId('6759a8b4c13a0bffa6f7bbcb'),
+    order_id: 'ORDER102',
+    customer_id: 'CUSTOMER009',
+    orderDate: '2024-11-02',
+    partner_id: 'PARTNER004',
+    currentOrderItems: [
+      {
+        product_id: 'PRODUCT048',
+        productType: 'others',
+        quantity: 3
+      },
+      {
+        product_id: 'PRODUCT080',
+        productType: 'others',
+        quantity: 7
+      },
+      {
+        product_id: 'PRODUCT001',
+        productType: 'fresh',
+        quantity: 3
+      }
+    ],
+    totalOrderCost: 994.5,
+    orderStatus: 'paid'
+  }
+  

@@ -1,0 +1,546 @@
+[{
+    "_id": "PRODUCT021",
+    "totalQuantity": 11,
+    "averageRating": 3.0999999999999996,
+    "productId": "PRODUCT021",
+    "productName": "Apple"
+  },
+  {
+    "_id": "PRODUCT071",
+    "totalQuantity": 14,
+    "averageRating": 3.2,
+    "productId": "PRODUCT071",
+    "productName": "Dyson V15 Detect"
+  },
+  {
+    "_id": "PRODUCT040",
+    "totalQuantity": 3,
+    "averageRating": 1.65,
+    "productId": "PRODUCT040",
+    "productName": "Zucchini"
+  },
+  {
+    "_id": "PRODUCT002",
+    "totalQuantity": 9,
+    "averageRating": 0.35,
+    "productId": "PRODUCT002",
+    "productName": "Croissant"
+  },
+  {
+    "_id": "PRODUCT063",
+    "totalQuantity": 12,
+    "averageRating": 2.2,
+    "productId": "PRODUCT063",
+    "productName": "Google Pixel 7"
+  },
+  {
+    "_id": "PRODUCT056",
+    "totalQuantity": 5,
+    "averageRating": 1.4,
+    "productId": "PRODUCT056",
+    "productName": "Country Album"
+  },
+  {
+    "_id": "PRODUCT033",
+    "totalQuantity": 18,
+    "averageRating": 1.1,
+    "productId": "PRODUCT033",
+    "productName": "Spinach"
+  },
+  {
+    "_id": "PRODUCT036",
+    "totalQuantity": 34,
+    "averageRating": 3.1,
+    "productId": "PRODUCT036",
+    "productName": "Tomato"
+  },
+  {
+    "_id": "PRODUCT030",
+    "totalQuantity": 12,
+    "averageRating": 1.6500000000000001,
+    "productId": "PRODUCT030",
+    "productName": "Mango"
+  },
+  {
+    "_id": "PRODUCT072",
+    "totalQuantity": 19,
+    "averageRating": 2.2333333333333334,
+    "productId": "PRODUCT072",
+    "productName": "Samsung Family Hub Refrigerator"
+  },
+  {
+    "_id": "PRODUCT017",
+    "totalQuantity": 3,
+    "averageRating": 2.8,
+    "productId": "PRODUCT017",
+    "productName": "Coffee"
+  },
+  {
+    "_id": "PRODUCT074",
+    "totalQuantity": 10,
+    "averageRating": 1.65,
+    "productId": "PRODUCT074",
+    "productName": "Philips Airfryer XXL"
+  },
+  {
+    "_id": "PRODUCT076",
+    "totalQuantity": 12,
+    "averageRating": 3.6,
+    "productId": "PRODUCT076",
+    "productName": "Panasonic Microwave NN-SN966S"
+  },
+  {
+    "_id": "PRODUCT029",
+    "totalQuantity": 8,
+    "averageRating": 3.4000000000000004,
+    "productId": "PRODUCT029",
+    "productName": "Blueberries"
+  },
+  {
+    "_id": "PRODUCT050",
+    "totalQuantity": 19,
+    "averageRating": 1.2,
+    "productId": "PRODUCT050",
+    "productName": "Graphic Novel"
+  },
+  {
+    "_id": "PRODUCT025",
+    "totalQuantity": 17,
+    "averageRating": 3.3,
+    "productId": "PRODUCT025",
+    "productName": "Watermelon"
+  },
+  {
+    "_id": "PRODUCT028",
+    "totalQuantity": 12,
+    "averageRating": 2.7,
+    "productId": "PRODUCT028",
+    "productName": "Strawberries"
+  },
+  {
+    "_id": "PRODUCT009",
+    "totalQuantity": 33,
+    "averageRating": 2.1,
+    "productId": "PRODUCT009",
+    "productName": "Sourdough Bread"
+  },
+  {
+    "_id": "PRODUCT011",
+    "totalQuantity": 11,
+    "averageRating": 2.25,
+    "productId": "PRODUCT011",
+    "productName": "Orange Juice"
+  },
+  {
+    "_id": "PRODUCT061",
+    "totalQuantity": 12,
+    "averageRating": 4.05,
+    "productId": "PRODUCT061",
+    "productName": "Apple iPhone 14"
+  },
+  {
+    "_id": "PRODUCT037",
+    "totalQuantity": 24,
+    "averageRating": 4.133333333333334,
+    "productId": "PRODUCT037",
+    "productName": "Cucumber"
+  },
+  {
+    "_id": "PRODUCT060",
+    "totalQuantity": 7,
+    "averageRating": 4.25,
+    "productId": "PRODUCT060",
+    "productName": "Instrumental Album"
+  },
+  {
+    "_id": "PRODUCT016",
+    "totalQuantity": 10,
+    "averageRating": 2.5,
+    "productId": "PRODUCT016",
+    "productName": "Iced Tea"
+  },
+  {
+    "_id": "PRODUCT038",
+    "totalQuantity": 11,
+    "averageRating": 3.3,
+    "productId": "PRODUCT038",
+    "productName": "Bell Pepper"
+  },
+  {
+    "_id": "PRODUCT066",
+    "totalQuantity": 8,
+    "averageRating": 2.25,
+    "productId": "PRODUCT066",
+    "productName": "Sony Xperia 1 IV"
+  },
+  {
+    "_id": "PRODUCT065",
+    "totalQuantity": 17,
+    "averageRating": 2.966666666666667,
+    "productId": "PRODUCT065",
+    "productName": "Xiaomi 12 Pro"
+  },
+  {
+    "_id": "PRODUCT013",
+    "totalQuantity": 8,
+    "averageRating": 0.8999999999999999,
+    "productId": "PRODUCT013",
+    "productName": "Red Wine"
+  },
+  {
+    "_id": "PRODUCT004",
+    "totalQuantity": 9,
+    "averageRating": 2.75,
+    "productId": "PRODUCT004",
+    "productName": "Muffin"
+  },
+  {
+    "_id": "PRODUCT006",
+    "totalQuantity": 19,
+    "averageRating": 3.1999999999999997,
+    "productId": "PRODUCT006",
+    "productName": "Chocolate Cake"
+  },
+  {
+    "_id": "PRODUCT008",
+    "totalQuantity": 10,
+    "averageRating": 4.066666666666666,
+    "productId": "PRODUCT008",
+    "productName": "Pita Bread"
+  },
+  {
+    "_id": "PRODUCT005",
+    "totalQuantity": 4,
+    "averageRating": 3.15,
+    "productId": "PRODUCT005",
+    "productName": "Baguette"
+  },
+  {
+    "_id": "PRODUCT057",
+    "totalQuantity": 12,
+    "averageRating": 3.9,
+    "productId": "PRODUCT057",
+    "productName": "Electronic Album"
+  },
+  {
+    "_id": "PRODUCT024",
+    "totalQuantity": 25,
+    "averageRating": 3.025,
+    "productId": "PRODUCT024",
+    "productName": "Orange"
+  },
+  {
+    "_id": "PRODUCT058",
+    "totalQuantity": 14,
+    "averageRating": 3.25,
+    "productId": "PRODUCT058",
+    "productName": "Reggae Album"
+  },
+  {
+    "_id": "PRODUCT022",
+    "totalQuantity": 11,
+    "averageRating": 4.35,
+    "productId": "PRODUCT022",
+    "productName": "Banana"
+  },
+  {
+    "_id": "PRODUCT032",
+    "totalQuantity": 8,
+    "averageRating": 2.55,
+    "productId": "PRODUCT032",
+    "productName": "Broccoli"
+  },
+  {
+    "_id": "PRODUCT010",
+    "totalQuantity": 16,
+    "averageRating": 0.7,
+    "productId": "PRODUCT010",
+    "productName": "Cinnamon Roll"
+  },
+  {
+    "_id": "PRODUCT048",
+    "totalQuantity": 26,
+    "averageRating": 1.6666666666666667,
+    "productId": "PRODUCT048",
+    "productName": "Self-Help Book"
+  },
+  {
+    "_id": "PRODUCT003",
+    "totalQuantity": 17,
+    "averageRating": 3.4499999999999997,
+    "productId": "PRODUCT003",
+    "productName": "Bagel"
+  },
+  {
+    "_id": "PRODUCT047",
+    "totalQuantity": 17,
+    "averageRating": 2.8,
+    "productId": "PRODUCT047",
+    "productName": "Travel Guide"
+  },
+  {
+    "_id": "PRODUCT080",
+    "totalQuantity": 27,
+    "averageRating": 2.04,
+    "productId": "PRODUCT080",
+    "productName": "Ninja Foodi Power Blender"
+  },
+  {
+    "_id": "PRODUCT027",
+    "totalQuantity": 16,
+    "averageRating": 2,
+    "productId": "PRODUCT027",
+    "productName": "Pineapple"
+  },
+  {
+    "_id": "PRODUCT001",
+    "totalQuantity": 17,
+    "averageRating": 3.9000000000000004,
+    "productId": "PRODUCT001",
+    "productName": "White Bread"
+  },
+  {
+    "_id": "PRODUCT070",
+    "totalQuantity": 27,
+    "averageRating": 3.0833333333333335,
+    "productId": "PRODUCT070",
+    "productName": "Asus ROG Phone 6"
+  },
+  {
+    "_id": "PRODUCT039",
+    "totalQuantity": 10,
+    "averageRating": 3.5,
+    "productId": "PRODUCT039",
+    "productName": "Celery"
+  },
+  {
+    "_id": "PRODUCT078",
+    "totalQuantity": 13,
+    "averageRating": 2.15,
+    "productId": "PRODUCT078",
+    "productName": "Instant Pot Duo 7-in-1"
+  },
+  {
+    "_id": "PRODUCT043",
+    "totalQuantity": 12,
+    "averageRating": 2.6,
+    "productId": "PRODUCT043",
+    "productName": "History Book"
+  },
+  {
+    "_id": "PRODUCT035",
+    "totalQuantity": 14,
+    "averageRating": 3.1,
+    "productId": "PRODUCT035",
+    "productName": "Onion"
+  },
+  {
+    "_id": "PRODUCT007",
+    "totalQuantity": 9,
+    "averageRating": 1.65,
+    "productId": "PRODUCT007",
+    "productName": "Doughnut"
+  },
+  {
+    "_id": "PRODUCT020",
+    "totalQuantity": 14,
+    "averageRating": 3.1999999999999997,
+    "productId": "PRODUCT020",
+    "productName": "Green Tea"
+  },
+  {
+    "_id": "PRODUCT045",
+    "totalQuantity": 13,
+    "averageRating": 1.2666666666666666,
+    "productId": "PRODUCT045",
+    "productName": "Biography"
+  },
+  {
+    "_id": "PRODUCT052",
+    "totalQuantity": 8,
+    "averageRating": 3.15,
+    "productId": "PRODUCT052",
+    "productName": "Classical Album"
+  },
+  {
+    "_id": "PRODUCT046",
+    "totalQuantity": 10,
+    "averageRating": 4.75,
+    "productId": "PRODUCT046",
+    "productName": "Cookbook"
+  },
+  {
+    "_id": "PRODUCT075",
+    "totalQuantity": 30,
+    "averageRating": 2.716666666666667,
+    "productId": "PRODUCT075",
+    "productName": "Breville Barista Pro"
+  },
+  {
+    "_id": "PRODUCT067",
+    "totalQuantity": 26,
+    "averageRating": 1.275,
+    "productId": "PRODUCT067",
+    "productName": "Oppo Find X5 Pro"
+  },
+  {
+    "_id": "PRODUCT069",
+    "totalQuantity": 27,
+    "averageRating": 1.775,
+    "productId": "PRODUCT069",
+    "productName": "Realme GT 2 Pro"
+  },
+  {
+    "_id": "PRODUCT041",
+    "totalQuantity": 16,
+    "averageRating": 4,
+    "productId": "PRODUCT041",
+    "productName": "Fiction Novel"
+  },
+  {
+    "_id": "PRODUCT062",
+    "totalQuantity": 10,
+    "averageRating": 1.65,
+    "productId": "PRODUCT062",
+    "productName": "Samsung Galaxy S22"
+  },
+  {
+    "_id": "PRODUCT077",
+    "totalQuantity": 21,
+    "averageRating": 1.8,
+    "productId": "PRODUCT077",
+    "productName": "iRobot Roomba i7+"
+  },
+  {
+    "_id": "PRODUCT053",
+    "totalQuantity": 10,
+    "averageRating": 3.2,
+    "productId": "PRODUCT053",
+    "productName": "Jazz Album"
+  },
+  {
+    "_id": "PRODUCT019",
+    "totalQuantity": 7,
+    "averageRating": 2.4000000000000004,
+    "productId": "PRODUCT019",
+    "productName": "Coconut Water"
+  },
+  {
+    "_id": "PRODUCT042",
+    "totalQuantity": 6,
+    "averageRating": 3.3,
+    "productId": "PRODUCT042",
+    "productName": "Science Textbook"
+  },
+  {
+    "_id": "PRODUCT018",
+    "totalQuantity": 10,
+    "averageRating": 1.9,
+    "productId": "PRODUCT018",
+    "productName": "Energy Drink"
+  },
+  {
+    "_id": "PRODUCT055",
+    "totalQuantity": 9,
+    "averageRating": 2.85,
+    "productId": "PRODUCT055",
+    "productName": "Hip Hop Album"
+  },
+  {
+    "_id": "PRODUCT023",
+    "totalQuantity": 8,
+    "averageRating": 2.75,
+    "productId": "PRODUCT023",
+    "productName": "Grapes"
+  },
+  {
+    "_id": "PRODUCT044",
+    "totalQuantity": 30,
+    "averageRating": 2.84,
+    "productId": "PRODUCT044",
+    "productName": "Fantasy Novel"
+  },
+  {
+    "_id": "PRODUCT031",
+    "totalQuantity": 11,
+    "averageRating": 3.05,
+    "productId": "PRODUCT031",
+    "productName": "Carrot"
+  },
+  {
+    "_id": "PRODUCT012",
+    "totalQuantity": 8,
+    "averageRating": 3.85,
+    "productId": "PRODUCT012",
+    "productName": "Milk"
+  },
+  {
+    "_id": "PRODUCT026",
+    "totalQuantity": 17,
+    "averageRating": 0.7,
+    "productId": "PRODUCT026",
+    "productName": "Peach"
+  },
+  {
+    "_id": "PRODUCT059",
+    "totalQuantity": 14,
+    "averageRating": 1.5,
+    "productId": "PRODUCT059",
+    "productName": "Opera Album"
+  },
+  {
+    "_id": "PRODUCT064",
+    "totalQuantity": 12,
+    "averageRating": 2.15,
+    "productId": "PRODUCT064",
+    "productName": "OnePlus 11"
+  },
+  {
+    "_id": "PRODUCT068",
+    "totalQuantity": 9,
+    "averageRating": 1.35,
+    "productId": "PRODUCT068",
+    "productName": "Vivo X80 Pro"
+  },
+  {
+    "_id": "PRODUCT014",
+    "totalQuantity": 9,
+    "averageRating": 1.75,
+    "productId": "PRODUCT014",
+    "productName": "Cola"
+  },
+  {
+    "_id": "PRODUCT054",
+    "totalQuantity": 6,
+    "averageRating": 2.75,
+    "productId": "PRODUCT054",
+    "productName": "Rock Album"
+  },
+  {
+    "_id": "PRODUCT051",
+    "totalQuantity": 10,
+    "averageRating": 2.95,
+    "productId": "PRODUCT051",
+    "productName": "Pop Album"
+  },
+  {
+    "_id": "PRODUCT034",
+    "totalQuantity": 12,
+    "averageRating": 1.9,
+    "productId": "PRODUCT034",
+    "productName": "Potato"
+  },
+  {
+    "_id": "PRODUCT049",
+    "totalQuantity": 15,
+    "averageRating": 2.9,
+    "productId": "PRODUCT049",
+    "productName": "Children's Storybook"
+  },
+  {
+    "_id": "PRODUCT015",
+    "totalQuantity": 16,
+    "averageRating": 2.3666666666666667,
+    "productId": "PRODUCT015",
+    "productName": "Lemonade"
+  }]

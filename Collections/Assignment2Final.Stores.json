@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "676c2c9b4d49c0aa7d42a637"
+  },
+  "store_id": "STORE001",
+  "address": "1 Piccadilly Gardens, Manchester, M1 1RG",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -2.242631,
+      53.480759
+    ]
+  },
+  "listOfAvailable": [
+    "PRODUCT001",
+    "PRODUCT006",
+    "PRODUCT011",
+    "PRODUCT016",
+    "PRODUCT021",
+    "PRODUCT026",
+    "PRODUCT031",
+    "PRODUCT036"
+  ]
+},
+{
+  "_id": {
+    "$oid": "676c2c9b4d49c0aa7d42a638"
+  },
+  "store_id": "STORE002",
+  "address": "23 Deansgate, Manchester, M3 1AZ",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -2.249872,
+      53.481805
+    ]
+  },
+  "listOfAvailable": [
+    "PRODUCT002",
+    "PRODUCT007",
+    "PRODUCT012",
+    "PRODUCT017",
+    "PRODUCT022",
+    "PRODUCT027",
+    "PRODUCT032",
+    "PRODUCT037"
+  ]
+},
+{
+  "_id": {
+    "$oid": "676c2c9b4d49c0aa7d42a639"
+  },
+  "store_id": "STORE003",
+  "address": "15 Oxford Street, Manchester, M1 5QA",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -2.242541,
+      53.475942
+    ]
+  },
+  "listOfAvailable": [
+    "PRODUCT003",
+    "PRODUCT008",
+    "PRODUCT013",
+    "PRODUCT018",
+    "PRODUCT023",
+    "PRODUCT028",
+    "PRODUCT033",
+    "PRODUCT038"
+  ]
+},
+{
+  "_id": {
+    "$oid": "676c2c9b4d49c0aa7d42a63a"
+  },
+  "store_id": "STORE004",
+  "address": "47 Market Street, Manchester, M1 1WR",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -2.242327,
+      53.482052
+    ]
+  },
+  "listOfAvailable": [
+    "PRODUCT004",
+    "PRODUCT009",
+    "PRODUCT014",
+    "PRODUCT019",
+    "PRODUCT024",
+    "PRODUCT029",
+    "PRODUCT034",
+    "PRODUCT039"
+  ]
+},
+{
+  "_id": {
+    "$oid": "676c2c9b4d49c0aa7d42a63b"
+  },
+  "store_id": "STORE005",
+  "address": "21 Oldham Road, Manchester, M4 5AY",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -2.235504,
+      53.486758
+    ]
+  },
+  "listOfAvailable": [
+    "PRODUCT005",
+    "PRODUCT010",
+    "PRODUCT015",
+    "PRODUCT020",
+    "PRODUCT025",
+    "PRODUCT030",
+    "PRODUCT035",
+    "PRODUCT040"
+  ]
+}]

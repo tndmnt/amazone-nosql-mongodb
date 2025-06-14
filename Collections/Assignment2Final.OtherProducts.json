@@ -1,0 +1,360 @@
+[{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688846"
+  },
+  "product_id": "PRODUCT041",
+  "category": "OtherProducts",
+  "shippingWeight": 21,
+  "standardPrice": 34
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688847"
+  },
+  "product_id": "PRODUCT042",
+  "category": "OtherProducts",
+  "shippingWeight": 54,
+  "standardPrice": 71
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688848"
+  },
+  "product_id": "PRODUCT043",
+  "category": "OtherProducts",
+  "shippingWeight": 66,
+  "standardPrice": 43
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688849"
+  },
+  "product_id": "PRODUCT044",
+  "category": "OtherProducts",
+  "shippingWeight": 92,
+  "standardPrice": 45
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b568884a"
+  },
+  "product_id": "PRODUCT045",
+  "category": "OtherProducts",
+  "shippingWeight": 3,
+  "standardPrice": 4
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b568884b"
+  },
+  "product_id": "PRODUCT046",
+  "category": "OtherProducts",
+  "shippingWeight": 6,
+  "standardPrice": 87
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b568884c"
+  },
+  "product_id": "PRODUCT047",
+  "category": "OtherProducts",
+  "shippingWeight": 9,
+  "standardPrice": 8
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b568884d"
+  },
+  "product_id": "PRODUCT048",
+  "category": "OtherProducts",
+  "shippingWeight": 23,
+  "standardPrice": 43
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b568884e"
+  },
+  "product_id": "PRODUCT049",
+  "category": "OtherProducts",
+  "shippingWeight": 14,
+  "standardPrice": 10
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b568884f"
+  },
+  "product_id": "PRODUCT050",
+  "category": "OtherProducts",
+  "shippingWeight": 20,
+  "standardPrice": 30
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688850"
+  },
+  "product_id": "PRODUCT051",
+  "category": "OtherProducts",
+  "shippingWeight": 40,
+  "standardPrice": 55
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688851"
+  },
+  "product_id": "PRODUCT052",
+  "category": "OtherProducts",
+  "shippingWeight": 18,
+  "standardPrice": 23
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688852"
+  },
+  "product_id": "PRODUCT053",
+  "category": "OtherProducts",
+  "shippingWeight": 25,
+  "standardPrice": 17
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688853"
+  },
+  "product_id": "PRODUCT054",
+  "category": "OtherProducts",
+  "shippingWeight": 19,
+  "standardPrice": 11
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688854"
+  },
+  "product_id": "PRODUCT055",
+  "category": "OtherProducts",
+  "shippingWeight": 32,
+  "standardPrice": 29
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688855"
+  },
+  "product_id": "PRODUCT056",
+  "category": "OtherProducts",
+  "shippingWeight": 28,
+  "standardPrice": 29
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688856"
+  },
+  "product_id": "PRODUCT057",
+  "category": "OtherProducts",
+  "shippingWeight": 24,
+  "standardPrice": 25
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688857"
+  },
+  "product_id": "PRODUCT058",
+  "category": "OtherProducts",
+  "shippingWeight": 6,
+  "standardPrice": 25
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688858"
+  },
+  "product_id": "PRODUCT059",
+  "category": "OtherProducts",
+  "shippingWeight": 26,
+  "standardPrice": 25
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688859"
+  },
+  "product_id": "PRODUCT060",
+  "category": "OtherProducts",
+  "shippingWeight": 22,
+  "standardPrice": 16
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b568885a"
+  },
+  "product_id": "PRODUCT061",
+  "category": "OtherProducts",
+  "shippingWeight": 17,
+  "standardPrice": 13
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b568885b"
+  },
+  "product_id": "PRODUCT062",
+  "category": "OtherProducts",
+  "shippingWeight": 15,
+  "standardPrice": 14
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b568885c"
+  },
+  "product_id": "PRODUCT063",
+  "category": "OtherProducts",
+  "shippingWeight": 24,
+  "standardPrice": 23
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b568885d"
+  },
+  "product_id": "PRODUCT064",
+  "category": "OtherProducts",
+  "shippingWeight": 27,
+  "standardPrice": 21
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b568885e"
+  },
+  "product_id": "PRODUCT065",
+  "category": "OtherProducts",
+  "shippingWeight": 26,
+  "standardPrice": 10
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b568885f"
+  },
+  "product_id": "PRODUCT066",
+  "category": "OtherProducts",
+  "shippingWeight": 17,
+  "standardPrice": 32
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688860"
+  },
+  "product_id": "PRODUCT067",
+  "category": "OtherProducts",
+  "shippingWeight": 31,
+  "standardPrice": 15
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688861"
+  },
+  "product_id": "PRODUCT068",
+  "category": "OtherProducts",
+  "shippingWeight": 22,
+  "standardPrice": 11
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688862"
+  },
+  "product_id": "PRODUCT069",
+  "category": "OtherProducts",
+  "shippingWeight": 23,
+  "standardPrice": 17
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688863"
+  },
+  "product_id": "PRODUCT070",
+  "category": "OtherProducts",
+  "shippingWeight": 19,
+  "standardPrice": 21
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688864"
+  },
+  "product_id": "PRODUCT071",
+  "category": "OtherProducts",
+  "shippingWeight": 13,
+  "standardPrice": 14
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688865"
+  },
+  "product_id": "PRODUCT072",
+  "category": "OtherProducts",
+  "shippingWeight": 15,
+  "standardPrice": 17
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688866"
+  },
+  "product_id": "PRODUCT073",
+  "category": "OtherProducts",
+  "shippingWeight": 18,
+  "standardPrice": 19
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688867"
+  },
+  "product_id": "PRODUCT074",
+  "category": "OtherProducts",
+  "shippingWeight": 11,
+  "standardPrice": 17
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688868"
+  },
+  "product_id": "PRODUCT075",
+  "category": "OtherProducts",
+  "shippingWeight": 23,
+  "standardPrice": 22
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b5688869"
+  },
+  "product_id": "PRODUCT076",
+  "category": "OtherProducts",
+  "shippingWeight": 8,
+  "standardPrice": 119
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b568886a"
+  },
+  "product_id": "PRODUCT077",
+  "category": "OtherProducts",
+  "shippingWeight": 6,
+  "standardPrice": 91
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b568886b"
+  },
+  "product_id": "PRODUCT078",
+  "category": "OtherProducts",
+  "shippingWeight": 4,
+  "standardPrice": 52
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b568886c"
+  },
+  "product_id": "PRODUCT079",
+  "category": "OtherProducts",
+  "shippingWeight": 8,
+  "standardPrice": 89
+},
+{
+  "_id": {
+    "$oid": "676c21978226b2d9b568886d"
+  },
+  "product_id": "PRODUCT080",
+  "category": "OtherProducts",
+  "shippingWeight": 1,
+  "standardPrice": 123
+}]

@@ -1,0 +1,468 @@
+[{
+    "_id": "PRODUCT002",
+    "totalQuantity": 9,
+    "totalSalesValue": 18,
+    "productId": "PRODUCT002"
+  },
+  {
+    "_id": "PRODUCT063",
+    "totalQuantity": 12,
+    "totalSalesValue": 7188,
+    "productId": "PRODUCT063"
+  },
+  {
+    "_id": "PRODUCT051",
+    "totalQuantity": 10,
+    "totalSalesValue": 150,
+    "productId": "PRODUCT051"
+  },
+  {
+    "_id": "PRODUCT049",
+    "totalQuantity": 15,
+    "totalSalesValue": 120,
+    "productId": "PRODUCT049"
+  },
+  {
+    "_id": "PRODUCT034",
+    "totalQuantity": 22,
+    "totalSalesValue": 13.2,
+    "productId": "PRODUCT034"
+  },
+  {
+    "_id": "PRODUCT015",
+    "totalQuantity": 16,
+    "totalSalesValue": 32,
+    "productId": "PRODUCT015"
+  },
+  {
+    "_id": "PRODUCT068",
+    "totalQuantity": 9,
+    "totalSalesValue": 7191,
+    "productId": "PRODUCT068"
+  },
+  {
+    "_id": "PRODUCT054",
+    "totalQuantity": 6,
+    "totalSalesValue": 102,
+    "productId": "PRODUCT054"
+  },
+  {
+    "_id": "PRODUCT014",
+    "totalQuantity": 9,
+    "totalSalesValue": 10.799999999999999,
+    "productId": "PRODUCT014"
+  },
+  {
+    "_id": "PRODUCT031",
+    "totalQuantity": 11,
+    "totalSalesValue": 8.8,
+    "productId": "PRODUCT031"
+  },
+  {
+    "_id": "PRODUCT012",
+    "totalQuantity": 8,
+    "totalSalesValue": 12,
+    "productId": "PRODUCT012"
+  },
+  {
+    "_id": "PRODUCT064",
+    "totalQuantity": 14,
+    "totalSalesValue": 9786,
+    "productId": "PRODUCT064"
+  },
+  {
+    "_id": "PRODUCT059",
+    "totalQuantity": 15,
+    "totalSalesValue": 330,
+    "productId": "PRODUCT059"
+  },
+  {
+    "_id": "PRODUCT026",
+    "totalQuantity": 17,
+    "totalSalesValue": 30.6,
+    "productId": "PRODUCT026"
+  },
+  {
+    "_id": "PRODUCT023",
+    "totalQuantity": 8,
+    "totalSalesValue": 16,
+    "productId": "PRODUCT023"
+  },
+  {
+    "_id": "PRODUCT044",
+    "totalQuantity": 30,
+    "totalSalesValue": 360,
+    "productId": "PRODUCT044"
+  },
+  {
+    "_id": "PRODUCT042",
+    "totalQuantity": 6,
+    "totalSalesValue": 120,
+    "productId": "PRODUCT042"
+  },
+  {
+    "_id": "PRODUCT055",
+    "totalQuantity": 10,
+    "totalSalesValue": 160,
+    "productId": "PRODUCT055"
+  },
+  {
+    "_id": "PRODUCT018",
+    "totalQuantity": 10,
+    "totalSalesValue": 27.999999999999996,
+    "productId": "PRODUCT018"
+  },
+  {
+    "_id": "PRODUCT062",
+    "totalQuantity": 10,
+    "totalSalesValue": 7990,
+    "productId": "PRODUCT062"
+  },
+  {
+    "_id": "PRODUCT053",
+    "totalQuantity": 10,
+    "totalSalesValue": 180,
+    "productId": "PRODUCT053"
+  },
+  {
+    "_id": "PRODUCT077",
+    "totalQuantity": 21,
+    "totalSalesValue": 20979,
+    "productId": "PRODUCT077"
+  },
+  {
+    "_id": "PRODUCT067",
+    "totalQuantity": 26,
+    "totalSalesValue": 23374,
+    "productId": "PRODUCT067"
+  },
+  {
+    "_id": "PRODUCT069",
+    "totalQuantity": 36,
+    "totalSalesValue": 17964,
+    "productId": "PRODUCT069"
+  },
+  {
+    "_id": "PRODUCT041",
+    "totalQuantity": 16,
+    "totalSalesValue": 160,
+    "productId": "PRODUCT041"
+  },
+  {
+    "_id": "PRODUCT019",
+    "totalQuantity": 7,
+    "totalSalesValue": 24.5,
+    "productId": "PRODUCT019"
+  },
+  {
+    "_id": "PRODUCT045",
+    "totalQuantity": 13,
+    "totalSalesValue": 234,
+    "productId": "PRODUCT045"
+  },
+  {
+    "_id": "PRODUCT052",
+    "totalQuantity": 8,
+    "totalSalesValue": 160,
+    "productId": "PRODUCT052"
+  },
+  {
+    "_id": "PRODUCT046",
+    "totalQuantity": 10,
+    "totalSalesValue": 180,
+    "productId": "PRODUCT046"
+  },
+  {
+    "_id": "PRODUCT075",
+    "totalQuantity": 30,
+    "totalSalesValue": 23970,
+    "productId": "PRODUCT075"
+  },
+  {
+    "_id": "PRODUCT035",
+    "totalQuantity": 14,
+    "totalSalesValue": 12.6,
+    "productId": "PRODUCT035"
+  },
+  {
+    "_id": "PRODUCT043",
+    "totalQuantity": 12,
+    "totalSalesValue": 180,
+    "productId": "PRODUCT043"
+  },
+  {
+    "_id": "PRODUCT020",
+    "totalQuantity": 14,
+    "totalSalesValue": 21,
+    "productId": "PRODUCT020"
+  },
+  {
+    "_id": "PRODUCT007",
+    "totalQuantity": 9,
+    "totalSalesValue": 10.8,
+    "productId": "PRODUCT007"
+  },
+  {
+    "_id": "PRODUCT047",
+    "totalQuantity": 17,
+    "totalSalesValue": 255,
+    "productId": "PRODUCT047"
+  },
+  {
+    "_id": "PRODUCT039",
+    "totalQuantity": 17,
+    "totalSalesValue": 17,
+    "productId": "PRODUCT039"
+  },
+  {
+    "_id": "PRODUCT001",
+    "totalQuantity": 17,
+    "totalSalesValue": 25.5,
+    "productId": "PRODUCT001"
+  },
+  {
+    "_id": "PRODUCT080",
+    "totalQuantity": 27,
+    "totalSalesValue": 4050,
+    "productId": "PRODUCT080"
+  },
+  {
+    "_id": "PRODUCT027",
+    "totalQuantity": 18,
+    "totalSalesValue": 63,
+    "productId": "PRODUCT027"
+  },
+  {
+    "_id": "PRODUCT070",
+    "totalQuantity": 27,
+    "totalSalesValue": 29673,
+    "productId": "PRODUCT070"
+  },
+  {
+    "_id": "PRODUCT078",
+    "totalQuantity": 13,
+    "totalSalesValue": 1560,
+    "productId": "PRODUCT078"
+  },
+  {
+    "_id": "PRODUCT032",
+    "totalQuantity": 8,
+    "totalSalesValue": 12,
+    "productId": "PRODUCT032"
+  },
+  {
+    "_id": "PRODUCT003",
+    "totalQuantity": 17,
+    "totalSalesValue": 17,
+    "productId": "PRODUCT003"
+  },
+  {
+    "_id": "PRODUCT010",
+    "totalQuantity": 16,
+    "totalSalesValue": 32,
+    "productId": "PRODUCT010"
+  },
+  {
+    "_id": "PRODUCT048",
+    "totalQuantity": 27,
+    "totalSalesValue": 324,
+    "productId": "PRODUCT048"
+  },
+  {
+    "_id": "PRODUCT022",
+    "totalQuantity": 11,
+    "totalSalesValue": 11,
+    "productId": "PRODUCT022"
+  },
+  {
+    "_id": "PRODUCT008",
+    "totalQuantity": 10,
+    "totalSalesValue": 15,
+    "productId": "PRODUCT008"
+  },
+  {
+    "_id": "PRODUCT013",
+    "totalQuantity": 8,
+    "totalSalesValue": 120,
+    "productId": "PRODUCT013"
+  },
+  {
+    "_id": "PRODUCT004",
+    "totalQuantity": 9,
+    "totalSalesValue": 16.200000000000003,
+    "productId": "PRODUCT004"
+  },
+  {
+    "_id": "PRODUCT024",
+    "totalQuantity": 32,
+    "totalSalesValue": 48,
+    "productId": "PRODUCT024"
+  },
+  {
+    "_id": "PRODUCT006",
+    "totalQuantity": 19,
+    "totalSalesValue": 57,
+    "productId": "PRODUCT006"
+  },
+  {
+    "_id": "PRODUCT005",
+    "totalQuantity": 4,
+    "totalSalesValue": 10,
+    "productId": "PRODUCT005"
+  },
+  {
+    "_id": "PRODUCT057",
+    "totalQuantity": 12,
+    "totalSalesValue": 240,
+    "productId": "PRODUCT057"
+  },
+  {
+    "_id": "PRODUCT058",
+    "totalQuantity": 14,
+    "totalSalesValue": 196,
+    "productId": "PRODUCT058"
+  },
+  {
+    "_id": "PRODUCT038",
+    "totalQuantity": 11,
+    "totalSalesValue": 13.2,
+    "productId": "PRODUCT038"
+  },
+  {
+    "_id": "PRODUCT016",
+    "totalQuantity": 10,
+    "totalSalesValue": 25,
+    "productId": "PRODUCT016"
+  },
+  {
+    "_id": "PRODUCT065",
+    "totalQuantity": 27,
+    "totalSalesValue": 17523,
+    "productId": "PRODUCT065"
+  },
+  {
+    "_id": "PRODUCT066",
+    "totalQuantity": 8,
+    "totalSalesValue": 10392,
+    "productId": "PRODUCT066"
+  },
+  {
+    "_id": "PRODUCT061",
+    "totalQuantity": 14,
+    "totalSalesValue": 13986,
+    "productId": "PRODUCT061"
+  },
+  {
+    "_id": "PRODUCT060",
+    "totalQuantity": 7,
+    "totalSalesValue": 133,
+    "productId": "PRODUCT060"
+  },
+  {
+    "_id": "PRODUCT011",
+    "totalQuantity": 11,
+    "totalSalesValue": 33,
+    "productId": "PRODUCT011"
+  },
+  {
+    "_id": "PRODUCT037",
+    "totalQuantity": 24,
+    "totalSalesValue": 19.200000000000003,
+    "productId": "PRODUCT037"
+  },
+  {
+    "_id": "PRODUCT050",
+    "totalQuantity": 19,
+    "totalSalesValue": 266,
+    "productId": "PRODUCT050"
+  },
+  {
+    "_id": "PRODUCT025",
+    "totalQuantity": 17,
+    "totalSalesValue": 51,
+    "productId": "PRODUCT025"
+  },
+  {
+    "_id": "PRODUCT028",
+    "totalQuantity": 12,
+    "totalSalesValue": 30,
+    "productId": "PRODUCT028"
+  },
+  {
+    "_id": "PRODUCT009",
+    "totalQuantity": 33,
+    "totalSalesValue": 115.5,
+    "productId": "PRODUCT009"
+  },
+  {
+    "_id": "PRODUCT030",
+    "totalQuantity": 12,
+    "totalSalesValue": 26.400000000000002,
+    "productId": "PRODUCT030"
+  },
+  {
+    "_id": "PRODUCT072",
+    "totalQuantity": 19,
+    "totalSalesValue": 56981,
+    "productId": "PRODUCT072"
+  },
+  {
+    "_id": "PRODUCT033",
+    "totalQuantity": 18,
+    "totalSalesValue": 21.6,
+    "productId": "PRODUCT033"
+  },
+  {
+    "_id": "PRODUCT074",
+    "totalQuantity": 15,
+    "totalSalesValue": 5250,
+    "productId": "PRODUCT074"
+  },
+  {
+    "_id": "PRODUCT076",
+    "totalQuantity": 12,
+    "totalSalesValue": 3000,
+    "productId": "PRODUCT076"
+  },
+  {
+    "_id": "PRODUCT029",
+    "totalQuantity": 8,
+    "totalSalesValue": 24,
+    "productId": "PRODUCT029"
+  },
+  {
+    "_id": "PRODUCT017",
+    "totalQuantity": 3,
+    "totalSalesValue": 5.4,
+    "productId": "PRODUCT017"
+  },
+  {
+    "_id": "PRODUCT036",
+    "totalQuantity": 34,
+    "totalSalesValue": 34,
+    "productId": "PRODUCT036"
+  },
+  {
+    "_id": "PRODUCT071",
+    "totalQuantity": 14,
+    "totalSalesValue": 11186,
+    "productId": "PRODUCT071"
+  },
+  {
+    "_id": "PRODUCT021",
+    "totalQuantity": 11,
+    "totalSalesValue": 13.2,
+    "productId": "PRODUCT021"
+  },
+  {
+    "_id": "PRODUCT056",
+    "totalQuantity": 13,
+    "totalSalesValue": 195,
+    "productId": "PRODUCT056"
+  },
+  {
+    "_id": "PRODUCT040",
+    "totalQuantity": 3,
+    "totalSalesValue": 3.9000000000000004,
+    "productId": "PRODUCT040"
+  }]

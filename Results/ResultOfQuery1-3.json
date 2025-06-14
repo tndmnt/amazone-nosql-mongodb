@@ -1,0 +1,69 @@
+// Query 1 Result
+{
+  "customer_id": "CUSTOMER007",
+  "products": [
+    {
+      "_id": {
+        "$oid": "676c21a48226b2d9b56888f8"
+      },
+      "product_id": "PRODUCT034",
+      "productName": "Potato",
+      "description": "Fresh brown potatoes.",
+      "productType": "fresh",
+      "dimensions": "30x20x15 cm",
+      "averageRating": 1.9,
+      "cost": 0.6
+    }
+  ],
+  "matchingStores": [
+    {
+      "_id": {
+        "$oid": "676c2c9b4d49c0aa7d42a63a"
+      },
+      "store_id": "STORE004",
+      "address": "47 Market Street, Manchester, M1 1WR",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -2.242327,
+          53.482052
+        ]
+      },
+      "availableProducts": [
+        "PRODUCT004",
+        "PRODUCT009",
+        "PRODUCT014",
+        "PRODUCT019",
+        "PRODUCT024",
+        "PRODUCT029",
+        "PRODUCT034",
+        "PRODUCT039"
+      ]
+    }
+  ],
+  "order_id": "ORDER101"
+}
+
+// Query 2 Result
+Distance to coordinate [-2.242327,53.482052]: 1105.1717314930322 meters
+
+// Query 3 Result
+{
+    "partner_id": "PARTNER001",
+    "partnerName": "Alex Johnson",
+    "partnerAge": 28,
+    "partnerGender": "Male",
+    "presentLocation": {
+      "type": "Point",
+      "coordinates": [
+        -2.2375,
+        53.4819
+      ]
+    },
+    "status": {
+      "idle": 1,
+      "active": {
+        "deliveryErrand": 0
+      }
+    }
+  }

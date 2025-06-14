@@ -1,0 +1,1548 @@
+[{
+    "_id": "CUSTOMER003",
+    "purchasedProducts": [
+      "PRODUCT067",
+      "PRODUCT018",
+      "PRODUCT032",
+      "PRODUCT006",
+      "PRODUCT044",
+      "PRODUCT047",
+      "PRODUCT030",
+      "PRODUCT019"
+    ],
+    "customer_id": "CUSTOMER003",
+    "recommendedProducts": [
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688904"
+        },
+        "product_id": "PRODUCT046",
+        "productName": "Cookbook",
+        "description": "A collection of delicious recipes.",
+        "productType": "others",
+        "dimensions": "25x20x4 cm",
+        "averageRating": 4.75,
+        "cost": 18
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888ec"
+        },
+        "product_id": "PRODUCT022",
+        "productName": "Banana",
+        "description": "Sweet bananas.",
+        "productType": "fresh",
+        "dimensions": "20x10x5 cm",
+        "averageRating": 4.35,
+        "cost": 1
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688912"
+        },
+        "product_id": "PRODUCT060",
+        "productName": "Instrumental Album",
+        "description": "Peaceful instrumental tracks.",
+        "productType": "others",
+        "dimensions": "12x12x1 cm",
+        "averageRating": 4.25,
+        "cost": 19
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888fb"
+        },
+        "product_id": "PRODUCT037",
+        "productName": "Cucumber",
+        "description": "Fresh cucumbers.",
+        "productType": "fresh",
+        "dimensions": "20x5x5 cm",
+        "averageRating": 4.133333333333334,
+        "cost": 0.8
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888de"
+        },
+        "product_id": "PRODUCT008",
+        "productName": "Pita Bread",
+        "description": "Soft pita bread.",
+        "productType": "fresh",
+        "dimensions": "15x15x5 cm",
+        "averageRating": 4.066666666666666,
+        "cost": 1.5
+      }
+    ]
+  },
+  {
+    "_id": "CUSTOMER002",
+    "purchasedProducts": [
+      "PRODUCT046",
+      "PRODUCT020",
+      "PRODUCT027",
+      "PRODUCT062",
+      "PRODUCT044",
+      "PRODUCT042",
+      "PRODUCT052",
+      "PRODUCT070"
+    ],
+    "customer_id": "CUSTOMER002",
+    "recommendedProducts": [
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888ec"
+        },
+        "product_id": "PRODUCT022",
+        "productName": "Banana",
+        "description": "Sweet bananas.",
+        "productType": "fresh",
+        "dimensions": "20x10x5 cm",
+        "averageRating": 4.35,
+        "cost": 1
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688912"
+        },
+        "product_id": "PRODUCT060",
+        "productName": "Instrumental Album",
+        "description": "Peaceful instrumental tracks.",
+        "productType": "others",
+        "dimensions": "12x12x1 cm",
+        "averageRating": 4.25,
+        "cost": 19
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888fb"
+        },
+        "product_id": "PRODUCT037",
+        "productName": "Cucumber",
+        "description": "Fresh cucumbers.",
+        "productType": "fresh",
+        "dimensions": "20x5x5 cm",
+        "averageRating": 4.133333333333334,
+        "cost": 0.8
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888de"
+        },
+        "product_id": "PRODUCT008",
+        "productName": "Pita Bread",
+        "description": "Soft pita bread.",
+        "productType": "fresh",
+        "dimensions": "15x15x5 cm",
+        "averageRating": 4.066666666666666,
+        "cost": 1.5
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688913"
+        },
+        "product_id": "PRODUCT061",
+        "productName": "Apple iPhone 14",
+        "description": "Latest iPhone with A15 Bionic chip.",
+        "productType": "others",
+        "dimensions": "14x7x1 cm",
+        "averageRating": 4.05,
+        "cost": 999
+      }
+    ]
+  },
+  {
+    "_id": "CUSTOMER005",
+    "purchasedProducts": [
+      "PRODUCT036",
+      "PRODUCT061",
+      "PRODUCT028",
+      "PRODUCT049",
+      "PRODUCT037",
+      "PRODUCT060",
+      "PRODUCT070",
+      "PRODUCT004",
+      "PRODUCT039",
+      "PRODUCT026",
+      "PRODUCT030",
+      "PRODUCT080"
+    ],
+    "customer_id": "CUSTOMER005",
+    "recommendedProducts": [
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688904"
+        },
+        "product_id": "PRODUCT046",
+        "productName": "Cookbook",
+        "description": "A collection of delicious recipes.",
+        "productType": "others",
+        "dimensions": "25x20x4 cm",
+        "averageRating": 4.75,
+        "cost": 18
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888ec"
+        },
+        "product_id": "PRODUCT022",
+        "productName": "Banana",
+        "description": "Sweet bananas.",
+        "productType": "fresh",
+        "dimensions": "20x10x5 cm",
+        "averageRating": 4.35,
+        "cost": 1
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888de"
+        },
+        "product_id": "PRODUCT008",
+        "productName": "Pita Bread",
+        "description": "Soft pita bread.",
+        "productType": "fresh",
+        "dimensions": "15x15x5 cm",
+        "averageRating": 4.066666666666666,
+        "cost": 1.5
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888ff"
+        },
+        "product_id": "PRODUCT041",
+        "productName": "Fiction Novel",
+        "description": "A thrilling fiction novel.",
+        "productType": "others",
+        "dimensions": "25x15x3 cm",
+        "averageRating": 4,
+        "cost": 10
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888d7"
+        },
+        "product_id": "PRODUCT001",
+        "productName": "White Bread",
+        "description": "Soft white bread loaf.",
+        "productType": "fresh",
+        "dimensions": "30x15x10 cm",
+        "averageRating": 3.9000000000000004,
+        "cost": 1.5
+      }
+    ]
+  },
+  {
+    "_id": "CUSTOMER012",
+    "purchasedProducts": [
+      "PRODUCT053",
+      "PRODUCT051",
+      "PRODUCT028",
+      "PRODUCT057",
+      "PRODUCT027",
+      "PRODUCT080",
+      "PRODUCT039",
+      "PRODUCT004"
+    ],
+    "customer_id": "CUSTOMER012",
+    "recommendedProducts": [
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688904"
+        },
+        "product_id": "PRODUCT046",
+        "productName": "Cookbook",
+        "description": "A collection of delicious recipes.",
+        "productType": "others",
+        "dimensions": "25x20x4 cm",
+        "averageRating": 4.75,
+        "cost": 18
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888ec"
+        },
+        "product_id": "PRODUCT022",
+        "productName": "Banana",
+        "description": "Sweet bananas.",
+        "productType": "fresh",
+        "dimensions": "20x10x5 cm",
+        "averageRating": 4.35,
+        "cost": 1
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688912"
+        },
+        "product_id": "PRODUCT060",
+        "productName": "Instrumental Album",
+        "description": "Peaceful instrumental tracks.",
+        "productType": "others",
+        "dimensions": "12x12x1 cm",
+        "averageRating": 4.25,
+        "cost": 19
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888fb"
+        },
+        "product_id": "PRODUCT037",
+        "productName": "Cucumber",
+        "description": "Fresh cucumbers.",
+        "productType": "fresh",
+        "dimensions": "20x5x5 cm",
+        "averageRating": 4.133333333333334,
+        "cost": 0.8
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888de"
+        },
+        "product_id": "PRODUCT008",
+        "productName": "Pita Bread",
+        "description": "Soft pita bread.",
+        "productType": "fresh",
+        "dimensions": "15x15x5 cm",
+        "averageRating": 4.066666666666666,
+        "cost": 1.5
+      }
+    ]
+  },
+  {
+    "_id": "CUSTOMER007",
+    "purchasedProducts": [
+      "PRODUCT044",
+      "PRODUCT022",
+      "PRODUCT003",
+      "PRODUCT069",
+      "PRODUCT041",
+      "PRODUCT024",
+      "PRODUCT040"
+    ],
+    "customer_id": "CUSTOMER007",
+    "recommendedProducts": [
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688904"
+        },
+        "product_id": "PRODUCT046",
+        "productName": "Cookbook",
+        "description": "A collection of delicious recipes.",
+        "productType": "others",
+        "dimensions": "25x20x4 cm",
+        "averageRating": 4.75,
+        "cost": 18
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688912"
+        },
+        "product_id": "PRODUCT060",
+        "productName": "Instrumental Album",
+        "description": "Peaceful instrumental tracks.",
+        "productType": "others",
+        "dimensions": "12x12x1 cm",
+        "averageRating": 4.25,
+        "cost": 19
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888fb"
+        },
+        "product_id": "PRODUCT037",
+        "productName": "Cucumber",
+        "description": "Fresh cucumbers.",
+        "productType": "fresh",
+        "dimensions": "20x5x5 cm",
+        "averageRating": 4.133333333333334,
+        "cost": 0.8
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888de"
+        },
+        "product_id": "PRODUCT008",
+        "productName": "Pita Bread",
+        "description": "Soft pita bread.",
+        "productType": "fresh",
+        "dimensions": "15x15x5 cm",
+        "averageRating": 4.066666666666666,
+        "cost": 1.5
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688913"
+        },
+        "product_id": "PRODUCT061",
+        "productName": "Apple iPhone 14",
+        "description": "Latest iPhone with A15 Bionic chip.",
+        "productType": "others",
+        "dimensions": "14x7x1 cm",
+        "averageRating": 4.05,
+        "cost": 999
+      }
+    ]
+  },
+  {
+    "_id": "CUSTOMER004",
+    "purchasedProducts": [
+      "PRODUCT024",
+      "PRODUCT075",
+      "PRODUCT040",
+      "PRODUCT007",
+      "PRODUCT062",
+      "PRODUCT069",
+      "PRODUCT058",
+      "PRODUCT053",
+      "PRODUCT065",
+      "PRODUCT067"
+    ],
+    "customer_id": "CUSTOMER004",
+    "recommendedProducts": [
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688904"
+        },
+        "product_id": "PRODUCT046",
+        "productName": "Cookbook",
+        "description": "A collection of delicious recipes.",
+        "productType": "others",
+        "dimensions": "25x20x4 cm",
+        "averageRating": 4.75,
+        "cost": 18
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888ec"
+        },
+        "product_id": "PRODUCT022",
+        "productName": "Banana",
+        "description": "Sweet bananas.",
+        "productType": "fresh",
+        "dimensions": "20x10x5 cm",
+        "averageRating": 4.35,
+        "cost": 1
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688912"
+        },
+        "product_id": "PRODUCT060",
+        "productName": "Instrumental Album",
+        "description": "Peaceful instrumental tracks.",
+        "productType": "others",
+        "dimensions": "12x12x1 cm",
+        "averageRating": 4.25,
+        "cost": 19
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888fb"
+        },
+        "product_id": "PRODUCT037",
+        "productName": "Cucumber",
+        "description": "Fresh cucumbers.",
+        "productType": "fresh",
+        "dimensions": "20x5x5 cm",
+        "averageRating": 4.133333333333334,
+        "cost": 0.8
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888de"
+        },
+        "product_id": "PRODUCT008",
+        "productName": "Pita Bread",
+        "description": "Soft pita bread.",
+        "productType": "fresh",
+        "dimensions": "15x15x5 cm",
+        "averageRating": 4.066666666666666,
+        "cost": 1.5
+      }
+    ]
+  },
+  {
+    "_id": "CUSTOMER016",
+    "purchasedProducts": [
+      "PRODUCT059",
+      "PRODUCT038",
+      "PRODUCT063",
+      "PRODUCT029",
+      "PRODUCT065",
+      "PRODUCT044",
+      "PRODUCT014",
+      "PRODUCT042",
+      "PRODUCT046"
+    ],
+    "customer_id": "CUSTOMER016",
+    "recommendedProducts": [
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888ec"
+        },
+        "product_id": "PRODUCT022",
+        "productName": "Banana",
+        "description": "Sweet bananas.",
+        "productType": "fresh",
+        "dimensions": "20x10x5 cm",
+        "averageRating": 4.35,
+        "cost": 1
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688912"
+        },
+        "product_id": "PRODUCT060",
+        "productName": "Instrumental Album",
+        "description": "Peaceful instrumental tracks.",
+        "productType": "others",
+        "dimensions": "12x12x1 cm",
+        "averageRating": 4.25,
+        "cost": 19
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888fb"
+        },
+        "product_id": "PRODUCT037",
+        "productName": "Cucumber",
+        "description": "Fresh cucumbers.",
+        "productType": "fresh",
+        "dimensions": "20x5x5 cm",
+        "averageRating": 4.133333333333334,
+        "cost": 0.8
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888de"
+        },
+        "product_id": "PRODUCT008",
+        "productName": "Pita Bread",
+        "description": "Soft pita bread.",
+        "productType": "fresh",
+        "dimensions": "15x15x5 cm",
+        "averageRating": 4.066666666666666,
+        "cost": 1.5
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688913"
+        },
+        "product_id": "PRODUCT061",
+        "productName": "Apple iPhone 14",
+        "description": "Latest iPhone with A15 Bionic chip.",
+        "productType": "others",
+        "dimensions": "14x7x1 cm",
+        "averageRating": 4.05,
+        "cost": 999
+      }
+    ]
+  },
+  {
+    "_id": "CUSTOMER015",
+    "purchasedProducts": [
+      "PRODUCT075",
+      "PRODUCT071",
+      "PRODUCT058",
+      "PRODUCT015",
+      "PRODUCT072",
+      "PRODUCT031",
+      "PRODUCT011"
+    ],
+    "customer_id": "CUSTOMER015",
+    "recommendedProducts": [
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688904"
+        },
+        "product_id": "PRODUCT046",
+        "productName": "Cookbook",
+        "description": "A collection of delicious recipes.",
+        "productType": "others",
+        "dimensions": "25x20x4 cm",
+        "averageRating": 4.75,
+        "cost": 18
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888ec"
+        },
+        "product_id": "PRODUCT022",
+        "productName": "Banana",
+        "description": "Sweet bananas.",
+        "productType": "fresh",
+        "dimensions": "20x10x5 cm",
+        "averageRating": 4.35,
+        "cost": 1
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688912"
+        },
+        "product_id": "PRODUCT060",
+        "productName": "Instrumental Album",
+        "description": "Peaceful instrumental tracks.",
+        "productType": "others",
+        "dimensions": "12x12x1 cm",
+        "averageRating": 4.25,
+        "cost": 19
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888fb"
+        },
+        "product_id": "PRODUCT037",
+        "productName": "Cucumber",
+        "description": "Fresh cucumbers.",
+        "productType": "fresh",
+        "dimensions": "20x5x5 cm",
+        "averageRating": 4.133333333333334,
+        "cost": 0.8
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888de"
+        },
+        "product_id": "PRODUCT008",
+        "productName": "Pita Bread",
+        "description": "Soft pita bread.",
+        "productType": "fresh",
+        "dimensions": "15x15x5 cm",
+        "averageRating": 4.066666666666666,
+        "cost": 1.5
+      }
+    ]
+  },
+  {
+    "_id": "CUSTOMER013",
+    "purchasedProducts": [
+      "PRODUCT013",
+      "PRODUCT067",
+      "PRODUCT070",
+      "PRODUCT035",
+      "PRODUCT006",
+      "PRODUCT072",
+      "PRODUCT015",
+      "PRODUCT080",
+      "PRODUCT036",
+      "PRODUCT009",
+      "PRODUCT071"
+    ],
+    "customer_id": "CUSTOMER013",
+    "recommendedProducts": [
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688904"
+        },
+        "product_id": "PRODUCT046",
+        "productName": "Cookbook",
+        "description": "A collection of delicious recipes.",
+        "productType": "others",
+        "dimensions": "25x20x4 cm",
+        "averageRating": 4.75,
+        "cost": 18
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888ec"
+        },
+        "product_id": "PRODUCT022",
+        "productName": "Banana",
+        "description": "Sweet bananas.",
+        "productType": "fresh",
+        "dimensions": "20x10x5 cm",
+        "averageRating": 4.35,
+        "cost": 1
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688912"
+        },
+        "product_id": "PRODUCT060",
+        "productName": "Instrumental Album",
+        "description": "Peaceful instrumental tracks.",
+        "productType": "others",
+        "dimensions": "12x12x1 cm",
+        "averageRating": 4.25,
+        "cost": 19
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888fb"
+        },
+        "product_id": "PRODUCT037",
+        "productName": "Cucumber",
+        "description": "Fresh cucumbers.",
+        "productType": "fresh",
+        "dimensions": "20x5x5 cm",
+        "averageRating": 4.133333333333334,
+        "cost": 0.8
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888de"
+        },
+        "product_id": "PRODUCT008",
+        "productName": "Pita Bread",
+        "description": "Soft pita bread.",
+        "productType": "fresh",
+        "dimensions": "15x15x5 cm",
+        "averageRating": 4.066666666666666,
+        "cost": 1.5
+      }
+    ]
+  },
+  {
+    "_id": "CUSTOMER011",
+    "purchasedProducts": [
+      "PRODUCT025",
+      "PRODUCT037",
+      "PRODUCT007",
+      "PRODUCT070",
+      "PRODUCT059",
+      "PRODUCT048",
+      "PRODUCT020",
+      "PRODUCT008",
+      "PRODUCT017",
+      "PRODUCT045",
+      "PRODUCT057"
+    ],
+    "customer_id": "CUSTOMER011",
+    "recommendedProducts": [
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688904"
+        },
+        "product_id": "PRODUCT046",
+        "productName": "Cookbook",
+        "description": "A collection of delicious recipes.",
+        "productType": "others",
+        "dimensions": "25x20x4 cm",
+        "averageRating": 4.75,
+        "cost": 18
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888ec"
+        },
+        "product_id": "PRODUCT022",
+        "productName": "Banana",
+        "description": "Sweet bananas.",
+        "productType": "fresh",
+        "dimensions": "20x10x5 cm",
+        "averageRating": 4.35,
+        "cost": 1
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688912"
+        },
+        "product_id": "PRODUCT060",
+        "productName": "Instrumental Album",
+        "description": "Peaceful instrumental tracks.",
+        "productType": "others",
+        "dimensions": "12x12x1 cm",
+        "averageRating": 4.25,
+        "cost": 19
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688913"
+        },
+        "product_id": "PRODUCT061",
+        "productName": "Apple iPhone 14",
+        "description": "Latest iPhone with A15 Bionic chip.",
+        "productType": "others",
+        "dimensions": "14x7x1 cm",
+        "averageRating": 4.05,
+        "cost": 999
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888ff"
+        },
+        "product_id": "PRODUCT041",
+        "productName": "Fiction Novel",
+        "description": "A thrilling fiction novel.",
+        "productType": "others",
+        "dimensions": "25x15x3 cm",
+        "averageRating": 4,
+        "cost": 10
+      }
+    ]
+  },
+  {
+    "_id": "CUSTOMER014",
+    "purchasedProducts": [
+      "PRODUCT070",
+      "PRODUCT013",
+      "PRODUCT078",
+      "PRODUCT001",
+      "PRODUCT009",
+      "PRODUCT010",
+      "PRODUCT069",
+      "PRODUCT021",
+      "PRODUCT055",
+      "PRODUCT005",
+      "PRODUCT060"
+    ],
+    "customer_id": "CUSTOMER014",
+    "recommendedProducts": [
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688904"
+        },
+        "product_id": "PRODUCT046",
+        "productName": "Cookbook",
+        "description": "A collection of delicious recipes.",
+        "productType": "others",
+        "dimensions": "25x20x4 cm",
+        "averageRating": 4.75,
+        "cost": 18
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888ec"
+        },
+        "product_id": "PRODUCT022",
+        "productName": "Banana",
+        "description": "Sweet bananas.",
+        "productType": "fresh",
+        "dimensions": "20x10x5 cm",
+        "averageRating": 4.35,
+        "cost": 1
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888fb"
+        },
+        "product_id": "PRODUCT037",
+        "productName": "Cucumber",
+        "description": "Fresh cucumbers.",
+        "productType": "fresh",
+        "dimensions": "20x5x5 cm",
+        "averageRating": 4.133333333333334,
+        "cost": 0.8
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888de"
+        },
+        "product_id": "PRODUCT008",
+        "productName": "Pita Bread",
+        "description": "Soft pita bread.",
+        "productType": "fresh",
+        "dimensions": "15x15x5 cm",
+        "averageRating": 4.066666666666666,
+        "cost": 1.5
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688913"
+        },
+        "product_id": "PRODUCT061",
+        "productName": "Apple iPhone 14",
+        "description": "Latest iPhone with A15 Bionic chip.",
+        "productType": "others",
+        "dimensions": "14x7x1 cm",
+        "averageRating": 4.05,
+        "cost": 999
+      }
+    ]
+  },
+  {
+    "_id": "CUSTOMER006",
+    "purchasedProducts": [
+      "PRODUCT076",
+      "PRODUCT008",
+      "PRODUCT066",
+      "PRODUCT036",
+      "PRODUCT077",
+      "PRODUCT047",
+      "PRODUCT045",
+      "PRODUCT002"
+    ],
+    "customer_id": "CUSTOMER006",
+    "recommendedProducts": [
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688904"
+        },
+        "product_id": "PRODUCT046",
+        "productName": "Cookbook",
+        "description": "A collection of delicious recipes.",
+        "productType": "others",
+        "dimensions": "25x20x4 cm",
+        "averageRating": 4.75,
+        "cost": 18
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888ec"
+        },
+        "product_id": "PRODUCT022",
+        "productName": "Banana",
+        "description": "Sweet bananas.",
+        "productType": "fresh",
+        "dimensions": "20x10x5 cm",
+        "averageRating": 4.35,
+        "cost": 1
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688912"
+        },
+        "product_id": "PRODUCT060",
+        "productName": "Instrumental Album",
+        "description": "Peaceful instrumental tracks.",
+        "productType": "others",
+        "dimensions": "12x12x1 cm",
+        "averageRating": 4.25,
+        "cost": 19
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888fb"
+        },
+        "product_id": "PRODUCT037",
+        "productName": "Cucumber",
+        "description": "Fresh cucumbers.",
+        "productType": "fresh",
+        "dimensions": "20x5x5 cm",
+        "averageRating": 4.133333333333334,
+        "cost": 0.8
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688913"
+        },
+        "product_id": "PRODUCT061",
+        "productName": "Apple iPhone 14",
+        "description": "Latest iPhone with A15 Bionic chip.",
+        "productType": "others",
+        "dimensions": "14x7x1 cm",
+        "averageRating": 4.05,
+        "cost": 999
+      }
+    ]
+  },
+  {
+    "_id": "CUSTOMER010",
+    "purchasedProducts": [
+      "PRODUCT063",
+      "PRODUCT061",
+      "PRODUCT002",
+      "PRODUCT021",
+      "PRODUCT074",
+      "PRODUCT075",
+      "PRODUCT052",
+      "PRODUCT005",
+      "PRODUCT009",
+      "PRODUCT033",
+      "PRODUCT012",
+      "PRODUCT023"
+    ],
+    "customer_id": "CUSTOMER010",
+    "recommendedProducts": [
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688904"
+        },
+        "product_id": "PRODUCT046",
+        "productName": "Cookbook",
+        "description": "A collection of delicious recipes.",
+        "productType": "others",
+        "dimensions": "25x20x4 cm",
+        "averageRating": 4.75,
+        "cost": 18
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888ec"
+        },
+        "product_id": "PRODUCT022",
+        "productName": "Banana",
+        "description": "Sweet bananas.",
+        "productType": "fresh",
+        "dimensions": "20x10x5 cm",
+        "averageRating": 4.35,
+        "cost": 1
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688912"
+        },
+        "product_id": "PRODUCT060",
+        "productName": "Instrumental Album",
+        "description": "Peaceful instrumental tracks.",
+        "productType": "others",
+        "dimensions": "12x12x1 cm",
+        "averageRating": 4.25,
+        "cost": 19
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888fb"
+        },
+        "product_id": "PRODUCT037",
+        "productName": "Cucumber",
+        "description": "Fresh cucumbers.",
+        "productType": "fresh",
+        "dimensions": "20x5x5 cm",
+        "averageRating": 4.133333333333334,
+        "cost": 0.8
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888de"
+        },
+        "product_id": "PRODUCT008",
+        "productName": "Pita Bread",
+        "description": "Soft pita bread.",
+        "productType": "fresh",
+        "dimensions": "15x15x5 cm",
+        "averageRating": 4.066666666666666,
+        "cost": 1.5
+      }
+    ]
+  },
+  {
+    "_id": "CUSTOMER018",
+    "purchasedProducts": [
+      "PRODUCT068",
+      "PRODUCT016",
+      "PRODUCT067",
+      "PRODUCT014",
+      "PRODUCT065",
+      "PRODUCT006",
+      "PRODUCT055",
+      "PRODUCT043",
+      "PRODUCT069",
+      "PRODUCT080",
+      "PRODUCT003"
+    ],
+    "customer_id": "CUSTOMER018",
+    "recommendedProducts": [
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688904"
+        },
+        "product_id": "PRODUCT046",
+        "productName": "Cookbook",
+        "description": "A collection of delicious recipes.",
+        "productType": "others",
+        "dimensions": "25x20x4 cm",
+        "averageRating": 4.75,
+        "cost": 18
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888ec"
+        },
+        "product_id": "PRODUCT022",
+        "productName": "Banana",
+        "description": "Sweet bananas.",
+        "productType": "fresh",
+        "dimensions": "20x10x5 cm",
+        "averageRating": 4.35,
+        "cost": 1
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688912"
+        },
+        "product_id": "PRODUCT060",
+        "productName": "Instrumental Album",
+        "description": "Peaceful instrumental tracks.",
+        "productType": "others",
+        "dimensions": "12x12x1 cm",
+        "averageRating": 4.25,
+        "cost": 19
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888fb"
+        },
+        "product_id": "PRODUCT037",
+        "productName": "Cucumber",
+        "description": "Fresh cucumbers.",
+        "productType": "fresh",
+        "dimensions": "20x5x5 cm",
+        "averageRating": 4.133333333333334,
+        "cost": 0.8
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888de"
+        },
+        "product_id": "PRODUCT008",
+        "productName": "Pita Bread",
+        "description": "Soft pita bread.",
+        "productType": "fresh",
+        "dimensions": "15x15x5 cm",
+        "averageRating": 4.066666666666666,
+        "cost": 1.5
+      }
+    ]
+  },
+  {
+    "_id": "CUSTOMER001",
+    "purchasedProducts": [
+      "PRODUCT034",
+      "PRODUCT056",
+      "PRODUCT078",
+      "PRODUCT026",
+      "PRODUCT001",
+      "PRODUCT077",
+      "PRODUCT049",
+      "PRODUCT011",
+      "PRODUCT031"
+    ],
+    "customer_id": "CUSTOMER001",
+    "recommendedProducts": [
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688904"
+        },
+        "product_id": "PRODUCT046",
+        "productName": "Cookbook",
+        "description": "A collection of delicious recipes.",
+        "productType": "others",
+        "dimensions": "25x20x4 cm",
+        "averageRating": 4.75,
+        "cost": 18
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888ec"
+        },
+        "product_id": "PRODUCT022",
+        "productName": "Banana",
+        "description": "Sweet bananas.",
+        "productType": "fresh",
+        "dimensions": "20x10x5 cm",
+        "averageRating": 4.35,
+        "cost": 1
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688912"
+        },
+        "product_id": "PRODUCT060",
+        "productName": "Instrumental Album",
+        "description": "Peaceful instrumental tracks.",
+        "productType": "others",
+        "dimensions": "12x12x1 cm",
+        "averageRating": 4.25,
+        "cost": 19
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888fb"
+        },
+        "product_id": "PRODUCT037",
+        "productName": "Cucumber",
+        "description": "Fresh cucumbers.",
+        "productType": "fresh",
+        "dimensions": "20x5x5 cm",
+        "averageRating": 4.133333333333334,
+        "cost": 0.8
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888de"
+        },
+        "product_id": "PRODUCT008",
+        "productName": "Pita Bread",
+        "description": "Soft pita bread.",
+        "productType": "fresh",
+        "dimensions": "15x15x5 cm",
+        "averageRating": 4.066666666666666,
+        "cost": 1.5
+      }
+    ]
+  },
+  {
+    "_id": "CUSTOMER008",
+    "purchasedProducts": [
+      "PRODUCT068",
+      "PRODUCT010",
+      "PRODUCT008",
+      "PRODUCT041",
+      "PRODUCT023",
+      "PRODUCT037",
+      "PRODUCT044",
+      "PRODUCT033",
+      "PRODUCT075"
+    ],
+    "customer_id": "CUSTOMER008",
+    "recommendedProducts": [
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688904"
+        },
+        "product_id": "PRODUCT046",
+        "productName": "Cookbook",
+        "description": "A collection of delicious recipes.",
+        "productType": "others",
+        "dimensions": "25x20x4 cm",
+        "averageRating": 4.75,
+        "cost": 18
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888ec"
+        },
+        "product_id": "PRODUCT022",
+        "productName": "Banana",
+        "description": "Sweet bananas.",
+        "productType": "fresh",
+        "dimensions": "20x10x5 cm",
+        "averageRating": 4.35,
+        "cost": 1
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688912"
+        },
+        "product_id": "PRODUCT060",
+        "productName": "Instrumental Album",
+        "description": "Peaceful instrumental tracks.",
+        "productType": "others",
+        "dimensions": "12x12x1 cm",
+        "averageRating": 4.25,
+        "cost": 19
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688913"
+        },
+        "product_id": "PRODUCT061",
+        "productName": "Apple iPhone 14",
+        "description": "Latest iPhone with A15 Bionic chip.",
+        "productType": "others",
+        "dimensions": "14x7x1 cm",
+        "averageRating": 4.05,
+        "cost": 999
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888d7"
+        },
+        "product_id": "PRODUCT001",
+        "productName": "White Bread",
+        "description": "Soft white bread loaf.",
+        "productType": "fresh",
+        "dimensions": "30x15x10 cm",
+        "averageRating": 3.9000000000000004,
+        "cost": 1.5
+      }
+    ]
+  },
+  {
+    "_id": "CUSTOMER020",
+    "purchasedProducts": [
+      "PRODUCT054",
+      "PRODUCT022",
+      "PRODUCT015",
+      "PRODUCT072",
+      "PRODUCT043",
+      "PRODUCT038",
+      "PRODUCT025",
+      "PRODUCT074",
+      "PRODUCT064"
+    ],
+    "customer_id": "CUSTOMER020",
+    "recommendedProducts": [
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688904"
+        },
+        "product_id": "PRODUCT046",
+        "productName": "Cookbook",
+        "description": "A collection of delicious recipes.",
+        "productType": "others",
+        "dimensions": "25x20x4 cm",
+        "averageRating": 4.75,
+        "cost": 18
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688912"
+        },
+        "product_id": "PRODUCT060",
+        "productName": "Instrumental Album",
+        "description": "Peaceful instrumental tracks.",
+        "productType": "others",
+        "dimensions": "12x12x1 cm",
+        "averageRating": 4.25,
+        "cost": 19
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888fb"
+        },
+        "product_id": "PRODUCT037",
+        "productName": "Cucumber",
+        "description": "Fresh cucumbers.",
+        "productType": "fresh",
+        "dimensions": "20x5x5 cm",
+        "averageRating": 4.133333333333334,
+        "cost": 0.8
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888de"
+        },
+        "product_id": "PRODUCT008",
+        "productName": "Pita Bread",
+        "description": "Soft pita bread.",
+        "productType": "fresh",
+        "dimensions": "15x15x5 cm",
+        "averageRating": 4.066666666666666,
+        "cost": 1.5
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688913"
+        },
+        "product_id": "PRODUCT061",
+        "productName": "Apple iPhone 14",
+        "description": "Latest iPhone with A15 Bionic chip.",
+        "productType": "others",
+        "dimensions": "14x7x1 cm",
+        "averageRating": 4.05,
+        "cost": 999
+      }
+    ]
+  },
+  {
+    "_id": "CUSTOMER019",
+    "purchasedProducts": [
+      "PRODUCT077",
+      "PRODUCT036",
+      "PRODUCT075",
+      "PRODUCT016",
+      "PRODUCT032",
+      "PRODUCT034",
+      "PRODUCT017",
+      "PRODUCT066",
+      "PRODUCT056",
+      "PRODUCT045"
+    ],
+    "customer_id": "CUSTOMER019",
+    "recommendedProducts": [
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688904"
+        },
+        "product_id": "PRODUCT046",
+        "productName": "Cookbook",
+        "description": "A collection of delicious recipes.",
+        "productType": "others",
+        "dimensions": "25x20x4 cm",
+        "averageRating": 4.75,
+        "cost": 18
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888ec"
+        },
+        "product_id": "PRODUCT022",
+        "productName": "Banana",
+        "description": "Sweet bananas.",
+        "productType": "fresh",
+        "dimensions": "20x10x5 cm",
+        "averageRating": 4.35,
+        "cost": 1
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688912"
+        },
+        "product_id": "PRODUCT060",
+        "productName": "Instrumental Album",
+        "description": "Peaceful instrumental tracks.",
+        "productType": "others",
+        "dimensions": "12x12x1 cm",
+        "averageRating": 4.25,
+        "cost": 19
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888fb"
+        },
+        "product_id": "PRODUCT037",
+        "productName": "Cucumber",
+        "description": "Fresh cucumbers.",
+        "productType": "fresh",
+        "dimensions": "20x5x5 cm",
+        "averageRating": 4.133333333333334,
+        "cost": 0.8
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888de"
+        },
+        "product_id": "PRODUCT008",
+        "productName": "Pita Bread",
+        "description": "Soft pita bread.",
+        "productType": "fresh",
+        "dimensions": "15x15x5 cm",
+        "averageRating": 4.066666666666666,
+        "cost": 1.5
+      }
+    ]
+  },
+  {
+    "_id": "CUSTOMER009",
+    "purchasedProducts": [
+      "PRODUCT018",
+      "PRODUCT054",
+      "PRODUCT050",
+      "PRODUCT009",
+      "PRODUCT080",
+      "PRODUCT051",
+      "PRODUCT012",
+      "PRODUCT076"
+    ],
+    "customer_id": "CUSTOMER009",
+    "recommendedProducts": [
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688904"
+        },
+        "product_id": "PRODUCT046",
+        "productName": "Cookbook",
+        "description": "A collection of delicious recipes.",
+        "productType": "others",
+        "dimensions": "25x20x4 cm",
+        "averageRating": 4.75,
+        "cost": 18
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888ec"
+        },
+        "product_id": "PRODUCT022",
+        "productName": "Banana",
+        "description": "Sweet bananas.",
+        "productType": "fresh",
+        "dimensions": "20x10x5 cm",
+        "averageRating": 4.35,
+        "cost": 1
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688912"
+        },
+        "product_id": "PRODUCT060",
+        "productName": "Instrumental Album",
+        "description": "Peaceful instrumental tracks.",
+        "productType": "others",
+        "dimensions": "12x12x1 cm",
+        "averageRating": 4.25,
+        "cost": 19
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888fb"
+        },
+        "product_id": "PRODUCT037",
+        "productName": "Cucumber",
+        "description": "Fresh cucumbers.",
+        "productType": "fresh",
+        "dimensions": "20x5x5 cm",
+        "averageRating": 4.133333333333334,
+        "cost": 0.8
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888de"
+        },
+        "product_id": "PRODUCT008",
+        "productName": "Pita Bread",
+        "description": "Soft pita bread.",
+        "productType": "fresh",
+        "dimensions": "15x15x5 cm",
+        "averageRating": 4.066666666666666,
+        "cost": 1.5
+      }
+    ]
+  },
+  {
+    "_id": "CUSTOMER017",
+    "purchasedProducts": [
+      "PRODUCT064",
+      "PRODUCT077",
+      "PRODUCT076",
+      "PRODUCT075",
+      "PRODUCT035",
+      "PRODUCT048",
+      "PRODUCT029",
+      "PRODUCT024",
+      "PRODUCT050",
+      "PRODUCT019"
+    ],
+    "customer_id": "CUSTOMER017",
+    "recommendedProducts": [
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688904"
+        },
+        "product_id": "PRODUCT046",
+        "productName": "Cookbook",
+        "description": "A collection of delicious recipes.",
+        "productType": "others",
+        "dimensions": "25x20x4 cm",
+        "averageRating": 4.75,
+        "cost": 18
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888ec"
+        },
+        "product_id": "PRODUCT022",
+        "productName": "Banana",
+        "description": "Sweet bananas.",
+        "productType": "fresh",
+        "dimensions": "20x10x5 cm",
+        "averageRating": 4.35,
+        "cost": 1
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b5688912"
+        },
+        "product_id": "PRODUCT060",
+        "productName": "Instrumental Album",
+        "description": "Peaceful instrumental tracks.",
+        "productType": "others",
+        "dimensions": "12x12x1 cm",
+        "averageRating": 4.25,
+        "cost": 19
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888fb"
+        },
+        "product_id": "PRODUCT037",
+        "productName": "Cucumber",
+        "description": "Fresh cucumbers.",
+        "productType": "fresh",
+        "dimensions": "20x5x5 cm",
+        "averageRating": 4.133333333333334,
+        "cost": 0.8
+      },
+      {
+        "_id": {
+          "$oid": "676c21a48226b2d9b56888de"
+        },
+        "product_id": "PRODUCT008",
+        "productName": "Pita Bread",
+        "description": "Soft pita bread.",
+        "productType": "fresh",
+        "dimensions": "15x15x5 cm",
+        "averageRating": 4.066666666666666,
+        "cost": 1.5
+      }
+    ]
+  }]

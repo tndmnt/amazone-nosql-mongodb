@@ -1,0 +1,480 @@
+[{
+  "_id": {
+    "$oid": "676c218a8226b2d9b568880a"
+  },
+  "product_id": "PRODUCT001",
+  "store_id": "STORE001",
+  "category": "bakery",
+  "weightOrQuantity": 0.5,
+  "expiryDate": "2024-12-31",
+  "countryOfRegion": "USA",
+  "standardPrice": 1.5
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b568880b"
+  },
+  "product_id": "PRODUCT002",
+  "store_id": "STORE002",
+  "category": "bakery",
+  "weightOrQuantity": 0.2,
+  "expiryDate": "2024-12-20",
+  "countryOfRegion": "France",
+  "standardPrice": 2
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b568880c"
+  },
+  "product_id": "PRODUCT003",
+  "store_id": "STORE003",
+  "category": "bakery",
+  "weightOrQuantity": 0.3,
+  "expiryDate": "2024-12-25",
+  "countryOfRegion": "Canada",
+  "standardPrice": 1
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b568880d"
+  },
+  "product_id": "PRODUCT004",
+  "store_id": "STORE004",
+  "category": "bakery",
+  "weightOrQuantity": 0.25,
+  "expiryDate": "2024-12-15",
+  "countryOfRegion": "Germany",
+  "standardPrice": 1.8
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b568880e"
+  },
+  "product_id": "PRODUCT005",
+  "store_id": "STORE005",
+  "category": "bakery",
+  "weightOrQuantity": 0.5,
+  "expiryDate": "2024-12-30",
+  "countryOfRegion": "Italy",
+  "standardPrice": 2.5
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b568880f"
+  },
+  "product_id": "PRODUCT006",
+  "store_id": "STORE001",
+  "category": "bakery",
+  "weightOrQuantity": 0.8,
+  "expiryDate": "2024-12-28",
+  "countryOfRegion": "USA",
+  "standardPrice": 3
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b5688810"
+  },
+  "product_id": "PRODUCT007",
+  "store_id": "STORE002",
+  "category": "bakery",
+  "weightOrQuantity": 0.15,
+  "expiryDate": "2024-12-18",
+  "countryOfRegion": "Canada",
+  "standardPrice": 1.2
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b5688811"
+  },
+  "product_id": "PRODUCT008",
+  "store_id": "STORE003",
+  "category": "bakery",
+  "weightOrQuantity": 0.4,
+  "expiryDate": "2024-12-21",
+  "countryOfRegion": "Greece",
+  "standardPrice": 1.5
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b5688812"
+  },
+  "product_id": "PRODUCT009",
+  "store_id": "STORE004",
+  "category": "bakery",
+  "weightOrQuantity": 0.6,
+  "expiryDate": "2024-12-27",
+  "countryOfRegion": "France",
+  "standardPrice": 3.5
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b5688813"
+  },
+  "product_id": "PRODUCT010",
+  "store_id": "STORE005",
+  "category": "bakery",
+  "weightOrQuantity": 0.3,
+  "expiryDate": "2024-12-22",
+  "countryOfRegion": "Germany",
+  "standardPrice": 2
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b5688814"
+  },
+  "product_id": "PRODUCT011",
+  "store_id": "STORE001",
+  "category": "drinks",
+  "weightOrQuantity": 1,
+  "expiryDate": "2025-01-15",
+  "countryOfRegion": "Brazil",
+  "standardPrice": 3
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b5688815"
+  },
+  "product_id": "PRODUCT012",
+  "store_id": "STORE002",
+  "category": "drinks",
+  "weightOrQuantity": 1,
+  "expiryDate": "2025-01-10",
+  "countryOfRegion": "Australia",
+  "standardPrice": 1.5
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b5688816"
+  },
+  "product_id": "PRODUCT013",
+  "store_id": "STORE003",
+  "category": "drinks",
+  "weightOrQuantity": 0.75,
+  "expiryDate": "2025-02-01",
+  "countryOfRegion": "Italy",
+  "standardPrice": 15
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b5688817"
+  },
+  "product_id": "PRODUCT014",
+  "store_id": "STORE004",
+  "category": "drinks",
+  "weightOrQuantity": 1.5,
+  "expiryDate": "2025-01-05",
+  "countryOfRegion": "USA",
+  "standardPrice": 1.2
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b5688818"
+  },
+  "product_id": "PRODUCT015",
+  "store_id": "STORE005",
+  "category": "drinks",
+  "weightOrQuantity": 1,
+  "expiryDate": "2025-01-20",
+  "countryOfRegion": "Canada",
+  "standardPrice": 2
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b5688819"
+  },
+  "product_id": "PRODUCT016",
+  "store_id": "STORE001",
+  "category": "drinks",
+  "weightOrQuantity": 1,
+  "expiryDate": "2025-01-25",
+  "countryOfRegion": "France",
+  "standardPrice": 2.5
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b568881a"
+  },
+  "product_id": "PRODUCT017",
+  "store_id": "STORE002",
+  "category": "drinks",
+  "weightOrQuantity": 0.25,
+  "expiryDate": "2025-01-08",
+  "countryOfRegion": "Germany",
+  "standardPrice": 1.8
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b568881b"
+  },
+  "product_id": "PRODUCT018",
+  "store_id": "STORE003",
+  "category": "drinks",
+  "weightOrQuantity": 0.3,
+  "expiryDate": "2025-01-12",
+  "countryOfRegion": "Italy",
+  "standardPrice": 2.8
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b568881c"
+  },
+  "product_id": "PRODUCT019",
+  "store_id": "STORE004",
+  "category": "drinks",
+  "weightOrQuantity": 1,
+  "expiryDate": "2025-02-15",
+  "countryOfRegion": "Greece",
+  "standardPrice": 3.5
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b568881d"
+  },
+  "product_id": "PRODUCT020",
+  "store_id": "STORE005",
+  "category": "drinks",
+  "weightOrQuantity": 0.8,
+  "expiryDate": "2025-01-30",
+  "countryOfRegion": "Brazil",
+  "standardPrice": 1.5
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b568881e"
+  },
+  "product_id": "PRODUCT021",
+  "store_id": "STORE001",
+  "category": "fruits",
+  "weightOrQuantity": 1.2,
+  "expiryDate": "2024-12-31",
+  "countryOfRegion": "USA",
+  "standardPrice": 1.2
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b568881f"
+  },
+  "product_id": "PRODUCT022",
+  "store_id": "STORE002",
+  "category": "fruits",
+  "weightOrQuantity": 1,
+  "expiryDate": "2024-12-20",
+  "countryOfRegion": "Ecuador",
+  "standardPrice": 1
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b5688820"
+  },
+  "product_id": "PRODUCT023",
+  "store_id": "STORE003",
+  "category": "fruits",
+  "weightOrQuantity": 0.5,
+  "expiryDate": "2024-12-25",
+  "countryOfRegion": "Italy",
+  "standardPrice": 2
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b5688821"
+  },
+  "product_id": "PRODUCT024",
+  "store_id": "STORE004",
+  "category": "fruits",
+  "weightOrQuantity": 0.8,
+  "expiryDate": "2024-12-15",
+  "countryOfRegion": "Spain",
+  "standardPrice": 1.5
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b5688822"
+  },
+  "product_id": "PRODUCT025",
+  "store_id": "STORE005",
+  "category": "fruits",
+  "weightOrQuantity": 3,
+  "expiryDate": "2024-12-30",
+  "countryOfRegion": "Mexico",
+  "standardPrice": 3
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b5688823"
+  },
+  "product_id": "PRODUCT026",
+  "store_id": "STORE001",
+  "category": "fruits",
+  "weightOrQuantity": 2,
+  "expiryDate": "2024-12-28",
+  "countryOfRegion": "Thailand",
+  "standardPrice": 1.8
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b5688824"
+  },
+  "product_id": "PRODUCT027",
+  "store_id": "STORE002",
+  "category": "fruits",
+  "weightOrQuantity": 1.5,
+  "expiryDate": "2024-12-26",
+  "countryOfRegion": "India",
+  "standardPrice": 3.5
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b5688825"
+  },
+  "product_id": "PRODUCT028",
+  "store_id": "STORE003",
+  "category": "fruits",
+  "weightOrQuantity": 0.8,
+  "expiryDate": "2024-12-29",
+  "countryOfRegion": "USA",
+  "standardPrice": 2.5
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b5688826"
+  },
+  "product_id": "PRODUCT029",
+  "store_id": "STORE004",
+  "category": "fruits",
+  "weightOrQuantity": 1,
+  "expiryDate": "2024-12-30",
+  "countryOfRegion": "Brazil",
+  "standardPrice": 3
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b5688827"
+  },
+  "product_id": "PRODUCT030",
+  "store_id": "STORE005",
+  "category": "fruits",
+  "weightOrQuantity": 1.2,
+  "expiryDate": "2025-01-02",
+  "countryOfRegion": "China",
+  "standardPrice": 2
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b5688828"
+  },
+  "product_id": "PRODUCT031",
+  "store_id": "STORE001",
+  "category": "vegetables",
+  "weightOrQuantity": 0.5,
+  "expiryDate": "2024-12-15",
+  "countryOfRegion": "USA",
+  "standardPrice": 0.8
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b5688829"
+  },
+  "product_id": "PRODUCT032",
+  "store_id": "STORE002",
+  "category": "vegetables",
+  "weightOrQuantity": 0.75,
+  "expiryDate": "2024-12-20",
+  "countryOfRegion": "Canada",
+  "standardPrice": 1.5
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b568882a"
+  },
+  "product_id": "PRODUCT033",
+  "store_id": "STORE003",
+  "category": "vegetables",
+  "weightOrQuantity": 1,
+  "expiryDate": "2024-12-18",
+  "countryOfRegion": "Germany",
+  "standardPrice": 1.2
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b568882b"
+  },
+  "product_id": "PRODUCT034",
+  "store_id": "STORE004",
+  "category": "vegetables",
+  "weightOrQuantity": 2,
+  "expiryDate": "2024-12-25",
+  "countryOfRegion": "India",
+  "standardPrice": 0.6
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b568882c"
+  },
+  "product_id": "PRODUCT035",
+  "store_id": "STORE005",
+  "category": "vegetables",
+  "weightOrQuantity": 1.5,
+  "expiryDate": "2024-12-22",
+  "countryOfRegion": "France",
+  "standardPrice": 0.9
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b568882d"
+  },
+  "product_id": "PRODUCT036",
+  "store_id": "STORE001",
+  "category": "vegetables",
+  "weightOrQuantity": 1.8,
+  "expiryDate": "2024-12-30",
+  "countryOfRegion": "Italy",
+  "standardPrice": 1
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b568882e"
+  },
+  "product_id": "PRODUCT037",
+  "store_id": "STORE002",
+  "category": "vegetables",
+  "weightOrQuantity": 1.2,
+  "expiryDate": "2024-12-28",
+  "countryOfRegion": "Thailand",
+  "standardPrice": 0.8
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b568882f"
+  },
+  "product_id": "PRODUCT038",
+  "store_id": "STORE003",
+  "category": "vegetables",
+  "weightOrQuantity": 0.75,
+  "expiryDate": "2024-12-26",
+  "countryOfRegion": "Spain",
+  "standardPrice": 1.2
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b5688830"
+  },
+  "product_id": "PRODUCT039",
+  "store_id": "STORE004",
+  "category": "vegetables",
+  "weightOrQuantity": 1.6,
+  "expiryDate": "2024-12-29",
+  "countryOfRegion": "Greece",
+  "standardPrice": 1
+},
+{
+  "_id": {
+    "$oid": "676c218a8226b2d9b5688831"
+  },
+  "product_id": "PRODUCT040",
+  "store_id": "STORE005",
+  "category": "vegetables",
+  "weightOrQuantity": 2,
+  "expiryDate": "2024-12-31",
+  "countryOfRegion": "USA",
+  "standardPrice": 1.3
+}]

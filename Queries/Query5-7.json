@@ -1,0 +1,118 @@
+// Query 3 Step 1: Select a customer and the product he wants. If the customer has an unpaid current order, add the products to the order. If there is no unpaid order, create a new unpaid order and add it.
+var customerId = "CUSTOMER009";
+var newProduct = { product_id: "PRODUCT001", productType: "fresh", quantity: 3 };
+
+var order = db.getCollection('CurrentOrders').findOne({ customer_id: customerId, orderStatus: "unpaid" });
+
+if (order) {
+    var updateResult = db.CurrentOrders.updateOne(
+        { _id: order._id },
+        { $push: { currentOrderItems: newProduct } }
+    );
+    print("Update result:");
+    printjson(updateResult); 
+    
+    if (updateResult.modifiedCount > 0) {
+        var updatedOrder = db.CurrentOrders.findOne({ _id: order._id });
+        print("Updated Order Details:");
+        printjson(updatedOrder); 
+    } else {
+        print("No changes made to the existing order.");
+    }
+} else {
+    var newOrder = {
+        order_id: "ORDER" + Math.floor(Math.random() * 100000).toString(),
+        customer_id: customerId,
+        orderDate: new Date().toISOString().slice(0, 10),
+        partner_id: "PARTNER001",
+        currentOrderItems: [newProduct],
+        totalOrderCost: null,
+        orderStatus: "unpaid"
+    };
+    var insertResult = db.getCollection('CurrentOrders').insertOne(newOrder);
+    print("New order created:");
+    printjson(insertResult); 
+
+    if (insertResult.acknowledged) {
+        var createdOrder = db.getCollection('CurrentOrders').findOne({ _id: insertResult.insertedId });
+        print("New Order Details:");
+        printjson(createdOrder); 
+    } else {
+        print("Failed to create a new order.");
+    }
+}
+
+// Query 3 Step 2: Update total cost.
+db.getCollection('CurrentOrders').aggregate([
+    { $match: { order_id: "ORDER102" } },
+
+    { $unwind: "$currentOrderItems" },
+
+    {
+      $lookup: {
+        from: "Products",
+        localField: "currentOrderItems.product_id",
+        foreignField: "product_id",
+        as: "productInfo"
+      }
+    },
+    { $unwind: "$productInfo" },
+
+    {
+      $lookup: {
+        from: "FreshProducts",
+        let: { product_id: "$currentOrderItems.product_id", productType: "$productInfo.productType" },
+        pipeline: [
+          { $match: { $expr: { $and: [{ $eq: ["$product_id", "$$product_id"] }, { $eq: ["$$productType", "fresh"] }] } } }
+        ],
+        as: "freshProductInfo"
+      }
+    },
+    {
+      $lookup: {
+        from: "OtherProducts",
+        let: { product_id: "$currentOrderItems.product_id", productType: "$productInfo.productType" },
+        pipeline: [
+          { $match: { $expr: { $and: [{ $eq: ["$product_id", "$$product_id"] }, { $eq: ["$$productType", "others"] }] } } }
+        ],
+        as: "otherProductInfo"
+      }
+    },
+
+    {
+      $project: {
+        order_id: 1,
+        itemTotalPrice: {
+          $multiply: [
+            "$currentOrderItems.quantity",
+            {
+              $cond: {
+                if: { $eq: ["$productInfo.productType", "fresh"] },
+                then: { $arrayElemAt: ["$freshProductInfo.standardPrice", 0] },
+                else: { $arrayElemAt: ["$otherProductInfo.standardPrice", 0] }
+              }
+            }
+          ]
+        }
+      }
+    },
+
+    {
+      $group: {
+        _id: "$order_id",
+        totalOrderCost: { $sum: "$itemTotalPrice" }
+      }
+    }
+]).forEach(result => {
+  db.CurrentOrders.updateOne(
+    { order_id: result._id },
+    { $set: { totalOrderCost: result.totalOrderCost } }
+  );
+});
+
+db.getCollection('CurrentOrders').find({order_id:"ORDER102"})
+
+// Query 3 Step 3: Set orderStatus to paid
+db.getCollection('CurrentOrders').updateOne({order_id: 'ORDER102'},{$set:{orderStatus:"paid"}});
+var updatedOrder = db.getCollection('CurrentOrders').findOne({ order_id: 'ORDER102' }); 
+printjson(updatedOrder);

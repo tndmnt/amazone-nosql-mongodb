@@ -1,0 +1,672 @@
+[{
+    "_id": "PRODUCT056",
+    "totalSalesQuantity": 26,
+    "productId": "PRODUCT056",
+    "currentInventory": 150,
+    "totalSalesValue": 754
+  },
+  {
+    "_id": "PRODUCT056",
+    "totalSalesQuantity": 26,
+    "productId": "PRODUCT056",
+    "currentInventory": 120,
+    "totalSalesValue": 754
+  },
+  {
+    "_id": "PRODUCT034",
+    "totalSalesQuantity": 16,
+    "productId": "PRODUCT034",
+    "currentInventory": 220,
+    "totalSalesValue": 9.6
+  },
+  {
+    "_id": "PRODUCT034",
+    "totalSalesQuantity": 16,
+    "productId": "PRODUCT034",
+    "currentInventory": 215,
+    "totalSalesValue": 9.6
+  },
+  {
+    "_id": "PRODUCT049",
+    "totalSalesQuantity": 14,
+    "productId": "PRODUCT049",
+    "currentInventory": 133,
+    "totalSalesValue": 140
+  },
+  {
+    "_id": "PRODUCT049",
+    "totalSalesQuantity": 14,
+    "productId": "PRODUCT049",
+    "currentInventory": 412,
+    "totalSalesValue": 140
+  },
+  {
+    "_id": "PRODUCT051",
+    "totalSalesQuantity": 4,
+    "productId": "PRODUCT051",
+    "currentInventory": 356,
+    "totalSalesValue": 220
+  },
+  {
+    "_id": "PRODUCT051",
+    "totalSalesQuantity": 4,
+    "productId": "PRODUCT051",
+    "currentInventory": 273,
+    "totalSalesValue": 220
+  },
+  {
+    "_id": "PRODUCT080",
+    "totalSalesQuantity": 15,
+    "productId": "PRODUCT080",
+    "currentInventory": 233,
+    "totalSalesValue": 1845
+  },
+  {
+    "_id": "PRODUCT080",
+    "totalSalesQuantity": 15,
+    "productId": "PRODUCT080",
+    "currentInventory": 248,
+    "totalSalesValue": 1845
+  },
+  {
+    "_id": "PRODUCT015",
+    "totalSalesQuantity": 4,
+    "productId": "PRODUCT015",
+    "currentInventory": 120,
+    "totalSalesValue": 8
+  },
+  {
+    "_id": "PRODUCT015",
+    "totalSalesQuantity": 4,
+    "productId": "PRODUCT015",
+    "currentInventory": 115,
+    "totalSalesValue": 8
+  },
+  {
+    "_id": "PRODUCT078",
+    "totalSalesQuantity": 19,
+    "productId": "PRODUCT078",
+    "currentInventory": 143,
+    "totalSalesValue": 988
+  },
+  {
+    "_id": "PRODUCT078",
+    "totalSalesQuantity": 19,
+    "productId": "PRODUCT078",
+    "currentInventory": 189,
+    "totalSalesValue": 988
+  },
+  {
+    "_id": "PRODUCT070",
+    "totalSalesQuantity": 6,
+    "productId": "PRODUCT070",
+    "currentInventory": 262,
+    "totalSalesValue": 126
+  },
+  {
+    "_id": "PRODUCT070",
+    "totalSalesQuantity": 6,
+    "productId": "PRODUCT070",
+    "currentInventory": 302,
+    "totalSalesValue": 126
+  },
+  {
+    "_id": "PRODUCT039",
+    "totalSalesQuantity": 16,
+    "productId": "PRODUCT039",
+    "currentInventory": 230,
+    "totalSalesValue": 16
+  },
+  {
+    "_id": "PRODUCT039",
+    "totalSalesQuantity": 16,
+    "productId": "PRODUCT039",
+    "currentInventory": 225,
+    "totalSalesValue": 16
+  },
+  {
+    "_id": "PRODUCT027",
+    "totalSalesQuantity": 2,
+    "productId": "PRODUCT027",
+    "currentInventory": 220,
+    "totalSalesValue": 7
+  },
+  {
+    "_id": "PRODUCT027",
+    "totalSalesQuantity": 2,
+    "productId": "PRODUCT027",
+    "currentInventory": 210,
+    "totalSalesValue": 7
+  },
+  {
+    "_id": "PRODUCT054",
+    "totalSalesQuantity": 7,
+    "productId": "PRODUCT054",
+    "currentInventory": 183,
+    "totalSalesValue": 77
+  },
+  {
+    "_id": "PRODUCT054",
+    "totalSalesQuantity": 7,
+    "productId": "PRODUCT054",
+    "currentInventory": 258,
+    "totalSalesValue": 77
+  },
+  {
+    "_id": "PRODUCT010",
+    "totalSalesQuantity": 19,
+    "productId": "PRODUCT010",
+    "currentInventory": 100,
+    "totalSalesValue": 38
+  },
+  {
+    "_id": "PRODUCT010",
+    "totalSalesQuantity": 19,
+    "productId": "PRODUCT010",
+    "currentInventory": 95,
+    "totalSalesValue": 38
+  },
+  {
+    "_id": "PRODUCT048",
+    "totalSalesQuantity": 33,
+    "productId": "PRODUCT048",
+    "currentInventory": 210,
+    "totalSalesValue": 1419
+  },
+  {
+    "_id": "PRODUCT048",
+    "totalSalesQuantity": 33,
+    "productId": "PRODUCT048",
+    "currentInventory": 98,
+    "totalSalesValue": 1419
+  },
+  {
+    "_id": "PRODUCT014",
+    "totalSalesQuantity": 4,
+    "productId": "PRODUCT014",
+    "currentInventory": 300,
+    "totalSalesValue": 4.8
+  },
+  {
+    "_id": "PRODUCT014",
+    "totalSalesQuantity": 4,
+    "productId": "PRODUCT014",
+    "currentInventory": 290,
+    "totalSalesValue": 4.8
+  },
+  {
+    "_id": "PRODUCT031",
+    "totalSalesQuantity": 3,
+    "productId": "PRODUCT031",
+    "currentInventory": 170,
+    "totalSalesValue": 2.4000000000000004
+  },
+  {
+    "_id": "PRODUCT031",
+    "totalSalesQuantity": 3,
+    "productId": "PRODUCT031",
+    "currentInventory": 160,
+    "totalSalesValue": 2.4000000000000004
+  },
+  {
+    "_id": "PRODUCT004",
+    "totalSalesQuantity": 9,
+    "productId": "PRODUCT004",
+    "currentInventory": 300,
+    "totalSalesValue": 16.2
+  },
+  {
+    "_id": "PRODUCT004",
+    "totalSalesQuantity": 9,
+    "productId": "PRODUCT004",
+    "currentInventory": 290,
+    "totalSalesValue": 16.2
+  },
+  {
+    "_id": "PRODUCT008",
+    "totalSalesQuantity": 2,
+    "productId": "PRODUCT008",
+    "currentInventory": 200,
+    "totalSalesValue": 3
+  },
+  {
+    "_id": "PRODUCT008",
+    "totalSalesQuantity": 2,
+    "productId": "PRODUCT008",
+    "currentInventory": 190,
+    "totalSalesValue": 3
+  },
+  {
+    "_id": "PRODUCT005",
+    "totalSalesQuantity": 9,
+    "productId": "PRODUCT005",
+    "currentInventory": 120,
+    "totalSalesValue": 22.5
+  },
+  {
+    "_id": "PRODUCT005",
+    "totalSalesQuantity": 9,
+    "productId": "PRODUCT005",
+    "currentInventory": 110,
+    "totalSalesValue": 22.5
+  },
+  {
+    "_id": "PRODUCT057",
+    "totalSalesQuantity": 6,
+    "productId": "PRODUCT057",
+    "currentInventory": 392,
+    "totalSalesValue": 150
+  },
+  {
+    "_id": "PRODUCT057",
+    "totalSalesQuantity": 6,
+    "productId": "PRODUCT057",
+    "currentInventory": 280,
+    "totalSalesValue": 150
+  },
+  {
+    "_id": "PRODUCT026",
+    "totalSalesQuantity": 4,
+    "productId": "PRODUCT026",
+    "currentInventory": 180,
+    "totalSalesValue": 7.2
+  },
+  {
+    "_id": "PRODUCT026",
+    "totalSalesQuantity": 4,
+    "productId": "PRODUCT026",
+    "currentInventory": 170,
+    "totalSalesValue": 7.2
+  },
+  {
+    "_id": "PRODUCT059",
+    "totalSalesQuantity": 1,
+    "productId": "PRODUCT059",
+    "currentInventory": 143,
+    "totalSalesValue": 25
+  },
+  {
+    "_id": "PRODUCT059",
+    "totalSalesQuantity": 1,
+    "productId": "PRODUCT059",
+    "currentInventory": 248,
+    "totalSalesValue": 25
+  },
+  {
+    "_id": "PRODUCT044",
+    "totalSalesQuantity": 1,
+    "productId": "PRODUCT044",
+    "currentInventory": 367,
+    "totalSalesValue": 45
+  },
+  {
+    "_id": "PRODUCT044",
+    "totalSalesQuantity": 1,
+    "productId": "PRODUCT044",
+    "currentInventory": 276,
+    "totalSalesValue": 45
+  },
+  {
+    "_id": "PRODUCT064",
+    "totalSalesQuantity": 20,
+    "productId": "PRODUCT064",
+    "currentInventory": 176,
+    "totalSalesValue": 420
+  },
+  {
+    "_id": "PRODUCT064",
+    "totalSalesQuantity": 20,
+    "productId": "PRODUCT064",
+    "currentInventory": 209,
+    "totalSalesValue": 420
+  },
+  {
+    "_id": "PRODUCT024",
+    "totalSalesQuantity": 7,
+    "productId": "PRODUCT024",
+    "currentInventory": 300,
+    "totalSalesValue": 10.5
+  },
+  {
+    "_id": "PRODUCT024",
+    "totalSalesQuantity": 7,
+    "productId": "PRODUCT024",
+    "currentInventory": 290,
+    "totalSalesValue": 10.5
+  },
+  {
+    "_id": "PRODUCT038",
+    "totalSalesQuantity": 1,
+    "productId": "PRODUCT038",
+    "currentInventory": 215,
+    "totalSalesValue": 1.2
+  },
+  {
+    "_id": "PRODUCT038",
+    "totalSalesQuantity": 1,
+    "productId": "PRODUCT038",
+    "currentInventory": 210,
+    "totalSalesValue": 1.2
+  },
+  {
+    "_id": "PRODUCT065",
+    "totalSalesQuantity": 12,
+    "productId": "PRODUCT065",
+    "currentInventory": 250,
+    "totalSalesValue": 120
+  },
+  {
+    "_id": "PRODUCT065",
+    "totalSalesQuantity": 12,
+    "productId": "PRODUCT065",
+    "currentInventory": 279,
+    "totalSalesValue": 120
+  },
+  {
+    "_id": "PRODUCT018",
+    "totalSalesQuantity": 3,
+    "productId": "PRODUCT018",
+    "currentInventory": 150,
+    "totalSalesValue": 8.399999999999999
+  },
+  {
+    "_id": "PRODUCT018",
+    "totalSalesQuantity": 3,
+    "productId": "PRODUCT018",
+    "currentInventory": 145,
+    "totalSalesValue": 8.399999999999999
+  },
+  {
+    "_id": "PRODUCT055",
+    "totalSalesQuantity": 15,
+    "productId": "PRODUCT055",
+    "currentInventory": 345,
+    "totalSalesValue": 435
+  },
+  {
+    "_id": "PRODUCT055",
+    "totalSalesQuantity": 15,
+    "productId": "PRODUCT055",
+    "currentInventory": 408,
+    "totalSalesValue": 435
+  },
+  {
+    "_id": "PRODUCT061",
+    "totalSalesQuantity": 12,
+    "productId": "PRODUCT061",
+    "currentInventory": 223,
+    "totalSalesValue": 156
+  },
+  {
+    "_id": "PRODUCT061",
+    "totalSalesQuantity": 12,
+    "productId": "PRODUCT061",
+    "currentInventory": 319,
+    "totalSalesValue": 156
+  },
+  {
+    "_id": "PRODUCT037",
+    "totalSalesQuantity": 7,
+    "productId": "PRODUCT037",
+    "currentInventory": 145,
+    "totalSalesValue": 5.6000000000000005
+  },
+  {
+    "_id": "PRODUCT037",
+    "totalSalesQuantity": 7,
+    "productId": "PRODUCT037",
+    "currentInventory": 140,
+    "totalSalesValue": 5.6000000000000005
+  },
+  {
+    "_id": "PRODUCT069",
+    "totalSalesQuantity": 19,
+    "productId": "PRODUCT069",
+    "currentInventory": 342,
+    "totalSalesValue": 323
+  },
+  {
+    "_id": "PRODUCT069",
+    "totalSalesQuantity": 19,
+    "productId": "PRODUCT069",
+    "currentInventory": 386,
+    "totalSalesValue": 323
+  },
+  {
+    "_id": "PRODUCT060",
+    "totalSalesQuantity": 1,
+    "productId": "PRODUCT060",
+    "currentInventory": 312,
+    "totalSalesValue": 16
+  },
+  {
+    "_id": "PRODUCT060",
+    "totalSalesQuantity": 1,
+    "productId": "PRODUCT060",
+    "currentInventory": 403,
+    "totalSalesValue": 16
+  },
+  {
+    "_id": "PRODUCT053",
+    "totalSalesQuantity": 3,
+    "productId": "PRODUCT053",
+    "currentInventory": 267,
+    "totalSalesValue": 51
+  },
+  {
+    "_id": "PRODUCT053",
+    "totalSalesQuantity": 3,
+    "productId": "PRODUCT053",
+    "currentInventory": 317,
+    "totalSalesValue": 51
+  },
+  {
+    "_id": "PRODUCT077",
+    "totalSalesQuantity": 6,
+    "productId": "PRODUCT077",
+    "currentInventory": 277,
+    "totalSalesValue": 546
+  },
+  {
+    "_id": "PRODUCT077",
+    "totalSalesQuantity": 6,
+    "productId": "PRODUCT077",
+    "currentInventory": 315,
+    "totalSalesValue": 546
+  },
+  {
+    "_id": "PRODUCT025",
+    "totalSalesQuantity": 1,
+    "productId": "PRODUCT025",
+    "currentInventory": 120,
+    "totalSalesValue": 3
+  },
+  {
+    "_id": "PRODUCT025",
+    "totalSalesQuantity": 1,
+    "productId": "PRODUCT025",
+    "currentInventory": 115,
+    "totalSalesValue": 3
+  },
+  {
+    "_id": "PRODUCT019",
+    "totalSalesQuantity": 1,
+    "productId": "PRODUCT019",
+    "currentInventory": 180,
+    "totalSalesValue": 3.5
+  },
+  {
+    "_id": "PRODUCT019",
+    "totalSalesQuantity": 1,
+    "productId": "PRODUCT019",
+    "currentInventory": 175,
+    "totalSalesValue": 3.5
+  },
+  {
+    "_id": "PRODUCT009",
+    "totalSalesQuantity": 3,
+    "productId": "PRODUCT009",
+    "currentInventory": 220,
+    "totalSalesValue": 10.5
+  },
+  {
+    "_id": "PRODUCT009",
+    "totalSalesQuantity": 3,
+    "productId": "PRODUCT009",
+    "currentInventory": 210,
+    "totalSalesValue": 10.5
+  },
+  {
+    "_id": "PRODUCT045",
+    "totalSalesQuantity": 14,
+    "productId": "PRODUCT045",
+    "currentInventory": 194,
+    "totalSalesValue": 56
+  },
+  {
+    "_id": "PRODUCT045",
+    "totalSalesQuantity": 14,
+    "productId": "PRODUCT045",
+    "currentInventory": 312,
+    "totalSalesValue": 56
+  },
+  {
+    "_id": "PRODUCT074",
+    "totalSalesQuantity": 5,
+    "productId": "PRODUCT074",
+    "currentInventory": 239,
+    "totalSalesValue": 85
+  },
+  {
+    "_id": "PRODUCT074",
+    "totalSalesQuantity": 5,
+    "productId": "PRODUCT074",
+    "currentInventory": 261,
+    "totalSalesValue": 85
+  },
+  {
+    "_id": "PRODUCT030",
+    "totalSalesQuantity": 6,
+    "productId": "PRODUCT030",
+    "currentInventory": 190,
+    "totalSalesValue": 12
+  },
+  {
+    "_id": "PRODUCT030",
+    "totalSalesQuantity": 6,
+    "productId": "PRODUCT030",
+    "currentInventory": 185,
+    "totalSalesValue": 12
+  },
+  {
+    "_id": "PRODUCT072",
+    "totalSalesQuantity": 10,
+    "productId": "PRODUCT072",
+    "currentInventory": 178,
+    "totalSalesValue": 170
+  },
+  {
+    "_id": "PRODUCT072",
+    "totalSalesQuantity": 10,
+    "productId": "PRODUCT072",
+    "currentInventory": 203,
+    "totalSalesValue": 170
+  },
+  {
+    "_id": "PRODUCT017",
+    "totalSalesQuantity": 10,
+    "productId": "PRODUCT017",
+    "currentInventory": 200,
+    "totalSalesValue": 18
+  },
+  {
+    "_id": "PRODUCT017",
+    "totalSalesQuantity": 10,
+    "productId": "PRODUCT017",
+    "currentInventory": 190,
+    "totalSalesValue": 18
+  },
+  {
+    "_id": "PRODUCT076",
+    "totalSalesQuantity": 11,
+    "productId": "PRODUCT076",
+    "currentInventory": 300,
+    "totalSalesValue": 1309
+  },
+  {
+    "_id": "PRODUCT076",
+    "totalSalesQuantity": 11,
+    "productId": "PRODUCT076",
+    "currentInventory": 328,
+    "totalSalesValue": 1309
+  },
+  {
+    "_id": "PRODUCT075",
+    "totalSalesQuantity": 17,
+    "productId": "PRODUCT075",
+    "currentInventory": 185,
+    "totalSalesValue": 374
+  },
+  {
+    "_id": "PRODUCT075",
+    "totalSalesQuantity": 17,
+    "productId": "PRODUCT075",
+    "currentInventory": 198,
+    "totalSalesValue": 374
+  },
+  {
+    "_id": "PRODUCT046",
+    "totalSalesQuantity": 5,
+    "productId": "PRODUCT046",
+    "currentInventory": 257,
+    "totalSalesValue": 435
+  },
+  {
+    "_id": "PRODUCT046",
+    "totalSalesQuantity": 5,
+    "productId": "PRODUCT046",
+    "currentInventory": 432,
+    "totalSalesValue": 435
+  },
+  {
+    "_id": "PRODUCT029",
+    "totalSalesQuantity": 10,
+    "productId": "PRODUCT029",
+    "currentInventory": 160,
+    "totalSalesValue": 30
+  },
+  {
+    "_id": "PRODUCT029",
+    "totalSalesQuantity": 10,
+    "productId": "PRODUCT029",
+    "currentInventory": 150,
+    "totalSalesValue": 30
+  },
+  {
+    "_id": "PRODUCT071",
+    "totalSalesQuantity": 10,
+    "productId": "PRODUCT071",
+    "currentInventory": 214,
+    "totalSalesValue": 140
+  },
+  {
+    "_id": "PRODUCT071",
+    "totalSalesQuantity": 10,
+    "productId": "PRODUCT071",
+    "currentInventory": 287,
+    "totalSalesValue": 140
+  },
+  {
+    "_id": "PRODUCT063",
+    "totalSalesQuantity": 1,
+    "productId": "PRODUCT063",
+    "currentInventory": 298,
+    "totalSalesValue": 23
+  },
+  {
+    "_id": "PRODUCT063",
+    "totalSalesQuantity": 1,
+    "productId": "PRODUCT063",
+    "currentInventory": 342,
+    "totalSalesValue": 23
+  }]

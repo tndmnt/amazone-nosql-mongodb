@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "676c21628226b2d9b568871a"
+  },
+  "product_id": "PRODUCT041",
+  "authorName": "George Orwell",
+  "publisher": "Secker & Warburg",
+  "yearOfPublication": "1949",
+  "isbn": "978-0-451-52493-5"
+},
+{
+  "_id": {
+    "$oid": "676c21628226b2d9b568871b"
+  },
+  "product_id": "PRODUCT042",
+  "authorName": "Jane Austen",
+  "publisher": "Thomas Egerton",
+  "yearOfPublication": "1813",
+  "isbn": "978-0-141-43951-8"
+},
+{
+  "_id": {
+    "$oid": "676c21628226b2d9b568871c"
+  },
+  "product_id": "PRODUCT043",
+  "authorName": "Leo Tolstoy",
+  "publisher": "The Russian Messenger",
+  "yearOfPublication": "1869",
+  "isbn": "978-0-140-44924-6"
+},
+{
+  "_id": {
+    "$oid": "676c21628226b2d9b568871d"
+  },
+  "product_id": "PRODUCT044",
+  "authorName": "Virginia Woolf",
+  "publisher": "Hogarth Press",
+  "yearOfPublication": "1927",
+  "isbn": "978-0-141-18234-3"
+},
+{
+  "_id": {
+    "$oid": "676c21628226b2d9b568871e"
+  },
+  "product_id": "PRODUCT045",
+  "authorName": "Gabriel García Márquez",
+  "publisher": "Editorial Sudamericana",
+  "yearOfPublication": "1967",
+  "isbn": "978-0-060-92979-6"
+},
+{
+  "_id": {
+    "$oid": "676c21628226b2d9b568871f"
+  },
+  "product_id": "PRODUCT046",
+  "authorName": "Charles Dickens",
+  "publisher": "Chapman & Hall",
+  "yearOfPublication": "1859",
+  "isbn": "978-0-141-43948-8"
+},
+{
+  "_id": {
+    "$oid": "676c21628226b2d9b5688720"
+  },
+  "product_id": "PRODUCT047",
+  "authorName": "Ernest Hemingway",
+  "publisher": "Charles Scribner's Sons",
+  "yearOfPublication": "1926",
+  "isbn": "978-0-140-18657-4"
+},
+{
+  "_id": {
+    "$oid": "676c21628226b2d9b5688721"
+  },
+  "product_id": "PRODUCT048",
+  "authorName": "J.K. Rowling",
+  "publisher": "Bloomsbury",
+  "yearOfPublication": "1997",
+  "isbn": "978-0-747-53269-9"
+},
+{
+  "_id": {
+    "$oid": "676c21628226b2d9b5688722"
+  },
+  "product_id": "PRODUCT049",
+  "authorName": "Fyodor Dostoevsky",
+  "publisher": "The Russian Messenger",
+  "yearOfPublication": "1866",
+  "isbn": "978-0-140-44921-5"
+},
+{
+  "_id": {
+    "$oid": "676c21628226b2d9b5688723"
+  },
+  "product_id": "PRODUCT050",
+  "authorName": "Mark Twain",
+  "publisher": "Charles L. Webster and Company",
+  "yearOfPublication": "1884",
+  "isbn": "978-1-439-19628-6"
+}]

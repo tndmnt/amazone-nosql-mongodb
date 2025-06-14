@@ -1,0 +1,65 @@
+[{
+    "_id": "PARTNER003",
+    "Total_delivery_Orders": 3,
+    "partnerName": "Ethan Lee",
+    "presentLocation": {
+      "type": "Point",
+      "coordinates": [
+        -2.2404,
+        53.4766
+      ]
+    },
+    "partner_id": "PARTNER003"
+  },
+  {
+    "_id": "PARTNER004",
+    "Total_delivery_Orders": 0,
+    "partnerName": "Isabella Moore",
+    "presentLocation": {
+      "type": "Point",
+      "coordinates": [
+        -2.2439,
+        53.4824
+      ]
+    },
+    "partner_id": "PARTNER004"
+  },
+  {
+    "_id": "PARTNER002",
+    "Total_delivery_Orders": 0,
+    "partnerName": "Sophia Taylor",
+    "presentLocation": {
+      "type": "Point",
+      "coordinates": [
+        -2.2483,
+        53.4771
+      ]
+    },
+    "partner_id": "PARTNER002"
+  },
+  {
+    "_id": "PARTNER005",
+    "Total_delivery_Orders": 1,
+    "partnerName": "Liam Brown",
+    "presentLocation": {
+      "type": "Point",
+      "coordinates": [
+        -2.2234,
+        53.4872
+      ]
+    },
+    "partner_id": "PARTNER005"
+  },
+  {
+    "_id": "PARTNER001",
+    "Total_delivery_Orders": 0,
+    "partnerName": "Alex Johnson",
+    "presentLocation": {
+      "type": "Point",
+      "coordinates": [
+        -2.2375,
+        53.4819
+      ]
+    },
+    "partner_id": "PARTNER001"
+  }]

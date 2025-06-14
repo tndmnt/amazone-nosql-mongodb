@@ -1,0 +1,1760 @@
+[{
+  "_id": {
+    "$oid": "676c21868226b2d9b568876a"
+  },
+  "dailyInventoryLevel_id": "INV001",
+  "product_id": "PRODUCT001",
+  "inventoryQuantity": 150,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "Central Warehouse",
+  "storageWarehouseLocation": "Trafford Park, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b568876b"
+  },
+  "dailyInventoryLevel_id": "INV002",
+  "product_id": "PRODUCT001",
+  "inventoryQuantity": 140,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "Central Warehouse",
+  "storageWarehouseLocation": "Trafford Park, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b568876c"
+  },
+  "dailyInventoryLevel_id": "INV003",
+  "product_id": "PRODUCT002",
+  "inventoryQuantity": 200,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "North Warehouse",
+  "storageWarehouseLocation": "Cheetham Hill, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b568876d"
+  },
+  "dailyInventoryLevel_id": "INV004",
+  "product_id": "PRODUCT002",
+  "inventoryQuantity": 180,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "North Warehouse",
+  "storageWarehouseLocation": "Cheetham Hill, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b568876e"
+  },
+  "dailyInventoryLevel_id": "INV005",
+  "product_id": "PRODUCT003",
+  "inventoryQuantity": 100,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "East Warehouse",
+  "storageWarehouseLocation": "Ancoats, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b568876f"
+  },
+  "dailyInventoryLevel_id": "INV006",
+  "product_id": "PRODUCT003",
+  "inventoryQuantity": 95,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "East Warehouse",
+  "storageWarehouseLocation": "Ancoats, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688770"
+  },
+  "dailyInventoryLevel_id": "INV007",
+  "product_id": "PRODUCT004",
+  "inventoryQuantity": 300,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "South Warehouse",
+  "storageWarehouseLocation": "Didsbury, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688771"
+  },
+  "dailyInventoryLevel_id": "INV008",
+  "product_id": "PRODUCT004",
+  "inventoryQuantity": 290,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "South Warehouse",
+  "storageWarehouseLocation": "Didsbury, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688772"
+  },
+  "dailyInventoryLevel_id": "INV009",
+  "product_id": "PRODUCT005",
+  "inventoryQuantity": 120,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "West Warehouse",
+  "storageWarehouseLocation": "Salford, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688773"
+  },
+  "dailyInventoryLevel_id": "INV010",
+  "product_id": "PRODUCT005",
+  "inventoryQuantity": 110,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "West Warehouse",
+  "storageWarehouseLocation": "Salford, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688774"
+  },
+  "dailyInventoryLevel_id": "INV011",
+  "product_id": "PRODUCT006",
+  "inventoryQuantity": 180,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "Central Warehouse",
+  "storageWarehouseLocation": "Trafford Park, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688775"
+  },
+  "dailyInventoryLevel_id": "INV012",
+  "product_id": "PRODUCT006",
+  "inventoryQuantity": 170,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "Central Warehouse",
+  "storageWarehouseLocation": "Trafford Park, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688776"
+  },
+  "dailyInventoryLevel_id": "INV013",
+  "product_id": "PRODUCT007",
+  "inventoryQuantity": 150,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "North Warehouse",
+  "storageWarehouseLocation": "Cheetham Hill, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688777"
+  },
+  "dailyInventoryLevel_id": "INV014",
+  "product_id": "PRODUCT007",
+  "inventoryQuantity": 140,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "North Warehouse",
+  "storageWarehouseLocation": "Cheetham Hill, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688778"
+  },
+  "dailyInventoryLevel_id": "INV015",
+  "product_id": "PRODUCT008",
+  "inventoryQuantity": 200,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "East Warehouse",
+  "storageWarehouseLocation": "Ancoats, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688779"
+  },
+  "dailyInventoryLevel_id": "INV016",
+  "product_id": "PRODUCT008",
+  "inventoryQuantity": 190,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "East Warehouse",
+  "storageWarehouseLocation": "Ancoats, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b568877a"
+  },
+  "dailyInventoryLevel_id": "INV017",
+  "product_id": "PRODUCT009",
+  "inventoryQuantity": 220,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "South Warehouse",
+  "storageWarehouseLocation": "Didsbury, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b568877b"
+  },
+  "dailyInventoryLevel_id": "INV018",
+  "product_id": "PRODUCT009",
+  "inventoryQuantity": 210,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "South Warehouse",
+  "storageWarehouseLocation": "Didsbury, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b568877c"
+  },
+  "dailyInventoryLevel_id": "INV019",
+  "product_id": "PRODUCT010",
+  "inventoryQuantity": 100,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "West Warehouse",
+  "storageWarehouseLocation": "Salford, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b568877d"
+  },
+  "dailyInventoryLevel_id": "INV020",
+  "product_id": "PRODUCT010",
+  "inventoryQuantity": 95,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "West Warehouse",
+  "storageWarehouseLocation": "Salford, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b568877e"
+  },
+  "dailyInventoryLevel_id": "INV021",
+  "product_id": "PRODUCT011",
+  "inventoryQuantity": 200,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "Central Warehouse",
+  "storageWarehouseLocation": "Trafford Park, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b568877f"
+  },
+  "dailyInventoryLevel_id": "INV022",
+  "product_id": "PRODUCT011",
+  "inventoryQuantity": 190,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "Central Warehouse",
+  "storageWarehouseLocation": "Trafford Park, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688780"
+  },
+  "dailyInventoryLevel_id": "INV023",
+  "product_id": "PRODUCT012",
+  "inventoryQuantity": 180,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "North Warehouse",
+  "storageWarehouseLocation": "Cheetham Hill, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688781"
+  },
+  "dailyInventoryLevel_id": "INV024",
+  "product_id": "PRODUCT012",
+  "inventoryQuantity": 170,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "North Warehouse",
+  "storageWarehouseLocation": "Cheetham Hill, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688782"
+  },
+  "dailyInventoryLevel_id": "INV025",
+  "product_id": "PRODUCT013",
+  "inventoryQuantity": 250,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "East Warehouse",
+  "storageWarehouseLocation": "Ancoats, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688783"
+  },
+  "dailyInventoryLevel_id": "INV026",
+  "product_id": "PRODUCT013",
+  "inventoryQuantity": 240,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "East Warehouse",
+  "storageWarehouseLocation": "Ancoats, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688784"
+  },
+  "dailyInventoryLevel_id": "INV027",
+  "product_id": "PRODUCT014",
+  "inventoryQuantity": 300,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "South Warehouse",
+  "storageWarehouseLocation": "Didsbury, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688785"
+  },
+  "dailyInventoryLevel_id": "INV028",
+  "product_id": "PRODUCT014",
+  "inventoryQuantity": 290,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "South Warehouse",
+  "storageWarehouseLocation": "Didsbury, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688786"
+  },
+  "dailyInventoryLevel_id": "INV029",
+  "product_id": "PRODUCT015",
+  "inventoryQuantity": 120,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "West Warehouse",
+  "storageWarehouseLocation": "Salford, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688787"
+  },
+  "dailyInventoryLevel_id": "INV030",
+  "product_id": "PRODUCT015",
+  "inventoryQuantity": 115,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "West Warehouse",
+  "storageWarehouseLocation": "Salford, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688788"
+  },
+  "dailyInventoryLevel_id": "INV031",
+  "product_id": "PRODUCT016",
+  "inventoryQuantity": 300,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "Central Warehouse",
+  "storageWarehouseLocation": "Trafford Park, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688789"
+  },
+  "dailyInventoryLevel_id": "INV032",
+  "product_id": "PRODUCT016",
+  "inventoryQuantity": 290,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "Central Warehouse",
+  "storageWarehouseLocation": "Trafford Park, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b568878a"
+  },
+  "dailyInventoryLevel_id": "INV033",
+  "product_id": "PRODUCT017",
+  "inventoryQuantity": 200,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "North Warehouse",
+  "storageWarehouseLocation": "Cheetham Hill, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b568878b"
+  },
+  "dailyInventoryLevel_id": "INV034",
+  "product_id": "PRODUCT017",
+  "inventoryQuantity": 190,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "North Warehouse",
+  "storageWarehouseLocation": "Cheetham Hill, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b568878c"
+  },
+  "dailyInventoryLevel_id": "INV035",
+  "product_id": "PRODUCT018",
+  "inventoryQuantity": 150,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "East Warehouse",
+  "storageWarehouseLocation": "Ancoats, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b568878d"
+  },
+  "dailyInventoryLevel_id": "INV036",
+  "product_id": "PRODUCT018",
+  "inventoryQuantity": 145,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "East Warehouse",
+  "storageWarehouseLocation": "Ancoats, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b568878e"
+  },
+  "dailyInventoryLevel_id": "INV037",
+  "product_id": "PRODUCT019",
+  "inventoryQuantity": 180,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "South Warehouse",
+  "storageWarehouseLocation": "Didsbury, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b568878f"
+  },
+  "dailyInventoryLevel_id": "INV038",
+  "product_id": "PRODUCT019",
+  "inventoryQuantity": 175,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "South Warehouse",
+  "storageWarehouseLocation": "Didsbury, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688790"
+  },
+  "dailyInventoryLevel_id": "INV039",
+  "product_id": "PRODUCT020",
+  "inventoryQuantity": 220,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "West Warehouse",
+  "storageWarehouseLocation": "Salford, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688791"
+  },
+  "dailyInventoryLevel_id": "INV040",
+  "product_id": "PRODUCT020",
+  "inventoryQuantity": 210,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "West Warehouse",
+  "storageWarehouseLocation": "Salford, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688792"
+  },
+  "dailyInventoryLevel_id": "INV041",
+  "product_id": "PRODUCT021",
+  "inventoryQuantity": 200,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "Central Warehouse",
+  "storageWarehouseLocation": "Trafford Park, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688793"
+  },
+  "dailyInventoryLevel_id": "INV042",
+  "product_id": "PRODUCT021",
+  "inventoryQuantity": 190,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "Central Warehouse",
+  "storageWarehouseLocation": "Trafford Park, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688794"
+  },
+  "dailyInventoryLevel_id": "INV043",
+  "product_id": "PRODUCT022",
+  "inventoryQuantity": 180,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "North Warehouse",
+  "storageWarehouseLocation": "Cheetham Hill, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688795"
+  },
+  "dailyInventoryLevel_id": "INV044",
+  "product_id": "PRODUCT022",
+  "inventoryQuantity": 170,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "North Warehouse",
+  "storageWarehouseLocation": "Cheetham Hill, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688796"
+  },
+  "dailyInventoryLevel_id": "INV045",
+  "product_id": "PRODUCT023",
+  "inventoryQuantity": 250,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "East Warehouse",
+  "storageWarehouseLocation": "Ancoats, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688797"
+  },
+  "dailyInventoryLevel_id": "INV046",
+  "product_id": "PRODUCT023",
+  "inventoryQuantity": 240,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "East Warehouse",
+  "storageWarehouseLocation": "Ancoats, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688798"
+  },
+  "dailyInventoryLevel_id": "INV047",
+  "product_id": "PRODUCT024",
+  "inventoryQuantity": 300,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "South Warehouse",
+  "storageWarehouseLocation": "Didsbury, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688799"
+  },
+  "dailyInventoryLevel_id": "INV048",
+  "product_id": "PRODUCT024",
+  "inventoryQuantity": 290,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "South Warehouse",
+  "storageWarehouseLocation": "Didsbury, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b568879a"
+  },
+  "dailyInventoryLevel_id": "INV049",
+  "product_id": "PRODUCT025",
+  "inventoryQuantity": 120,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "West Warehouse",
+  "storageWarehouseLocation": "Salford, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b568879b"
+  },
+  "dailyInventoryLevel_id": "INV050",
+  "product_id": "PRODUCT025",
+  "inventoryQuantity": 115,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "West Warehouse",
+  "storageWarehouseLocation": "Salford, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b568879c"
+  },
+  "dailyInventoryLevel_id": "INV051",
+  "product_id": "PRODUCT026",
+  "inventoryQuantity": 180,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "Central Warehouse",
+  "storageWarehouseLocation": "Trafford Park, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b568879d"
+  },
+  "dailyInventoryLevel_id": "INV052",
+  "product_id": "PRODUCT026",
+  "inventoryQuantity": 170,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "Central Warehouse",
+  "storageWarehouseLocation": "Trafford Park, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b568879e"
+  },
+  "dailyInventoryLevel_id": "INV053",
+  "product_id": "PRODUCT027",
+  "inventoryQuantity": 220,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "North Warehouse",
+  "storageWarehouseLocation": "Cheetham Hill, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b568879f"
+  },
+  "dailyInventoryLevel_id": "INV054",
+  "product_id": "PRODUCT027",
+  "inventoryQuantity": 210,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "North Warehouse",
+  "storageWarehouseLocation": "Cheetham Hill, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887a0"
+  },
+  "dailyInventoryLevel_id": "INV055",
+  "product_id": "PRODUCT028",
+  "inventoryQuantity": 140,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "East Warehouse",
+  "storageWarehouseLocation": "Ancoats, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887a1"
+  },
+  "dailyInventoryLevel_id": "INV056",
+  "product_id": "PRODUCT028",
+  "inventoryQuantity": 130,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "East Warehouse",
+  "storageWarehouseLocation": "Ancoats, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887a2"
+  },
+  "dailyInventoryLevel_id": "INV057",
+  "product_id": "PRODUCT029",
+  "inventoryQuantity": 160,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "South Warehouse",
+  "storageWarehouseLocation": "Didsbury, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887a3"
+  },
+  "dailyInventoryLevel_id": "INV058",
+  "product_id": "PRODUCT029",
+  "inventoryQuantity": 150,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "South Warehouse",
+  "storageWarehouseLocation": "Didsbury, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887a4"
+  },
+  "dailyInventoryLevel_id": "INV059",
+  "product_id": "PRODUCT030",
+  "inventoryQuantity": 190,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "West Warehouse",
+  "storageWarehouseLocation": "Salford, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887a5"
+  },
+  "dailyInventoryLevel_id": "INV060",
+  "product_id": "PRODUCT030",
+  "inventoryQuantity": 185,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "West Warehouse",
+  "storageWarehouseLocation": "Salford, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887a6"
+  },
+  "dailyInventoryLevel_id": "INV061",
+  "product_id": "PRODUCT031",
+  "inventoryQuantity": 170,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "Central Warehouse",
+  "storageWarehouseLocation": "Trafford Park, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887a7"
+  },
+  "dailyInventoryLevel_id": "INV062",
+  "product_id": "PRODUCT031",
+  "inventoryQuantity": 160,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "Central Warehouse",
+  "storageWarehouseLocation": "Trafford Park, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887a8"
+  },
+  "dailyInventoryLevel_id": "INV063",
+  "product_id": "PRODUCT032",
+  "inventoryQuantity": 140,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "North Warehouse",
+  "storageWarehouseLocation": "Cheetham Hill, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887a9"
+  },
+  "dailyInventoryLevel_id": "INV064",
+  "product_id": "PRODUCT032",
+  "inventoryQuantity": 135,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "North Warehouse",
+  "storageWarehouseLocation": "Cheetham Hill, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887aa"
+  },
+  "dailyInventoryLevel_id": "INV065",
+  "product_id": "PRODUCT033",
+  "inventoryQuantity": 210,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "East Warehouse",
+  "storageWarehouseLocation": "Ancoats, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887ab"
+  },
+  "dailyInventoryLevel_id": "INV066",
+  "product_id": "PRODUCT033",
+  "inventoryQuantity": 200,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "East Warehouse",
+  "storageWarehouseLocation": "Ancoats, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887ac"
+  },
+  "dailyInventoryLevel_id": "INV067",
+  "product_id": "PRODUCT034",
+  "inventoryQuantity": 220,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "South Warehouse",
+  "storageWarehouseLocation": "Didsbury, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887ad"
+  },
+  "dailyInventoryLevel_id": "INV068",
+  "product_id": "PRODUCT034",
+  "inventoryQuantity": 215,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "South Warehouse",
+  "storageWarehouseLocation": "Didsbury, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887ae"
+  },
+  "dailyInventoryLevel_id": "INV069",
+  "product_id": "PRODUCT035",
+  "inventoryQuantity": 190,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "West Warehouse",
+  "storageWarehouseLocation": "Salford, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887af"
+  },
+  "dailyInventoryLevel_id": "INV070",
+  "product_id": "PRODUCT035",
+  "inventoryQuantity": 185,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "West Warehouse",
+  "storageWarehouseLocation": "Salford, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887b0"
+  },
+  "dailyInventoryLevel_id": "INV071",
+  "product_id": "PRODUCT036",
+  "inventoryQuantity": 175,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "Central Warehouse",
+  "storageWarehouseLocation": "Trafford Park, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887b1"
+  },
+  "dailyInventoryLevel_id": "INV072",
+  "product_id": "PRODUCT036",
+  "inventoryQuantity": 165,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "Central Warehouse",
+  "storageWarehouseLocation": "Trafford Park, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887b2"
+  },
+  "dailyInventoryLevel_id": "INV073",
+  "product_id": "PRODUCT037",
+  "inventoryQuantity": 145,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "North Warehouse",
+  "storageWarehouseLocation": "Cheetham Hill, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887b3"
+  },
+  "dailyInventoryLevel_id": "INV074",
+  "product_id": "PRODUCT037",
+  "inventoryQuantity": 140,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "North Warehouse",
+  "storageWarehouseLocation": "Cheetham Hill, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887b4"
+  },
+  "dailyInventoryLevel_id": "INV075",
+  "product_id": "PRODUCT038",
+  "inventoryQuantity": 215,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "East Warehouse",
+  "storageWarehouseLocation": "Ancoats, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887b5"
+  },
+  "dailyInventoryLevel_id": "INV076",
+  "product_id": "PRODUCT038",
+  "inventoryQuantity": 210,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "East Warehouse",
+  "storageWarehouseLocation": "Ancoats, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887b6"
+  },
+  "dailyInventoryLevel_id": "INV077",
+  "product_id": "PRODUCT039",
+  "inventoryQuantity": 230,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "South Warehouse",
+  "storageWarehouseLocation": "Didsbury, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887b7"
+  },
+  "dailyInventoryLevel_id": "INV078",
+  "product_id": "PRODUCT039",
+  "inventoryQuantity": 225,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "South Warehouse",
+  "storageWarehouseLocation": "Didsbury, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887b8"
+  },
+  "dailyInventoryLevel_id": "INV079",
+  "product_id": "PRODUCT040",
+  "inventoryQuantity": 200,
+  "date": "2024-12-05T00:00:00Z",
+  "storageWarehouseName": "West Warehouse",
+  "storageWarehouseLocation": "Salford, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887b9"
+  },
+  "dailyInventoryLevel_id": "INV080",
+  "product_id": "PRODUCT040",
+  "inventoryQuantity": 190,
+  "date": "2024-12-06T00:00:00Z",
+  "storageWarehouseName": "West Warehouse",
+  "storageWarehouseLocation": "Salford, Manchester"
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887ba"
+  },
+  "dailyInventoryLevel_id": "INV081",
+  "product_id": "PRODUCT041",
+  "inventoryQuantity": 265,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887bb"
+  },
+  "dailyInventoryLevel_id": "INV082",
+  "product_id": "PRODUCT041",
+  "inventoryQuantity": 398,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887bc"
+  },
+  "dailyInventoryLevel_id": "INV083",
+  "product_id": "PRODUCT042",
+  "inventoryQuantity": 123,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887bd"
+  },
+  "dailyInventoryLevel_id": "INV084",
+  "product_id": "PRODUCT042",
+  "inventoryQuantity": 312,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887be"
+  },
+  "dailyInventoryLevel_id": "INV085",
+  "product_id": "PRODUCT043",
+  "inventoryQuantity": 452,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887bf"
+  },
+  "dailyInventoryLevel_id": "INV086",
+  "product_id": "PRODUCT043",
+  "inventoryQuantity": 218,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887c0"
+  },
+  "dailyInventoryLevel_id": "INV087",
+  "product_id": "PRODUCT044",
+  "inventoryQuantity": 367,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887c1"
+  },
+  "dailyInventoryLevel_id": "INV088",
+  "product_id": "PRODUCT044",
+  "inventoryQuantity": 276,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887c2"
+  },
+  "dailyInventoryLevel_id": "INV089",
+  "product_id": "PRODUCT045",
+  "inventoryQuantity": 194,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887c3"
+  },
+  "dailyInventoryLevel_id": "INV090",
+  "product_id": "PRODUCT045",
+  "inventoryQuantity": 312,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887c4"
+  },
+  "dailyInventoryLevel_id": "INV091",
+  "product_id": "PRODUCT046",
+  "inventoryQuantity": 257,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887c5"
+  },
+  "dailyInventoryLevel_id": "INV092",
+  "product_id": "PRODUCT046",
+  "inventoryQuantity": 432,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887c6"
+  },
+  "dailyInventoryLevel_id": "INV093",
+  "product_id": "PRODUCT047",
+  "inventoryQuantity": 281,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887c7"
+  },
+  "dailyInventoryLevel_id": "INV094",
+  "product_id": "PRODUCT047",
+  "inventoryQuantity": 159,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887c8"
+  },
+  "dailyInventoryLevel_id": "INV095",
+  "product_id": "PRODUCT048",
+  "inventoryQuantity": 210,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887c9"
+  },
+  "dailyInventoryLevel_id": "INV096",
+  "product_id": "PRODUCT048",
+  "inventoryQuantity": 98,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887ca"
+  },
+  "dailyInventoryLevel_id": "INV097",
+  "product_id": "PRODUCT049",
+  "inventoryQuantity": 133,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887cb"
+  },
+  "dailyInventoryLevel_id": "INV098",
+  "product_id": "PRODUCT049",
+  "inventoryQuantity": 412,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887cc"
+  },
+  "dailyInventoryLevel_id": "INV099",
+  "product_id": "PRODUCT050",
+  "inventoryQuantity": 205,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887cd"
+  },
+  "dailyInventoryLevel_id": "INV100",
+  "product_id": "PRODUCT050",
+  "inventoryQuantity": 305,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887ce"
+  },
+  "dailyInventoryLevel_id": "INV101",
+  "product_id": "PRODUCT051",
+  "inventoryQuantity": 356,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887cf"
+  },
+  "dailyInventoryLevel_id": "INV102",
+  "product_id": "PRODUCT051",
+  "inventoryQuantity": 273,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887d0"
+  },
+  "dailyInventoryLevel_id": "INV103",
+  "product_id": "PRODUCT052",
+  "inventoryQuantity": 142,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887d1"
+  },
+  "dailyInventoryLevel_id": "INV104",
+  "product_id": "PRODUCT052",
+  "inventoryQuantity": 189,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887d2"
+  },
+  "dailyInventoryLevel_id": "INV105",
+  "product_id": "PRODUCT053",
+  "inventoryQuantity": 267,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887d3"
+  },
+  "dailyInventoryLevel_id": "INV106",
+  "product_id": "PRODUCT053",
+  "inventoryQuantity": 317,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887d4"
+  },
+  "dailyInventoryLevel_id": "INV107",
+  "product_id": "PRODUCT054",
+  "inventoryQuantity": 183,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887d5"
+  },
+  "dailyInventoryLevel_id": "INV108",
+  "product_id": "PRODUCT054",
+  "inventoryQuantity": 258,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887d6"
+  },
+  "dailyInventoryLevel_id": "INV109",
+  "product_id": "PRODUCT055",
+  "inventoryQuantity": 345,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887d7"
+  },
+  "dailyInventoryLevel_id": "INV110",
+  "product_id": "PRODUCT055",
+  "inventoryQuantity": 408,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887d8"
+  },
+  "dailyInventoryLevel_id": "INV111",
+  "product_id": "PRODUCT056",
+  "inventoryQuantity": 150,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887d9"
+  },
+  "dailyInventoryLevel_id": "INV112",
+  "product_id": "PRODUCT056",
+  "inventoryQuantity": 120,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887da"
+  },
+  "dailyInventoryLevel_id": "INV113",
+  "product_id": "PRODUCT057",
+  "inventoryQuantity": 392,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887db"
+  },
+  "dailyInventoryLevel_id": "INV114",
+  "product_id": "PRODUCT057",
+  "inventoryQuantity": 280,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887dc"
+  },
+  "dailyInventoryLevel_id": "INV115",
+  "product_id": "PRODUCT058",
+  "inventoryQuantity": 206,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887dd"
+  },
+  "dailyInventoryLevel_id": "INV116",
+  "product_id": "PRODUCT058",
+  "inventoryQuantity": 198,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887de"
+  },
+  "dailyInventoryLevel_id": "INV117",
+  "product_id": "PRODUCT059",
+  "inventoryQuantity": 143,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887df"
+  },
+  "dailyInventoryLevel_id": "INV118",
+  "product_id": "PRODUCT059",
+  "inventoryQuantity": 248,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887e0"
+  },
+  "dailyInventoryLevel_id": "INV119",
+  "product_id": "PRODUCT060",
+  "inventoryQuantity": 312,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887e1"
+  },
+  "dailyInventoryLevel_id": "INV120",
+  "product_id": "PRODUCT060",
+  "inventoryQuantity": 403,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887e2"
+  },
+  "dailyInventoryLevel_id": "INV121",
+  "product_id": "PRODUCT061",
+  "inventoryQuantity": 223,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887e3"
+  },
+  "dailyInventoryLevel_id": "INV122",
+  "product_id": "PRODUCT061",
+  "inventoryQuantity": 319,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887e4"
+  },
+  "dailyInventoryLevel_id": "INV123",
+  "product_id": "PRODUCT062",
+  "inventoryQuantity": 188,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887e5"
+  },
+  "dailyInventoryLevel_id": "INV124",
+  "product_id": "PRODUCT062",
+  "inventoryQuantity": 267,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887e6"
+  },
+  "dailyInventoryLevel_id": "INV125",
+  "product_id": "PRODUCT063",
+  "inventoryQuantity": 298,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887e7"
+  },
+  "dailyInventoryLevel_id": "INV126",
+  "product_id": "PRODUCT063",
+  "inventoryQuantity": 342,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887e8"
+  },
+  "dailyInventoryLevel_id": "INV127",
+  "product_id": "PRODUCT064",
+  "inventoryQuantity": 176,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887e9"
+  },
+  "dailyInventoryLevel_id": "INV128",
+  "product_id": "PRODUCT064",
+  "inventoryQuantity": 209,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887ea"
+  },
+  "dailyInventoryLevel_id": "INV129",
+  "product_id": "PRODUCT065",
+  "inventoryQuantity": 250,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887eb"
+  },
+  "dailyInventoryLevel_id": "INV130",
+  "product_id": "PRODUCT065",
+  "inventoryQuantity": 279,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887ec"
+  },
+  "dailyInventoryLevel_id": "INV131",
+  "product_id": "PRODUCT066",
+  "inventoryQuantity": 314,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887ed"
+  },
+  "dailyInventoryLevel_id": "INV132",
+  "product_id": "PRODUCT066",
+  "inventoryQuantity": 358,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887ee"
+  },
+  "dailyInventoryLevel_id": "INV133",
+  "product_id": "PRODUCT067",
+  "inventoryQuantity": 291,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887ef"
+  },
+  "dailyInventoryLevel_id": "INV134",
+  "product_id": "PRODUCT067",
+  "inventoryQuantity": 317,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887f0"
+  },
+  "dailyInventoryLevel_id": "INV135",
+  "product_id": "PRODUCT068",
+  "inventoryQuantity": 134,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887f1"
+  },
+  "dailyInventoryLevel_id": "INV136",
+  "product_id": "PRODUCT068",
+  "inventoryQuantity": 211,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887f2"
+  },
+  "dailyInventoryLevel_id": "INV137",
+  "product_id": "PRODUCT069",
+  "inventoryQuantity": 342,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887f3"
+  },
+  "dailyInventoryLevel_id": "INV138",
+  "product_id": "PRODUCT069",
+  "inventoryQuantity": 386,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887f4"
+  },
+  "dailyInventoryLevel_id": "INV139",
+  "product_id": "PRODUCT070",
+  "inventoryQuantity": 262,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887f5"
+  },
+  "dailyInventoryLevel_id": "INV140",
+  "product_id": "PRODUCT070",
+  "inventoryQuantity": 302,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887f6"
+  },
+  "dailyInventoryLevel_id": "INV141",
+  "product_id": "PRODUCT071",
+  "inventoryQuantity": 214,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887f7"
+  },
+  "dailyInventoryLevel_id": "INV142",
+  "product_id": "PRODUCT071",
+  "inventoryQuantity": 287,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887f8"
+  },
+  "dailyInventoryLevel_id": "INV143",
+  "product_id": "PRODUCT072",
+  "inventoryQuantity": 178,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887f9"
+  },
+  "dailyInventoryLevel_id": "INV144",
+  "product_id": "PRODUCT072",
+  "inventoryQuantity": 203,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887fa"
+  },
+  "dailyInventoryLevel_id": "INV145",
+  "product_id": "PRODUCT073",
+  "inventoryQuantity": 350,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887fb"
+  },
+  "dailyInventoryLevel_id": "INV146",
+  "product_id": "PRODUCT073",
+  "inventoryQuantity": 392,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887fc"
+  },
+  "dailyInventoryLevel_id": "INV147",
+  "product_id": "PRODUCT074",
+  "inventoryQuantity": 239,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887fd"
+  },
+  "dailyInventoryLevel_id": "INV148",
+  "product_id": "PRODUCT074",
+  "inventoryQuantity": 261,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887fe"
+  },
+  "dailyInventoryLevel_id": "INV149",
+  "product_id": "PRODUCT075",
+  "inventoryQuantity": 185,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b56887ff"
+  },
+  "dailyInventoryLevel_id": "INV150",
+  "product_id": "PRODUCT075",
+  "inventoryQuantity": 198,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688800"
+  },
+  "dailyInventoryLevel_id": "INV151",
+  "product_id": "PRODUCT076",
+  "inventoryQuantity": 300,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688801"
+  },
+  "dailyInventoryLevel_id": "INV152",
+  "product_id": "PRODUCT076",
+  "inventoryQuantity": 328,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688802"
+  },
+  "dailyInventoryLevel_id": "INV153",
+  "product_id": "PRODUCT077",
+  "inventoryQuantity": 277,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688803"
+  },
+  "dailyInventoryLevel_id": "INV154",
+  "product_id": "PRODUCT077",
+  "inventoryQuantity": 315,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688804"
+  },
+  "dailyInventoryLevel_id": "INV155",
+  "product_id": "PRODUCT078",
+  "inventoryQuantity": 143,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688805"
+  },
+  "dailyInventoryLevel_id": "INV156",
+  "product_id": "PRODUCT078",
+  "inventoryQuantity": 189,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688806"
+  },
+  "dailyInventoryLevel_id": "INV157",
+  "product_id": "PRODUCT079",
+  "inventoryQuantity": 410,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688807"
+  },
+  "dailyInventoryLevel_id": "INV158",
+  "product_id": "PRODUCT079",
+  "inventoryQuantity": 428,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688808"
+  },
+  "dailyInventoryLevel_id": "INV159",
+  "product_id": "PRODUCT080",
+  "inventoryQuantity": 233,
+  "date": "2024-12-01T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+},
+{
+  "_id": {
+    "$oid": "676c21868226b2d9b5688809"
+  },
+  "dailyInventoryLevel_id": "INV160",
+  "product_id": "PRODUCT080",
+  "inventoryQuantity": 248,
+  "date": "2024-12-02T00:00:00",
+  "storageWarehouseName": null,
+  "storageWarehouseLocation": null
+}]

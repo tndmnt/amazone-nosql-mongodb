@@ -1,0 +1,51 @@
+db.getCollection('PastOrders').aggregate(
+  [
+    { $unwind: { path: '$pastOrderItems' } },
+    {
+      $group: {
+        _id: '$customer_id',
+        purchasedProducts: {
+          $addToSet: '$pastOrderItems.product_id'
+        }
+      }
+    },
+    {
+      $lookup: {
+        from: 'Products',
+        pipeline: [
+          { $sort: { averageRating: -1 } },
+          { $limit: 100 }
+        ],
+        as: 'allProducts'
+      }
+    },
+    {
+      $addFields: {
+        recommendedProducts: {
+          $filter: {
+            input: '$allProducts',
+            as: 'product',
+            cond: {
+              $not: {
+                $in: [
+                  '$$product.product_id',
+                  '$purchasedProducts'
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      $project: {
+        customer_id: '$_id',
+        purchasedProducts: 1,
+        recommendedProducts: {
+          $slice: ['$recommendedProducts', 5]
+        }
+      }
+    }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);

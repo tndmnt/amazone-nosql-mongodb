@@ -1,0 +1,50 @@
+db.getCollection('Partners').aggregate(
+  [
+    {
+      $lookup: {
+        from: 'CurrentOrders',
+        localField: 'partner_id',
+        foreignField: 'partner_id',
+        as: 'orders'
+      }
+    },
+    {
+      $unwind: {
+        path: '$orders',
+        preserveNullAndEmptyArrays: true
+      }
+    },
+    {
+      $group: {
+        _id: '$partner_id',
+        Total_delivery_Orders: {
+          $sum: {
+            $cond: [
+              {
+                $eq: [
+                  '$orders.orderStatus',
+                  'paid'
+                ]
+              },
+              1,
+              0
+            ]
+          }
+        },
+        partnerName: { $first: '$partnerName' },
+        presentLocation: {
+          $first: '$presentLocation'
+        }
+      }
+    },
+    {
+      $project: {
+        partner_id: '$_id',
+        Total_delivery_Orders: 1,
+        partnerName: 1,
+        presentLocation: 1
+      }
+    }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);

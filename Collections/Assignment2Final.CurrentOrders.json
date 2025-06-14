@@ -1,0 +1,920 @@
+[{
+  "_id": {
+    "$oid": "676c217c8226b2d9b568872e"
+  },
+  "order_id": "ORDER101",
+  "customer_id": "CUSTOMER007",
+  "orderDate": "2024-11-01",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT034",
+      "productType": "fresh",
+      "quantity": 6
+    },
+    {
+      "product_id": "PRODUCT055",
+      "productType": "others",
+      "quantity": 8
+    },
+    {
+      "product_id": "PRODUCT045",
+      "productType": "others",
+      "quantity": 4
+    }
+  ],
+  "totalOrderCost": 251.6,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b568872f"
+  },
+  "order_id": "ORDER102",
+  "customer_id": "CUSTOMER009",
+  "orderDate": "2024-11-02",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT048",
+      "productType": "others",
+      "quantity": 3
+    },
+    {
+      "product_id": "PRODUCT080",
+      "productType": "others",
+      "quantity": 7
+    }
+  ],
+  "totalOrderCost": 990,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688730"
+  },
+  "order_id": "ORDER103",
+  "customer_id": "CUSTOMER014",
+  "orderDate": "2024-11-03",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT080",
+      "productType": "others",
+      "quantity": 7
+    },
+    {
+      "product_id": "PRODUCT038",
+      "productType": "fresh",
+      "quantity": 1
+    }
+  ],
+  "totalOrderCost": 862.2,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688731"
+  },
+  "order_id": "ORDER104",
+  "customer_id": "CUSTOMER008",
+  "orderDate": "2024-11-04",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT045",
+      "productType": "others",
+      "quantity": 10
+    },
+    {
+      "product_id": "PRODUCT078",
+      "productType": "others",
+      "quantity": 4
+    }
+  ],
+  "totalOrderCost": 248,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688732"
+  },
+  "order_id": "ORDER105",
+  "customer_id": "CUSTOMER002",
+  "orderDate": "2024-11-05",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT057",
+      "productType": "others",
+      "quantity": 2
+    },
+    {
+      "product_id": "PRODUCT078",
+      "productType": "others",
+      "quantity": 6
+    }
+  ],
+  "totalOrderCost": 362,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688733"
+  },
+  "order_id": "ORDER106",
+  "customer_id": "CUSTOMER007",
+  "orderDate": "2024-11-06",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT064",
+      "productType": "others",
+      "quantity": 10
+    },
+    {
+      "product_id": "PRODUCT030",
+      "productType": "fresh",
+      "quantity": 1
+    }
+  ],
+  "totalOrderCost": 212,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688734"
+  },
+  "order_id": "ORDER107",
+  "customer_id": "CUSTOMER016",
+  "orderDate": "2024-11-07",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT064",
+      "productType": "others",
+      "quantity": 8
+    },
+    {
+      "product_id": "PRODUCT076",
+      "productType": "others",
+      "quantity": 1
+    }
+  ],
+  "totalOrderCost": 287,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688735"
+  },
+  "order_id": "ORDER108",
+  "customer_id": "CUSTOMER005",
+  "orderDate": "2024-11-08",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT030",
+      "productType": "fresh",
+      "quantity": 5
+    }
+  ],
+  "totalOrderCost": 10,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688736"
+  },
+  "order_id": "ORDER109",
+  "customer_id": "CUSTOMER010",
+  "orderDate": "2024-11-09",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT005",
+      "productType": "fresh",
+      "quantity": 6
+    },
+    {
+      "product_id": "PRODUCT071",
+      "productType": "others",
+      "quantity": 10
+    }
+  ],
+  "totalOrderCost": 155,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688737"
+  },
+  "order_id": "ORDER110",
+  "customer_id": "CUSTOMER010",
+  "orderDate": "2024-11-10",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT048",
+      "productType": "others",
+      "quantity": 10
+    },
+    {
+      "product_id": "PRODUCT070",
+      "productType": "others",
+      "quantity": 6
+    },
+    {
+      "product_id": "PRODUCT010",
+      "productType": "fresh",
+      "quantity": 1
+    }
+  ],
+  "totalOrderCost": 558,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688738"
+  },
+  "order_id": "ORDER111",
+  "customer_id": "CUSTOMER003",
+  "orderDate": "2024-11-11",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT080",
+      "productType": "others",
+      "quantity": 1
+    },
+    {
+      "product_id": "PRODUCT055",
+      "productType": "others",
+      "quantity": 6
+    }
+  ],
+  "totalOrderCost": 297,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688739"
+  },
+  "order_id": "ORDER112",
+  "customer_id": "CUSTOMER020",
+  "orderDate": "2024-11-12",
+  "partner_id": "PARTNER003",
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT059",
+      "productType": "others",
+      "quantity": 1
+    },
+    {
+      "product_id": "PRODUCT061",
+      "productType": "others",
+      "quantity": 2
+    }
+  ],
+  "totalOrderCost": 51,
+  "orderStatus": "paid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b568873a"
+  },
+  "order_id": "ORDER113",
+  "customer_id": "CUSTOMER016",
+  "orderDate": "2024-11-13",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT037",
+      "productType": "fresh",
+      "quantity": 7
+    },
+    {
+      "product_id": "PRODUCT072",
+      "productType": "others",
+      "quantity": 10
+    }
+  ],
+  "totalOrderCost": 175.6,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b568873b"
+  },
+  "order_id": "ORDER114",
+  "customer_id": "CUSTOMER009",
+  "orderDate": "2024-11-14",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT048",
+      "productType": "others",
+      "quantity": 9
+    }
+  ],
+  "totalOrderCost": 387,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b568873c"
+  },
+  "order_id": "ORDER115",
+  "customer_id": "CUSTOMER008",
+  "orderDate": "2024-11-15",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT078",
+      "productType": "others",
+      "quantity": 6
+    },
+    {
+      "product_id": "PRODUCT069",
+      "productType": "others",
+      "quantity": 8
+    },
+    {
+      "product_id": "PRODUCT018",
+      "productType": "fresh",
+      "quantity": 3
+    }
+  ],
+  "totalOrderCost": 456.4,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b568873d"
+  },
+  "order_id": "ORDER116",
+  "customer_id": "CUSTOMER012",
+  "orderDate": "2024-11-16",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT039",
+      "productType": "fresh",
+      "quantity": 9
+    },
+    {
+      "product_id": "PRODUCT075",
+      "productType": "others",
+      "quantity": 7
+    }
+  ],
+  "totalOrderCost": 163,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b568873e"
+  },
+  "order_id": "ORDER117",
+  "customer_id": "CUSTOMER001",
+  "orderDate": "2024-11-17",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT005",
+      "productType": "fresh",
+      "quantity": 3
+    },
+    {
+      "product_id": "PRODUCT048",
+      "productType": "others",
+      "quantity": 10
+    }
+  ],
+  "totalOrderCost": 437.5,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b568873f"
+  },
+  "order_id": "ORDER118",
+  "customer_id": "CUSTOMER012",
+  "orderDate": "2024-11-18",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT026",
+      "productType": "fresh",
+      "quantity": 4
+    },
+    {
+      "product_id": "PRODUCT060",
+      "productType": "others",
+      "quantity": 1
+    },
+    {
+      "product_id": "PRODUCT010",
+      "productType": "fresh",
+      "quantity": 3
+    }
+  ],
+  "totalOrderCost": 29.2,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688740"
+  },
+  "order_id": "ORDER119",
+  "customer_id": "CUSTOMER004",
+  "orderDate": "2024-11-19",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT010",
+      "productType": "fresh",
+      "quantity": 5
+    },
+    {
+      "product_id": "PRODUCT044",
+      "productType": "others",
+      "quantity": 1
+    }
+  ],
+  "totalOrderCost": 55,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688741"
+  },
+  "order_id": "ORDER120",
+  "customer_id": "CUSTOMER015",
+  "orderDate": "2024-11-20",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT015",
+      "productType": "fresh",
+      "quantity": 4
+    },
+    {
+      "product_id": "PRODUCT054",
+      "productType": "others",
+      "quantity": 7
+    }
+  ],
+  "totalOrderCost": 85,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688742"
+  },
+  "order_id": "ORDER121",
+  "customer_id": "CUSTOMER006",
+  "orderDate": "2024-11-21",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT076",
+      "productType": "others",
+      "quantity": 10
+    },
+    {
+      "product_id": "PRODUCT009",
+      "productType": "fresh",
+      "quantity": 3
+    }
+  ],
+  "totalOrderCost": 1200.5,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688743"
+  },
+  "order_id": "ORDER122",
+  "customer_id": "CUSTOMER011",
+  "orderDate": "2024-11-22",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT053",
+      "productType": "others",
+      "quantity": 3
+    },
+    {
+      "product_id": "PRODUCT046",
+      "productType": "others",
+      "quantity": 5
+    }
+  ],
+  "totalOrderCost": 486,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688744"
+  },
+  "order_id": "ORDER123",
+  "customer_id": "CUSTOMER013",
+  "orderDate": "2024-11-23",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT063",
+      "productType": "others",
+      "quantity": 1
+    }
+  ],
+  "totalOrderCost": 23,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688745"
+  },
+  "order_id": "ORDER124",
+  "customer_id": "CUSTOMER015",
+  "orderDate": "2024-11-24",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT029",
+      "productType": "fresh",
+      "quantity": 10
+    },
+    {
+      "product_id": "PRODUCT065",
+      "productType": "others",
+      "quantity": 2
+    },
+    {
+      "product_id": "PRODUCT049",
+      "productType": "others",
+      "quantity": 4
+    }
+  ],
+  "totalOrderCost": 90,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688746"
+  },
+  "order_id": "ORDER125",
+  "customer_id": "CUSTOMER004",
+  "orderDate": "2024-11-25",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT077",
+      "productType": "others",
+      "quantity": 6
+    }
+  ],
+  "totalOrderCost": 546,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688747"
+  },
+  "order_id": "ORDER126",
+  "customer_id": "CUSTOMER017",
+  "orderDate": "2024-11-26",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT078",
+      "productType": "others",
+      "quantity": 3
+    },
+    {
+      "product_id": "PRODUCT031",
+      "productType": "fresh",
+      "quantity": 3
+    },
+    {
+      "product_id": "PRODUCT049",
+      "productType": "others",
+      "quantity": 10
+    }
+  ],
+  "totalOrderCost": 258.4,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688748"
+  },
+  "order_id": "ORDER127",
+  "customer_id": "CUSTOMER018",
+  "orderDate": "2024-11-27",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT017",
+      "productType": "fresh",
+      "quantity": 10
+    }
+  ],
+  "totalOrderCost": 18,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688749"
+  },
+  "order_id": "ORDER128",
+  "customer_id": "CUSTOMER014",
+  "orderDate": "2024-11-28",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT004",
+      "productType": "fresh",
+      "quantity": 9
+    },
+    {
+      "product_id": "PRODUCT008",
+      "productType": "fresh",
+      "quantity": 2
+    },
+    {
+      "product_id": "PRODUCT025",
+      "productType": "fresh",
+      "quantity": 1
+    }
+  ],
+  "totalOrderCost": 22.2,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b568874a"
+  },
+  "order_id": "ORDER129",
+  "customer_id": "CUSTOMER003",
+  "orderDate": "2024-11-29",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT039",
+      "productType": "fresh",
+      "quantity": 7
+    },
+    {
+      "product_id": "PRODUCT069",
+      "productType": "others",
+      "quantity": 9
+    },
+    {
+      "product_id": "PRODUCT048",
+      "productType": "others",
+      "quantity": 1
+    }
+  ],
+  "totalOrderCost": 203,
+  "orderStatus": "paid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b568874b"
+  },
+  "order_id": "ORDER130",
+  "customer_id": "CUSTOMER006",
+  "orderDate": "2024-11-30",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT056",
+      "productType": "others",
+      "quantity": 10
+    }
+  ],
+  "totalOrderCost": 290,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b568874c"
+  },
+  "order_id": "ORDER131",
+  "customer_id": "CUSTOMER019",
+  "orderDate": "2024-12-01",
+  "partner_id": "PARTNER005",
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT064",
+      "productType": "others",
+      "quantity": 2
+    },
+    {
+      "product_id": "PRODUCT056",
+      "productType": "others",
+      "quantity": 8
+    }
+  ],
+  "totalOrderCost": 274,
+  "orderStatus": "paid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b568874d"
+  },
+  "order_id": "ORDER132",
+  "customer_id": "CUSTOMER019",
+  "orderDate": "2024-12-02",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT061",
+      "productType": "others",
+      "quantity": 10
+    },
+    {
+      "product_id": "PRODUCT056",
+      "productType": "others",
+      "quantity": 8
+    },
+    {
+      "product_id": "PRODUCT075",
+      "productType": "others",
+      "quantity": 10
+    }
+  ],
+  "totalOrderCost": 582,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b568874e"
+  },
+  "order_id": "ORDER133",
+  "customer_id": "CUSTOMER020",
+  "orderDate": "2024-12-03",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT010",
+      "productType": "fresh",
+      "quantity": 2
+    },
+    {
+      "product_id": "PRODUCT051",
+      "productType": "others",
+      "quantity": 4
+    }
+  ],
+  "totalOrderCost": 224,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b568874f"
+  },
+  "order_id": "ORDER134",
+  "customer_id": "CUSTOMER017",
+  "orderDate": "2024-12-04",
+  "partner_id": "PARTNER003",
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT074",
+      "productType": "others",
+      "quantity": 5
+    },
+    {
+      "product_id": "PRODUCT024",
+      "productType": "fresh",
+      "quantity": 7
+    }
+  ],
+  "totalOrderCost": 95.5,
+  "orderStatus": "paid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688750"
+  },
+  "order_id": "ORDER135",
+  "customer_id": "CUSTOMER011",
+  "orderDate": "2024-12-05",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT010",
+      "productType": "fresh",
+      "quantity": 8
+    }
+  ],
+  "totalOrderCost": 16,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688751"
+  },
+  "order_id": "ORDER136",
+  "customer_id": "CUSTOMER001",
+  "orderDate": "2024-12-06",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT014",
+      "productType": "fresh",
+      "quantity": 4
+    },
+    {
+      "product_id": "PRODUCT019",
+      "productType": "fresh",
+      "quantity": 1
+    }
+  ],
+  "totalOrderCost": 8.3,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688752"
+  },
+  "order_id": "ORDER137",
+  "customer_id": "CUSTOMER018",
+  "orderDate": "2024-12-07",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT069",
+      "productType": "others",
+      "quantity": 2
+    }
+  ],
+  "totalOrderCost": 34,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688753"
+  },
+  "order_id": "ORDER138",
+  "customer_id": "CUSTOMER013",
+  "orderDate": "2024-12-08",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT057",
+      "productType": "others",
+      "quantity": 4
+    }
+  ],
+  "totalOrderCost": 100,
+  "orderStatus": "unpaid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688754"
+  },
+  "order_id": "ORDER139",
+  "customer_id": "CUSTOMER002",
+  "orderDate": "2024-12-09",
+  "partner_id": null,
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT027",
+      "productType": "fresh",
+      "quantity": 2
+    }
+  ],
+  "totalOrderCost": 7,
+  "orderStatus": "paid"
+},
+{
+  "_id": {
+    "$oid": "676c217c8226b2d9b5688755"
+  },
+  "order_id": "ORDER140",
+  "customer_id": "CUSTOMER005",
+  "orderDate": "2024-12-10",
+  "partner_id": "PARTNER003",
+  "currentOrderItems": [
+    {
+      "product_id": "PRODUCT065",
+      "productType": "others",
+      "quantity": 10
+    },
+    {
+      "product_id": "PRODUCT055",
+      "productType": "others",
+      "quantity": 1
+    },
+    {
+      "product_id": "PRODUCT034",
+      "productType": "fresh",
+      "quantity": 10
+    }
+  ],
+  "totalOrderCost": 135,
+  "orderStatus": "paid"
+}]

@@ -1,0 +1,39 @@
+db.getCollection('Stores').aggregate([
+    {
+        $geoNear: {
+            near: { type: "Point", coordinates: [-2.2426,53.4808] },
+            distanceField: "distance",
+            maxDistance: 1000,
+            spherical: true
+        }
+    },
+    {
+        $lookup: {
+            from: "Products",
+            localField: "listOfAvailable",
+            foreignField: "product_id",
+            as: "availableProducts"
+        }
+    },
+    {
+        $unwind: "$availableProducts"
+    },
+    {
+        $match: {
+            "availableProducts.productType": "fresh"
+        }
+    },
+    {
+        $project: {
+            _id: 0,
+            productName: "$availableProducts.productName",
+            description: "$availableProducts.description",
+            cost: "$availableProducts.cost",
+            storeLocation: "$address",
+            distance: 1
+        }
+    },
+    {
+        $sort: { distance: 1 } 
+    }
+]).pretty()

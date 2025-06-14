@@ -1,0 +1,114 @@
+// Query 1.1: Assign the pickup task to the store with sufficient fresh products.
+db.getCollection('CurrentOrders').aggregate([
+  {
+      $match: {
+          "order_id": "ORDER101"
+      }
+  },
+  {
+      $unwind: "$currentOrderItems" 
+  },
+  {
+      $match: {
+          "currentOrderItems.productType": "fresh" 
+      }
+  },
+  {
+      $lookup: {
+          from: "Products",
+          localField: "currentOrderItems.product_id",
+          foreignField: "product_id",
+          as: "productDetails"
+      }
+  },
+  {
+      $unwind: "$productDetails" 
+  },
+  {
+      $group: {
+          _id: "$order_id",
+          customer_id: { $first: "$customer_id" },
+          products: { $addToSet: "$productDetails" }
+      }
+  },
+  {
+      $lookup: {
+          from: "Stores",
+          let: { productList: "$products.product_id" },
+          pipeline: [
+              {
+                  $match: {
+                      $expr: {
+                          $setIsSubset: ["$$productList", "$listOfAvailable"]
+                      }
+                  }
+              },
+              {
+                  $project: {
+                      store_id: 1,
+                      address: 1,
+                      location: 1,
+                      availableProducts: "$listOfAvailable"
+                  }
+              }
+          ],
+          as: "matchingStores"
+      }
+  },
+  {
+      $project: {
+          _id: 0,
+          order_id: "$_id",
+          customer_id: 1,
+          products: 1,
+          matchingStores: 1
+      }
+  }
+]).pretty()
+
+// Query 1.2: find the store closest to the customer among the stores that meet the conditions:
+var coordinates = [[-2.242327,53.482052]];
+var customerExists = db.Customers.findOne({ "customer_id": "CUSTOMER007" });
+if (customerExists) {
+    coordinates.forEach(function(coord) {
+        var results = db.Customers.aggregate([
+            {
+                $geoNear: {
+                    near: { type: "Point", coordinates: coord },
+                    distanceField: "distance",
+                    spherical: true,
+                    query: { "customer_id": "CUSTOMER001" }
+                }
+            },
+            {
+                $project: {
+                    name: 1,
+                    distance: 1,
+                    location: "$addresses.location"
+                }
+            }
+        ]).toArray();
+        
+        if (results.length > 0) {
+            print("Distance to coordinate [" + coord + "]: " + results[0].distance + " meters");
+        } else {
+            print("No results found for coordinate [" + coord + "]");
+        }
+    });
+} else {
+    print("No customer found with ID 'CUSTOMER001'.");
+}
+
+// Query 1.3: Assign the delivery task to the idle partner closest to the chosen store.
+db.getCollection('Partners').find({
+  "status.idle": 1,
+  presentLocation: {
+      $nearSphere: {
+          $geometry: {
+              type: "Point",
+              coordinates: [-2.242327,
+        53.482052]
+          }
+      }
+  }
+}).limit(1)

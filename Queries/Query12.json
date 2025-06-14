@@ -1,0 +1,104 @@
+db.getCollection('CurrentOrders').aggregate(
+  [
+    {
+      $addFields: {
+        orderDate: {
+          $dateFromString: {
+            dateString: '$orderDate'
+          }
+        }
+      }
+    },
+    { $match: { orderStatus: 'paid' } },
+    { $unwind: { path: '$currentOrderItems' } },
+    {
+      $lookup: {
+        from: 'Products',
+        localField:
+          'currentOrderItems.product_id',
+        foreignField: 'product_id',
+        as: 'productDetails'
+      }
+    },
+    {
+      $unwind: {
+        path: '$productDetails',
+        preserveNullAndEmptyArrays: true
+      }
+    },
+    {
+      $group: {
+        _id: '$currentOrderItems.product_id',
+        totalSalesQuantity: {
+          $sum: '$currentOrderItems.quantity'
+        },
+        totalSalesValue: {
+          $sum: {
+            $multiply: [
+              '$currentOrderItems.quantity',
+              '$productDetails.cost'
+            ]
+          }
+        }
+      }
+    },
+    {
+      $unionWith: {
+        coll: 'PastOrders',
+        pipeline: [
+          { $unwind: '$pastOrderItems' },
+          {
+            $lookup: {
+              from: 'Products',
+              localField:
+                'pastOrderItems.product_id',
+              foreignField: 'product_id',
+              as: 'productDetails'
+            }
+          },
+          {
+            $unwind: {
+              path: '$productDetails',
+              preserveNullAndEmptyArrays: true
+            }
+          },
+          {
+            $group: {
+              _id: '$pastOrderItems.product_id',
+              totalSalesQuantity: {
+                $sum: '$pastOrderItems.quantity'
+              },
+              totalSalesValue: {
+                $sum: {
+                  $multiply: [
+                    '$pastOrderItems.quantity',
+                    '$productDetails.cost'
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      $group: {
+        _id: '$_id',
+        totalQuantity: {
+          $sum: '$totalSalesQuantity'
+        },
+        totalSalesValue: {
+          $sum: '$totalSalesValue'
+        }
+      }
+    },
+    {
+      $project: {
+        productId: '$_id',
+        totalQuantity: 1,
+        totalSalesValue: 1
+      }
+    }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);

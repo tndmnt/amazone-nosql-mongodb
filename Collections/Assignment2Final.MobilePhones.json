@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "676c21928226b2d9b568883c"
+  },
+  "product_id": "PRODUCT061",
+  "brand": "Apple",
+  "color": "Space Gray",
+  "model": "iPhone 13",
+  "features": "A15 Bionic chip"
+},
+{
+  "_id": {
+    "$oid": "676c21928226b2d9b568883d"
+  },
+  "product_id": "PRODUCT062",
+  "brand": "Samsung",
+  "color": "Black",
+  "model": "Galaxy S21",
+  "features": "AMOLED display"
+},
+{
+  "_id": {
+    "$oid": "676c21928226b2d9b568883e"
+  },
+  "product_id": "PRODUCT063",
+  "brand": "Huawei",
+  "color": "Midnight Black",
+  "model": "P40",
+  "features": "Leica camera"
+},
+{
+  "_id": {
+    "$oid": "676c21928226b2d9b568883f"
+  },
+  "product_id": "PRODUCT064",
+  "brand": "Xiaomi",
+  "color": "White",
+  "model": "Mi 11",
+  "features": "Snapdragon processor"
+},
+{
+  "_id": {
+    "$oid": "676c21928226b2d9b5688840"
+  },
+  "product_id": "PRODUCT065",
+  "brand": "OnePlus",
+  "color": "Blue",
+  "model": "9 Pro",
+  "features": "120Hz screen"
+},
+{
+  "_id": {
+    "$oid": "676c21928226b2d9b5688841"
+  },
+  "product_id": "PRODUCT066",
+  "brand": "Vivo",
+  "color": "Aurora Dawn",
+  "model": "X60 Pro",
+  "features": "Zeiss optics"
+},
+{
+  "_id": {
+    "$oid": "676c21928226b2d9b5688842"
+  },
+  "product_id": "PRODUCT067",
+  "brand": "Oppo",
+  "color": "Reno Glow",
+  "model": "Find X3 Pro",
+  "features": "Hasselblad camera tech"
+},
+{
+  "_id": {
+    "$oid": "676c21928226b2d9b5688843"
+  },
+  "product_id": "PRODUCT068",
+  "brand": "Nokia",
+  "color": "Black",
+  "model": "G50",
+  "features": "Long - battery life"
+},
+{
+  "_id": {
+    "$oid": "676c21928226b2d9b5688844"
+  },
+  "product_id": "PRODUCT069",
+  "brand": "Sony",
+  "color": "White",
+  "model": "Xperia 1 III",
+  "features": "4K OLED display"
+},
+{
+  "_id": {
+    "$oid": "676c21928226b2d9b5688845"
+  },
+  "product_id": "PRODUCT070",
+  "brand": "LG",
+  "color": "Silver",
+  "model": "Velvet",
+  "features": "5G capable"
+}]

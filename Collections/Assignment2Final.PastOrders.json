@@ -1,0 +1,2458 @@
+[{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688873"
+  },
+  "order_id": "ORDER001",
+  "customer_id": "CUSTOMER017",
+  "orderDate": "2024-07-24",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT024",
+      "productType": "fresh",
+      "quantity": 10,
+      "rate": 4.6
+    },
+    {
+      "product_id": "PRODUCT048",
+      "productType": "others",
+      "quantity": 6,
+      "rate": 1.1
+    },
+    {
+      "product_id": "PRODUCT050",
+      "productType": "others",
+      "quantity": 10,
+      "rate": 1
+    }
+  ],
+  "totalOrderCost": 573,
+  "partnerRate": 2.9
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688874"
+  },
+  "order_id": "ORDER002",
+  "customer_id": "CUSTOMER011",
+  "orderDate": "2024-07-25",
+  "partner_id": "PARTNER005",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT020",
+      "productType": "fresh",
+      "quantity": 3,
+      "rate": 4.5
+    },
+    {
+      "product_id": "PRODUCT048",
+      "productType": "others",
+      "quantity": 10,
+      "rate": 1
+    },
+    {
+      "product_id": "PRODUCT057",
+      "productType": "others",
+      "quantity": 4,
+      "rate": 3.9
+    },
+    {
+      "product_id": "PRODUCT059",
+      "productType": "others",
+      "quantity": 1,
+      "rate": 3.4
+    }
+  ],
+  "totalOrderCost": 559.5,
+  "partnerRate": 2.3
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688875"
+  },
+  "order_id": "ORDER003",
+  "customer_id": "CUSTOMER020",
+  "orderDate": "2024-07-26",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT025",
+      "productType": "fresh",
+      "quantity": 8,
+      "rate": 1.8
+    }
+  ],
+  "totalOrderCost": 24,
+  "partnerRate": 5
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688876"
+  },
+  "order_id": "ORDER004",
+  "customer_id": "CUSTOMER018",
+  "orderDate": "2024-07-27",
+  "partner_id": "PARTNER001",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT016",
+      "productType": "fresh",
+      "quantity": 8,
+      "rate": 4.7
+    },
+    {
+      "product_id": "PRODUCT080",
+      "productType": "others",
+      "quantity": 10,
+      "rate": 0.5
+    },
+    {
+      "product_id": "PRODUCT069",
+      "productType": "others",
+      "quantity": 5,
+      "rate": 2.7
+    }
+  ],
+  "totalOrderCost": 1335,
+  "partnerRate": 4.4
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688877"
+  },
+  "order_id": "ORDER005",
+  "customer_id": "CUSTOMER005",
+  "orderDate": "2024-07-28",
+  "partner_id": "PARTNER001",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT049",
+      "productType": "others",
+      "quantity": 9,
+      "rate": 3.5
+    },
+    {
+      "product_id": "PRODUCT080",
+      "productType": "others",
+      "quantity": 6,
+      "rate": 0
+    },
+    {
+      "product_id": "PRODUCT036",
+      "productType": "fresh",
+      "quantity": 8,
+      "rate": 3.9
+    }
+  ],
+  "totalOrderCost": 836,
+  "partnerRate": 2.9
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688878"
+  },
+  "order_id": "ORDER006",
+  "customer_id": "CUSTOMER009",
+  "orderDate": "2024-07-29",
+  "partner_id": "PARTNER001",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT012",
+      "productType": "fresh",
+      "quantity": 1,
+      "rate": 2.8
+    }
+  ],
+  "totalOrderCost": 1.5,
+  "partnerRate": 0.2
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688879"
+  },
+  "order_id": "ORDER007",
+  "customer_id": "CUSTOMER001",
+  "orderDate": "2024-07-30",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT034",
+      "productType": "fresh",
+      "quantity": 10,
+      "rate": 0.5
+    }
+  ],
+  "totalOrderCost": 6,
+  "partnerRate": 3.6
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b568887a"
+  },
+  "order_id": "ORDER008",
+  "customer_id": "CUSTOMER019",
+  "orderDate": "2024-07-31",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT075",
+      "productType": "others",
+      "quantity": 7,
+      "rate": 1.5
+    }
+  ],
+  "totalOrderCost": 154,
+  "partnerRate": 4.3
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b568887b"
+  },
+  "order_id": "ORDER009",
+  "customer_id": "CUSTOMER010",
+  "orderDate": "2024-08-01",
+  "partner_id": "PARTNER003",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT023",
+      "productType": "fresh",
+      "quantity": 3,
+      "rate": 4.4
+    },
+    {
+      "product_id": "PRODUCT005",
+      "productType": "fresh",
+      "quantity": 2,
+      "rate": 4
+    },
+    {
+      "product_id": "PRODUCT009",
+      "productType": "fresh",
+      "quantity": 6,
+      "rate": 1.3
+    }
+  ],
+  "totalOrderCost": 32,
+  "partnerRate": 4.1
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b568887c"
+  },
+  "order_id": "ORDER010",
+  "customer_id": "CUSTOMER003",
+  "orderDate": "2024-08-02",
+  "partner_id": "PARTNER005",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT067",
+      "productType": "others",
+      "quantity": 10,
+      "rate": 1.5
+    }
+  ],
+  "totalOrderCost": 150,
+  "partnerRate": 3.7
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b568887d"
+  },
+  "order_id": "ORDER011",
+  "customer_id": "CUSTOMER002",
+  "orderDate": "2024-08-03",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT070",
+      "productType": "others",
+      "quantity": 1,
+      "rate": 4.4
+    },
+    {
+      "product_id": "PRODUCT027",
+      "productType": "fresh",
+      "quantity": 8,
+      "rate": 0.8
+    },
+    {
+      "product_id": "PRODUCT046",
+      "productType": "others",
+      "quantity": 3,
+      "rate": 4.7
+    }
+  ],
+  "totalOrderCost": 310,
+  "partnerRate": 3.4
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b568887e"
+  },
+  "order_id": "ORDER012",
+  "customer_id": "CUSTOMER015",
+  "orderDate": "2024-08-04",
+  "partner_id": "PARTNER001",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT071",
+      "productType": "others",
+      "quantity": 7,
+      "rate": 3.8
+    }
+  ],
+  "totalOrderCost": 98,
+  "partnerRate": 2.4
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b568887f"
+  },
+  "order_id": "ORDER013",
+  "customer_id": "CUSTOMER008",
+  "orderDate": "2024-08-05",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT010",
+      "productType": "fresh",
+      "quantity": 6,
+      "rate": 0.2
+    },
+    {
+      "product_id": "PRODUCT041",
+      "productType": "others",
+      "quantity": 10,
+      "rate": 3.4
+    },
+    {
+      "product_id": "PRODUCT023",
+      "productType": "fresh",
+      "quantity": 5,
+      "rate": 1.1
+    }
+  ],
+  "totalOrderCost": 362,
+  "partnerRate": 3.3
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688880"
+  },
+  "order_id": "ORDER014",
+  "customer_id": "CUSTOMER016",
+  "orderDate": "2024-08-06",
+  "partner_id": "PARTNER001",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT046",
+      "productType": "others",
+      "quantity": 7,
+      "rate": 4.8
+    },
+    {
+      "product_id": "PRODUCT014",
+      "productType": "fresh",
+      "quantity": 6,
+      "rate": 1.7
+    },
+    {
+      "product_id": "PRODUCT042",
+      "productType": "others",
+      "quantity": 1,
+      "rate": 3.7
+    }
+  ],
+  "totalOrderCost": 687.2,
+  "partnerRate": 3.6
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688881"
+  },
+  "order_id": "ORDER015",
+  "customer_id": "CUSTOMER014",
+  "orderDate": "2024-08-07",
+  "partner_id": "PARTNER003",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT013",
+      "productType": "fresh",
+      "quantity": 1,
+      "rate": 1.2
+    },
+    {
+      "product_id": "PRODUCT001",
+      "productType": "fresh",
+      "quantity": 7,
+      "rate": 3.6
+    }
+  ],
+  "totalOrderCost": 25.5,
+  "partnerRate": 0.7
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688882"
+  },
+  "order_id": "ORDER016",
+  "customer_id": "CUSTOMER012",
+  "orderDate": "2024-08-08",
+  "partner_id": "PARTNER003",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT080",
+      "productType": "others",
+      "quantity": 5,
+      "rate": 3.9
+    },
+    {
+      "product_id": "PRODUCT028",
+      "productType": "fresh",
+      "quantity": 6,
+      "rate": 1.9
+    }
+  ],
+  "totalOrderCost": 630,
+  "partnerRate": 4.1
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688883"
+  },
+  "order_id": "ORDER017",
+  "customer_id": "CUSTOMER007",
+  "orderDate": "2024-08-09",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT024",
+      "productType": "fresh",
+      "quantity": 4,
+      "rate": 2.5
+    }
+  ],
+  "totalOrderCost": 6,
+  "partnerRate": 4.3
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688884"
+  },
+  "order_id": "ORDER018",
+  "customer_id": "CUSTOMER004",
+  "orderDate": "2024-08-10",
+  "partner_id": "PARTNER003",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT024",
+      "productType": "fresh",
+      "quantity": 5,
+      "rate": 2.8
+    },
+    {
+      "product_id": "PRODUCT040",
+      "productType": "fresh",
+      "quantity": 2,
+      "rate": 1.4
+    },
+    {
+      "product_id": "PRODUCT067",
+      "productType": "others",
+      "quantity": 6,
+      "rate": 2.6
+    }
+  ],
+  "totalOrderCost": 100.1,
+  "partnerRate": 2.2
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688885"
+  },
+  "order_id": "ORDER019",
+  "customer_id": "CUSTOMER013",
+  "orderDate": "2024-08-11",
+  "partner_id": "PARTNER005",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT035",
+      "productType": "fresh",
+      "quantity": 7,
+      "rate": 4.9
+    },
+    {
+      "product_id": "PRODUCT006",
+      "productType": "fresh",
+      "quantity": 3,
+      "rate": 2.4
+    },
+    {
+      "product_id": "PRODUCT013",
+      "productType": "fresh",
+      "quantity": 7,
+      "rate": 0.6
+    }
+  ],
+  "totalOrderCost": 120.3,
+  "partnerRate": 2.3
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688886"
+  },
+  "order_id": "ORDER020",
+  "customer_id": "CUSTOMER006",
+  "orderDate": "2024-08-12",
+  "partner_id": "PARTNER003",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT036",
+      "productType": "fresh",
+      "quantity": 9,
+      "rate": 2.1
+    }
+  ],
+  "totalOrderCost": 9,
+  "partnerRate": 4.2
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688887"
+  },
+  "order_id": "ORDER021",
+  "customer_id": "CUSTOMER020",
+  "orderDate": "2024-08-13",
+  "partner_id": "PARTNER003",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT015",
+      "productType": "fresh",
+      "quantity": 3,
+      "rate": 0.7
+    }
+  ],
+  "totalOrderCost": 6,
+  "partnerRate": 0.4
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688888"
+  },
+  "order_id": "ORDER022",
+  "customer_id": "CUSTOMER002",
+  "orderDate": "2024-08-14",
+  "partner_id": "PARTNER001",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT044",
+      "productType": "others",
+      "quantity": 5,
+      "rate": 4.8
+    }
+  ],
+  "totalOrderCost": 225,
+  "partnerRate": 1.6
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688889"
+  },
+  "order_id": "ORDER023",
+  "customer_id": "CUSTOMER001",
+  "orderDate": "2024-08-15",
+  "partner_id": "PARTNER005",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT026",
+      "productType": "fresh",
+      "quantity": 8,
+      "rate": 0.5
+    },
+    {
+      "product_id": "PRODUCT049",
+      "productType": "others",
+      "quantity": 6,
+      "rate": 2.3
+    }
+  ],
+  "totalOrderCost": 74.4,
+  "partnerRate": 1.4
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b568888a"
+  },
+  "order_id": "ORDER024",
+  "customer_id": "CUSTOMER007",
+  "orderDate": "2024-08-16",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT024",
+      "productType": "fresh",
+      "quantity": 6,
+      "rate": 2.2
+    }
+  ],
+  "totalOrderCost": 9,
+  "partnerRate": 2.8
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b568888b"
+  },
+  "order_id": "ORDER025",
+  "customer_id": "CUSTOMER010",
+  "orderDate": "2024-08-17",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT061",
+      "productType": "others",
+      "quantity": 8,
+      "rate": 4.5
+    },
+    {
+      "product_id": "PRODUCT002",
+      "productType": "fresh",
+      "quantity": 8,
+      "rate": 0.6
+    }
+  ],
+  "totalOrderCost": 120,
+  "partnerRate": 3.2
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b568888c"
+  },
+  "order_id": "ORDER026",
+  "customer_id": "CUSTOMER018",
+  "orderDate": "2024-08-18",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT014",
+      "productType": "fresh",
+      "quantity": 3,
+      "rate": 1.8
+    },
+    {
+      "product_id": "PRODUCT006",
+      "productType": "fresh",
+      "quantity": 10,
+      "rate": 3.2
+    }
+  ],
+  "totalOrderCost": 33.6,
+  "partnerRate": 2.5
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b568888d"
+  },
+  "order_id": "ORDER027",
+  "customer_id": "CUSTOMER017",
+  "orderDate": "2024-08-19",
+  "partner_id": "PARTNER001",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT064",
+      "productType": "others",
+      "quantity": 7,
+      "rate": 3.7
+    },
+    {
+      "product_id": "PRODUCT076",
+      "productType": "others",
+      "quantity": 2,
+      "rate": 3.6
+    }
+  ],
+  "totalOrderCost": 385,
+  "partnerRate": 2.1
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b568888e"
+  },
+  "order_id": "ORDER028",
+  "customer_id": "CUSTOMER006",
+  "orderDate": "2024-08-20",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT008",
+      "productType": "fresh",
+      "quantity": 3,
+      "rate": 4.5
+    }
+  ],
+  "totalOrderCost": 4.5,
+  "partnerRate": 0.7
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b568888f"
+  },
+  "order_id": "ORDER029",
+  "customer_id": "CUSTOMER012",
+  "orderDate": "2024-08-21",
+  "partner_id": "PARTNER001",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT004",
+      "productType": "fresh",
+      "quantity": 3,
+      "rate": 4.3
+    }
+  ],
+  "totalOrderCost": 5.4,
+  "partnerRate": 0.6
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688890"
+  },
+  "order_id": "ORDER030",
+  "customer_id": "CUSTOMER008",
+  "orderDate": "2024-08-22",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT068",
+      "productType": "others",
+      "quantity": 2,
+      "rate": 1.6
+    },
+    {
+      "product_id": "PRODUCT037",
+      "productType": "fresh",
+      "quantity": 6,
+      "rate": 4.7
+    },
+    {
+      "product_id": "PRODUCT044",
+      "productType": "others",
+      "quantity": 6,
+      "rate": 0.6
+    }
+  ],
+  "totalOrderCost": 296.8,
+  "partnerRate": 0.5
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688891"
+  },
+  "order_id": "ORDER031",
+  "customer_id": "CUSTOMER016",
+  "orderDate": "2024-08-23",
+  "partner_id": "PARTNER001",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT029",
+      "productType": "fresh",
+      "quantity": 7,
+      "rate": 1.9
+    }
+  ],
+  "totalOrderCost": 21,
+  "partnerRate": 0.3
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688892"
+  },
+  "order_id": "ORDER032",
+  "customer_id": "CUSTOMER009",
+  "orderDate": "2024-08-24",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT076",
+      "productType": "others",
+      "quantity": 4,
+      "rate": 4.9
+    },
+    {
+      "product_id": "PRODUCT018",
+      "productType": "fresh",
+      "quantity": 7,
+      "rate": 2
+    },
+    {
+      "product_id": "PRODUCT080",
+      "productType": "others",
+      "quantity": 3,
+      "rate": 2.5
+    }
+  ],
+  "totalOrderCost": 864.6,
+  "partnerRate": 2.8
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688893"
+  },
+  "order_id": "ORDER033",
+  "customer_id": "CUSTOMER004",
+  "orderDate": "2024-08-25",
+  "partner_id": "PARTNER001",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT062",
+      "productType": "others",
+      "quantity": 7,
+      "rate": 1.3
+    }
+  ],
+  "totalOrderCost": 98,
+  "partnerRate": 3.6
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688894"
+  },
+  "order_id": "ORDER034",
+  "customer_id": "CUSTOMER015",
+  "orderDate": "2024-08-26",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT058",
+      "productType": "others",
+      "quantity": 5,
+      "rate": 3.8
+    }
+  ],
+  "totalOrderCost": 125,
+  "partnerRate": 1
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688895"
+  },
+  "order_id": "ORDER035",
+  "customer_id": "CUSTOMER005",
+  "orderDate": "2024-08-27",
+  "partner_id": "PARTNER005",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT039",
+      "productType": "fresh",
+      "quantity": 1,
+      "rate": 2.5
+    },
+    {
+      "product_id": "PRODUCT060",
+      "productType": "others",
+      "quantity": 6,
+      "rate": 4.8
+    },
+    {
+      "product_id": "PRODUCT061",
+      "productType": "others",
+      "quantity": 4,
+      "rate": 3.6
+    }
+  ],
+  "totalOrderCost": 149,
+  "partnerRate": 4
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688896"
+  },
+  "order_id": "ORDER036",
+  "customer_id": "CUSTOMER003",
+  "orderDate": "2024-08-28",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT030",
+      "productType": "fresh",
+      "quantity": 9,
+      "rate": 0.1
+    },
+    {
+      "product_id": "PRODUCT044",
+      "productType": "others",
+      "quantity": 8,
+      "rate": 2
+    },
+    {
+      "product_id": "PRODUCT018",
+      "productType": "fresh",
+      "quantity": 3,
+      "rate": 1.8
+    }
+  ],
+  "totalOrderCost": 386.4,
+  "partnerRate": 4
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688897"
+  },
+  "order_id": "ORDER037",
+  "customer_id": "CUSTOMER019",
+  "orderDate": "2024-08-29",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT077",
+      "productType": "others",
+      "quantity": 8,
+      "rate": 1.7
+    },
+    {
+      "product_id": "PRODUCT016",
+      "productType": "fresh",
+      "quantity": 2,
+      "rate": 0.3
+    }
+  ],
+  "totalOrderCost": 733,
+  "partnerRate": 3.3
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688898"
+  },
+  "order_id": "ORDER038",
+  "customer_id": "CUSTOMER011",
+  "orderDate": "2024-08-30",
+  "partner_id": "PARTNER003",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT008",
+      "productType": "fresh",
+      "quantity": 4,
+      "rate": 3.4
+    },
+    {
+      "product_id": "PRODUCT007",
+      "productType": "fresh",
+      "quantity": 7,
+      "rate": 1.5
+    },
+    {
+      "product_id": "PRODUCT037",
+      "productType": "fresh",
+      "quantity": 8,
+      "rate": 4.8
+    }
+  ],
+  "totalOrderCost": 20.8,
+  "partnerRate": 2.1
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b5688899"
+  },
+  "order_id": "ORDER039",
+  "customer_id": "CUSTOMER013",
+  "orderDate": "2024-08-31",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT015",
+      "productType": "fresh",
+      "quantity": 5,
+      "rate": 2.4
+    },
+    {
+      "product_id": "PRODUCT072",
+      "productType": "others",
+      "quantity": 8,
+      "rate": 1.2
+    }
+  ],
+  "totalOrderCost": 146,
+  "partnerRate": 3
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b568889a"
+  },
+  "order_id": "ORDER040",
+  "customer_id": "CUSTOMER014",
+  "orderDate": "2024-09-01",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT060",
+      "productType": "others",
+      "quantity": 1,
+      "rate": 3.7
+    },
+    {
+      "product_id": "PRODUCT070",
+      "productType": "others",
+      "quantity": 4,
+      "rate": 0.1
+    },
+    {
+      "product_id": "PRODUCT069",
+      "productType": "others",
+      "quantity": 10,
+      "rate": 1.8
+    }
+  ],
+  "totalOrderCost": 270,
+  "partnerRate": 1.6
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b568889b"
+  },
+  "order_id": "ORDER041",
+  "customer_id": "CUSTOMER011",
+  "orderDate": "2024-09-02",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT025",
+      "productType": "fresh",
+      "quantity": 9,
+      "rate": 4.8
+    },
+    {
+      "product_id": "PRODUCT017",
+      "productType": "fresh",
+      "quantity": 2,
+      "rate": 3.5
+    }
+  ],
+  "totalOrderCost": 30.6,
+  "partnerRate": 4.9
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b568889c"
+  },
+  "order_id": "ORDER042",
+  "customer_id": "CUSTOMER019",
+  "orderDate": "2024-09-03",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT017",
+      "productType": "fresh",
+      "quantity": 1,
+      "rate": 2.1
+    }
+  ],
+  "totalOrderCost": 1.8,
+  "partnerRate": 1.1
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b568889d"
+  },
+  "order_id": "ORDER043",
+  "customer_id": "CUSTOMER015",
+  "orderDate": "2024-09-04",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT015",
+      "productType": "fresh",
+      "quantity": 8,
+      "rate": 4
+    },
+    {
+      "product_id": "PRODUCT072",
+      "productType": "others",
+      "quantity": 5,
+      "rate": 2.4
+    },
+    {
+      "product_id": "PRODUCT075",
+      "productType": "others",
+      "quantity": 3,
+      "rate": 4.1
+    }
+  ],
+  "totalOrderCost": 167,
+  "partnerRate": 0.3
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b568889e"
+  },
+  "order_id": "ORDER044",
+  "customer_id": "CUSTOMER012",
+  "orderDate": "2024-09-05",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT057",
+      "productType": "others",
+      "quantity": 8,
+      "rate": 3.9
+    },
+    {
+      "product_id": "PRODUCT027",
+      "productType": "fresh",
+      "quantity": 8,
+      "rate": 3.2
+    },
+    {
+      "product_id": "PRODUCT039",
+      "productType": "fresh",
+      "quantity": 9,
+      "rate": 4.5
+    }
+  ],
+  "totalOrderCost": 237,
+  "partnerRate": 0.4
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b568889f"
+  },
+  "order_id": "ORDER045",
+  "customer_id": "CUSTOMER005",
+  "orderDate": "2024-09-06",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT028",
+      "productType": "fresh",
+      "quantity": 6,
+      "rate": 3.5
+    },
+    {
+      "product_id": "PRODUCT037",
+      "productType": "fresh",
+      "quantity": 10,
+      "rate": 2.9
+    },
+    {
+      "product_id": "PRODUCT026",
+      "productType": "fresh",
+      "quantity": 9,
+      "rate": 0.9
+    }
+  ],
+  "totalOrderCost": 39.2,
+  "partnerRate": 1.7
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888a0"
+  },
+  "order_id": "ORDER046",
+  "customer_id": "CUSTOMER003",
+  "orderDate": "2024-09-07",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT006",
+      "productType": "fresh",
+      "quantity": 6,
+      "rate": 4
+    }
+  ],
+  "totalOrderCost": 18,
+  "partnerRate": 1.9
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888a1"
+  },
+  "order_id": "ORDER047",
+  "customer_id": "CUSTOMER009",
+  "orderDate": "2024-09-08",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT054",
+      "productType": "others",
+      "quantity": 3,
+      "rate": 1.1
+    }
+  ],
+  "totalOrderCost": 33,
+  "partnerRate": 0.7
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888a2"
+  },
+  "order_id": "ORDER048",
+  "customer_id": "CUSTOMER014",
+  "orderDate": "2024-09-09",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT009",
+      "productType": "fresh",
+      "quantity": 9,
+      "rate": 3.9
+    },
+    {
+      "product_id": "PRODUCT021",
+      "productType": "fresh",
+      "quantity": 10,
+      "rate": 4.3
+    },
+    {
+      "product_id": "PRODUCT005",
+      "productType": "fresh",
+      "quantity": 2,
+      "rate": 2.3
+    }
+  ],
+  "totalOrderCost": 48.5,
+  "partnerRate": 3.4
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888a3"
+  },
+  "order_id": "ORDER049",
+  "customer_id": "CUSTOMER006",
+  "orderDate": "2024-09-10",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT066",
+      "productType": "others",
+      "quantity": 4,
+      "rate": 1.8
+    },
+    {
+      "product_id": "PRODUCT077",
+      "productType": "others",
+      "quantity": 2,
+      "rate": 1.6
+    },
+    {
+      "product_id": "PRODUCT076",
+      "productType": "others",
+      "quantity": 6,
+      "rate": 2.3
+    }
+  ],
+  "totalOrderCost": 1024,
+  "partnerRate": 2.1
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888a4"
+  },
+  "order_id": "ORDER050",
+  "customer_id": "CUSTOMER002",
+  "orderDate": "2024-09-11",
+  "partner_id": "PARTNER005",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT042",
+      "productType": "others",
+      "quantity": 5,
+      "rate": 2.9
+    }
+  ],
+  "totalOrderCost": 355,
+  "partnerRate": 2.8
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888a5"
+  },
+  "order_id": "ORDER051",
+  "customer_id": "CUSTOMER017",
+  "orderDate": "2024-09-12",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT035",
+      "productType": "fresh",
+      "quantity": 7,
+      "rate": 1.3
+    },
+    {
+      "product_id": "PRODUCT077",
+      "productType": "others",
+      "quantity": 5,
+      "rate": 2.7
+    }
+  ],
+  "totalOrderCost": 461.3,
+  "partnerRate": 1.6
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888a6"
+  },
+  "order_id": "ORDER052",
+  "customer_id": "CUSTOMER004",
+  "orderDate": "2024-09-13",
+  "partner_id": "PARTNER003",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT069",
+      "productType": "others",
+      "quantity": 10,
+      "rate": 0.7
+    },
+    {
+      "product_id": "PRODUCT053",
+      "productType": "others",
+      "quantity": 9,
+      "rate": 2.8
+    }
+  ],
+  "totalOrderCost": 323,
+  "partnerRate": 0.7
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888a7"
+  },
+  "order_id": "ORDER053",
+  "customer_id": "CUSTOMER001",
+  "orderDate": "2024-09-14",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT056",
+      "productType": "others",
+      "quantity": 2,
+      "rate": 1.5
+    },
+    {
+      "product_id": "PRODUCT077",
+      "productType": "others",
+      "quantity": 6,
+      "rate": 1.2
+    },
+    {
+      "product_id": "PRODUCT078",
+      "productType": "others",
+      "quantity": 7,
+      "rate": 3.6
+    }
+  ],
+  "totalOrderCost": 968,
+  "partnerRate": 1.9
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888a8"
+  },
+  "order_id": "ORDER054",
+  "customer_id": "CUSTOMER008",
+  "orderDate": "2024-09-15",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT075",
+      "productType": "others",
+      "quantity": 8,
+      "rate": 0.8
+    }
+  ],
+  "totalOrderCost": 176,
+  "partnerRate": 3.8
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888a9"
+  },
+  "order_id": "ORDER055",
+  "customer_id": "CUSTOMER007",
+  "orderDate": "2024-09-16",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT022",
+      "productType": "fresh",
+      "quantity": 10,
+      "rate": 5
+    },
+    {
+      "product_id": "PRODUCT044",
+      "productType": "others",
+      "quantity": 4,
+      "rate": 1.9
+    },
+    {
+      "product_id": "PRODUCT040",
+      "productType": "fresh",
+      "quantity": 1,
+      "rate": 1.9
+    }
+  ],
+  "totalOrderCost": 191.3,
+  "partnerRate": 2.9
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888aa"
+  },
+  "order_id": "ORDER056",
+  "customer_id": "CUSTOMER010",
+  "orderDate": "2024-09-17",
+  "partner_id": "PARTNER001",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT052",
+      "productType": "others",
+      "quantity": 5,
+      "rate": 3.5
+    },
+    {
+      "product_id": "PRODUCT033",
+      "productType": "fresh",
+      "quantity": 8,
+      "rate": 1.1
+    },
+    {
+      "product_id": "PRODUCT021",
+      "productType": "fresh",
+      "quantity": 1,
+      "rate": 1.9
+    }
+  ],
+  "totalOrderCost": 125.8,
+  "partnerRate": 3.2
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888ab"
+  },
+  "order_id": "ORDER057",
+  "customer_id": "CUSTOMER013",
+  "orderDate": "2024-09-18",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT009",
+      "productType": "fresh",
+      "quantity": 8,
+      "rate": 1.9
+    },
+    {
+      "product_id": "PRODUCT067",
+      "productType": "others",
+      "quantity": 9,
+      "rate": 0.1
+    },
+    {
+      "product_id": "PRODUCT080",
+      "productType": "others",
+      "quantity": 3,
+      "rate": 3.3
+    }
+  ],
+  "totalOrderCost": 532,
+  "partnerRate": 4
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888ac"
+  },
+  "order_id": "ORDER058",
+  "customer_id": "CUSTOMER016",
+  "orderDate": "2024-09-19",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT059",
+      "productType": "others",
+      "quantity": 3,
+      "rate": 0.5
+    },
+    {
+      "product_id": "PRODUCT065",
+      "productType": "others",
+      "quantity": 10,
+      "rate": 2.6
+    }
+  ],
+  "totalOrderCost": 175,
+  "partnerRate": 2.3
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888ad"
+  },
+  "order_id": "ORDER059",
+  "customer_id": "CUSTOMER018",
+  "orderDate": "2024-09-20",
+  "partner_id": "PARTNER005",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT068",
+      "productType": "others",
+      "quantity": 7,
+      "rate": 1.1
+    },
+    {
+      "product_id": "PRODUCT065",
+      "productType": "others",
+      "quantity": 4,
+      "rate": 3.7
+    }
+  ],
+  "totalOrderCost": 117,
+  "partnerRate": 3.3
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888ae"
+  },
+  "order_id": "ORDER060",
+  "customer_id": "CUSTOMER020",
+  "orderDate": "2024-09-21",
+  "partner_id": "PARTNER003",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT038",
+      "productType": "fresh",
+      "quantity": 4,
+      "rate": 3
+    },
+    {
+      "product_id": "PRODUCT074",
+      "productType": "others",
+      "quantity": 3,
+      "rate": 2.1
+    },
+    {
+      "product_id": "PRODUCT064",
+      "productType": "others",
+      "quantity": 5,
+      "rate": 0.6
+    }
+  ],
+  "totalOrderCost": 160.8,
+  "partnerRate": 3.6
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888af"
+  },
+  "order_id": "ORDER061",
+  "customer_id": "CUSTOMER005",
+  "orderDate": "2024-09-22",
+  "partner_id": "PARTNER005",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT070",
+      "productType": "others",
+      "quantity": 5,
+      "rate": 3.5
+    }
+  ],
+  "totalOrderCost": 105,
+  "partnerRate": 0.4
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888b0"
+  },
+  "order_id": "ORDER062",
+  "customer_id": "CUSTOMER010",
+  "orderDate": "2024-09-23",
+  "partner_id": "PARTNER001",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT074",
+      "productType": "others",
+      "quantity": 7,
+      "rate": 1.2
+    },
+    {
+      "product_id": "PRODUCT075",
+      "productType": "others",
+      "quantity": 6,
+      "rate": 4.7
+    },
+    {
+      "product_id": "PRODUCT012",
+      "productType": "fresh",
+      "quantity": 7,
+      "rate": 4.9
+    }
+  ],
+  "totalOrderCost": 261.5,
+  "partnerRate": 3.7
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888b1"
+  },
+  "order_id": "ORDER063",
+  "customer_id": "CUSTOMER002",
+  "orderDate": "2024-09-24",
+  "partner_id": "PARTNER003",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT052",
+      "productType": "others",
+      "quantity": 3,
+      "rate": 2.8
+    },
+    {
+      "product_id": "PRODUCT070",
+      "productType": "others",
+      "quantity": 6,
+      "rate": 4.8
+    },
+    {
+      "product_id": "PRODUCT062",
+      "productType": "others",
+      "quantity": 3,
+      "rate": 2
+    }
+  ],
+  "totalOrderCost": 237,
+  "partnerRate": 2.1
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888b2"
+  },
+  "order_id": "ORDER064",
+  "customer_id": "CUSTOMER016",
+  "orderDate": "2024-09-25",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT044",
+      "productType": "others",
+      "quantity": 7,
+      "rate": 4.9
+    },
+    {
+      "product_id": "PRODUCT038",
+      "productType": "fresh",
+      "quantity": 7,
+      "rate": 3.6
+    }
+  ],
+  "totalOrderCost": 323.4,
+  "partnerRate": 2.6
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888b3"
+  },
+  "order_id": "ORDER065",
+  "customer_id": "CUSTOMER020",
+  "orderDate": "2024-09-26",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT022",
+      "productType": "fresh",
+      "quantity": 1,
+      "rate": 3.7
+    }
+  ],
+  "totalOrderCost": 1,
+  "partnerRate": 0.1
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888b4"
+  },
+  "order_id": "ORDER066",
+  "customer_id": "CUSTOMER017",
+  "orderDate": "2024-09-27",
+  "partner_id": "PARTNER005",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT029",
+      "productType": "fresh",
+      "quantity": 1,
+      "rate": 4.9
+    },
+    {
+      "product_id": "PRODUCT048",
+      "productType": "others",
+      "quantity": 10,
+      "rate": 2.9
+    }
+  ],
+  "totalOrderCost": 433,
+  "partnerRate": 1
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888b5"
+  },
+  "order_id": "ORDER067",
+  "customer_id": "CUSTOMER003",
+  "orderDate": "2024-09-28",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT047",
+      "productType": "others",
+      "quantity": 7,
+      "rate": 1.5
+    }
+  ],
+  "totalOrderCost": 56,
+  "partnerRate": 0.2
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888b6"
+  },
+  "order_id": "ORDER068",
+  "customer_id": "CUSTOMER019",
+  "orderDate": "2024-09-29",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT066",
+      "productType": "others",
+      "quantity": 4,
+      "rate": 2.7
+    },
+    {
+      "product_id": "PRODUCT036",
+      "productType": "fresh",
+      "quantity": 9,
+      "rate": 3.2
+    },
+    {
+      "product_id": "PRODUCT056",
+      "productType": "others",
+      "quantity": 3,
+      "rate": 1.3
+    }
+  ],
+  "totalOrderCost": 224,
+  "partnerRate": 2.5
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888b7"
+  },
+  "order_id": "ORDER069",
+  "customer_id": "CUSTOMER015",
+  "orderDate": "2024-09-30",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT031",
+      "productType": "fresh",
+      "quantity": 7,
+      "rate": 2.4
+    }
+  ],
+  "totalOrderCost": 5.6000000000000005,
+  "partnerRate": 0.2
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888b8"
+  },
+  "order_id": "ORDER070",
+  "customer_id": "CUSTOMER007",
+  "orderDate": "2024-10-01",
+  "partner_id": "PARTNER001",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT069",
+      "productType": "others",
+      "quantity": 2,
+      "rate": 1.9
+    },
+    {
+      "product_id": "PRODUCT041",
+      "productType": "others",
+      "quantity": 6,
+      "rate": 4.6
+    }
+  ],
+  "totalOrderCost": 238,
+  "partnerRate": 1
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888b9"
+  },
+  "order_id": "ORDER071",
+  "customer_id": "CUSTOMER004",
+  "orderDate": "2024-10-02",
+  "partner_id": "PARTNER001",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT065",
+      "productType": "others",
+      "quantity": 3,
+      "rate": 2.6
+    },
+    {
+      "product_id": "PRODUCT058",
+      "productType": "others",
+      "quantity": 9,
+      "rate": 2.7
+    }
+  ],
+  "totalOrderCost": 255,
+  "partnerRate": 0.3
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888ba"
+  },
+  "order_id": "ORDER072",
+  "customer_id": "CUSTOMER009",
+  "orderDate": "2024-10-03",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT051",
+      "productType": "others",
+      "quantity": 9,
+      "rate": 1.6
+    },
+    {
+      "product_id": "PRODUCT050",
+      "productType": "others",
+      "quantity": 9,
+      "rate": 1.4
+    }
+  ],
+  "totalOrderCost": 765,
+  "partnerRate": 3.5
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888bb"
+  },
+  "order_id": "ORDER073",
+  "customer_id": "CUSTOMER018",
+  "orderDate": "2024-10-04",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT055",
+      "productType": "others",
+      "quantity": 3,
+      "rate": 4
+    },
+    {
+      "product_id": "PRODUCT003",
+      "productType": "fresh",
+      "quantity": 9,
+      "rate": 4.6
+    }
+  ],
+  "totalOrderCost": 96,
+  "partnerRate": 1.1
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888bc"
+  },
+  "order_id": "ORDER074",
+  "customer_id": "CUSTOMER006",
+  "orderDate": "2024-10-05",
+  "partner_id": "PARTNER003",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT045",
+      "productType": "others",
+      "quantity": 2,
+      "rate": 3.3
+    }
+  ],
+  "totalOrderCost": 8,
+  "partnerRate": 3
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888bd"
+  },
+  "order_id": "ORDER075",
+  "customer_id": "CUSTOMER014",
+  "orderDate": "2024-10-06",
+  "partner_id": "PARTNER005",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT078",
+      "productType": "others",
+      "quantity": 6,
+      "rate": 0.7
+    },
+    {
+      "product_id": "PRODUCT010",
+      "productType": "fresh",
+      "quantity": 10,
+      "rate": 1.2
+    }
+  ],
+  "totalOrderCost": 332,
+  "partnerRate": 3.1
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888be"
+  },
+  "order_id": "ORDER076",
+  "customer_id": "CUSTOMER011",
+  "orderDate": "2024-10-07",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT070",
+      "productType": "others",
+      "quantity": 8,
+      "rate": 2.8
+    }
+  ],
+  "totalOrderCost": 168,
+  "partnerRate": 2.1
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888bf"
+  },
+  "order_id": "ORDER077",
+  "customer_id": "CUSTOMER008",
+  "orderDate": "2024-10-08",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT008",
+      "productType": "fresh",
+      "quantity": 3,
+      "rate": 4.3
+    }
+  ],
+  "totalOrderCost": 4.5,
+  "partnerRate": 4.4
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888c0"
+  },
+  "order_id": "ORDER078",
+  "customer_id": "CUSTOMER012",
+  "orderDate": "2024-10-09",
+  "partner_id": "PARTNER001",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT053",
+      "productType": "others",
+      "quantity": 1,
+      "rate": 3.6
+    }
+  ],
+  "totalOrderCost": 17,
+  "partnerRate": 3.2
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888c1"
+  },
+  "order_id": "ORDER079",
+  "customer_id": "CUSTOMER013",
+  "orderDate": "2024-10-10",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT070",
+      "productType": "others",
+      "quantity": 3,
+      "rate": 2.9
+    },
+    {
+      "product_id": "PRODUCT036",
+      "productType": "fresh",
+      "quantity": 8,
+      "rate": 3.2
+    }
+  ],
+  "totalOrderCost": 71,
+  "partnerRate": 3.1
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888c2"
+  },
+  "order_id": "ORDER080",
+  "customer_id": "CUSTOMER020",
+  "orderDate": "2024-10-11",
+  "partner_id": "PARTNER005",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT072",
+      "productType": "others",
+      "quantity": 6,
+      "rate": 3.1
+    },
+    {
+      "product_id": "PRODUCT043",
+      "productType": "others",
+      "quantity": 6,
+      "rate": 4.7
+    },
+    {
+      "product_id": "PRODUCT054",
+      "productType": "others",
+      "quantity": 3,
+      "rate": 4.4
+    }
+  ],
+  "totalOrderCost": 393,
+  "partnerRate": 3.2
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888c3"
+  },
+  "order_id": "ORDER081",
+  "customer_id": "CUSTOMER008",
+  "orderDate": "2024-10-12",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT033",
+      "productType": "fresh",
+      "quantity": 10,
+      "rate": 1.1
+    }
+  ],
+  "totalOrderCost": 12,
+  "partnerRate": 0.8
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888c4"
+  },
+  "order_id": "ORDER082",
+  "customer_id": "CUSTOMER001",
+  "orderDate": "2024-10-13",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT011",
+      "productType": "fresh",
+      "quantity": 9,
+      "rate": 2.2
+    }
+  ],
+  "totalOrderCost": 27,
+  "partnerRate": 3.4
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888c5"
+  },
+  "order_id": "ORDER083",
+  "customer_id": "CUSTOMER018",
+  "orderDate": "2024-10-14",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT067",
+      "productType": "others",
+      "quantity": 1,
+      "rate": 0.9
+    },
+    {
+      "product_id": "PRODUCT043",
+      "productType": "others",
+      "quantity": 6,
+      "rate": 0.5
+    }
+  ],
+  "totalOrderCost": 273,
+  "partnerRate": 2.6
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888c6"
+  },
+  "order_id": "ORDER084",
+  "customer_id": "CUSTOMER002",
+  "orderDate": "2024-10-15",
+  "partner_id": "PARTNER001",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT020",
+      "productType": "fresh",
+      "quantity": 8,
+      "rate": 0.5
+    },
+    {
+      "product_id": "PRODUCT020",
+      "productType": "fresh",
+      "quantity": 3,
+      "rate": 4.6
+    }
+  ],
+  "totalOrderCost": 16.5,
+  "partnerRate": 0.7
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888c7"
+  },
+  "order_id": "ORDER085",
+  "customer_id": "CUSTOMER004",
+  "orderDate": "2024-10-16",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT075",
+      "productType": "others",
+      "quantity": 3,
+      "rate": 3.4
+    },
+    {
+      "product_id": "PRODUCT007",
+      "productType": "fresh",
+      "quantity": 2,
+      "rate": 1.8
+    }
+  ],
+  "totalOrderCost": 68.4,
+  "partnerRate": 0.3
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888c8"
+  },
+  "order_id": "ORDER086",
+  "customer_id": "CUSTOMER006",
+  "orderDate": "2024-10-17",
+  "partner_id": "PARTNER003",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT002",
+      "productType": "fresh",
+      "quantity": 1,
+      "rate": 0.1
+    },
+    {
+      "product_id": "PRODUCT047",
+      "productType": "others",
+      "quantity": 10,
+      "rate": 4.1
+    }
+  ],
+  "totalOrderCost": 82,
+  "partnerRate": 1.5
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888c9"
+  },
+  "order_id": "ORDER087",
+  "customer_id": "CUSTOMER017",
+  "orderDate": "2024-10-18",
+  "partner_id": "PARTNER003",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT075",
+      "productType": "others",
+      "quantity": 3,
+      "rate": 1.8
+    },
+    {
+      "product_id": "PRODUCT019",
+      "productType": "fresh",
+      "quantity": 3,
+      "rate": 2.6
+    }
+  ],
+  "totalOrderCost": 76.5,
+  "partnerRate": 2.8
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888ca"
+  },
+  "order_id": "ORDER088",
+  "customer_id": "CUSTOMER009",
+  "orderDate": "2024-10-19",
+  "partner_id": "PARTNER003",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT009",
+      "productType": "fresh",
+      "quantity": 10,
+      "rate": 1.3
+    }
+  ],
+  "totalOrderCost": 35,
+  "partnerRate": 4.9
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888cb"
+  },
+  "order_id": "ORDER089",
+  "customer_id": "CUSTOMER015",
+  "orderDate": "2024-10-20",
+  "partner_id": "PARTNER005",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT011",
+      "productType": "fresh",
+      "quantity": 2,
+      "rate": 2.3
+    }
+  ],
+  "totalOrderCost": 6,
+  "partnerRate": 0.9
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888cc"
+  },
+  "order_id": "ORDER090",
+  "customer_id": "CUSTOMER019",
+  "orderDate": "2024-10-21",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT032",
+      "productType": "fresh",
+      "quantity": 3,
+      "rate": 1.7
+    },
+    {
+      "product_id": "PRODUCT034",
+      "productType": "fresh",
+      "quantity": 2,
+      "rate": 3.3
+    },
+    {
+      "product_id": "PRODUCT045",
+      "productType": "others",
+      "quantity": 2,
+      "rate": 0.1
+    }
+  ],
+  "totalOrderCost": 13.7,
+  "partnerRate": 0.3
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888cd"
+  },
+  "order_id": "ORDER091",
+  "customer_id": "CUSTOMER003",
+  "orderDate": "2024-10-22",
+  "partner_id": "PARTNER005",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT019",
+      "productType": "fresh",
+      "quantity": 4,
+      "rate": 2.2
+    },
+    {
+      "product_id": "PRODUCT032",
+      "productType": "fresh",
+      "quantity": 5,
+      "rate": 3.4
+    }
+  ],
+  "totalOrderCost": 21.5,
+  "partnerRate": 2.6
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888ce"
+  },
+  "order_id": "ORDER092",
+  "customer_id": "CUSTOMER011",
+  "orderDate": "2024-10-23",
+  "partner_id": "PARTNER003",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT045",
+      "productType": "others",
+      "quantity": 9,
+      "rate": 0.4
+    }
+  ],
+  "totalOrderCost": 36,
+  "partnerRate": 0.2
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888cf"
+  },
+  "order_id": "ORDER093",
+  "customer_id": "CUSTOMER005",
+  "orderDate": "2024-10-24",
+  "partner_id": "PARTNER003",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT004",
+      "productType": "fresh",
+      "quantity": 6,
+      "rate": 1.2
+    },
+    {
+      "product_id": "PRODUCT030",
+      "productType": "fresh",
+      "quantity": 3,
+      "rate": 3.2
+    }
+  ],
+  "totalOrderCost": 16.8,
+  "partnerRate": 1.5
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888d0"
+  },
+  "order_id": "ORDER094",
+  "customer_id": "CUSTOMER016",
+  "orderDate": "2024-10-25",
+  "partner_id": "PARTNER003",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT059",
+      "productType": "others",
+      "quantity": 10,
+      "rate": 0.6
+    },
+    {
+      "product_id": "PRODUCT063",
+      "productType": "others",
+      "quantity": 8,
+      "rate": 1.9
+    }
+  ],
+  "totalOrderCost": 434,
+  "partnerRate": 4.7
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888d1"
+  },
+  "order_id": "ORDER095",
+  "customer_id": "CUSTOMER007",
+  "orderDate": "2024-10-26",
+  "partner_id": "PARTNER002",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT003",
+      "productType": "fresh",
+      "quantity": 8,
+      "rate": 2.3
+    }
+  ],
+  "totalOrderCost": 8,
+  "partnerRate": 3.5
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888d2"
+  },
+  "order_id": "ORDER096",
+  "customer_id": "CUSTOMER014",
+  "orderDate": "2024-10-27",
+  "partner_id": "PARTNER005",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT055",
+      "productType": "others",
+      "quantity": 6,
+      "rate": 1.7
+    }
+  ],
+  "totalOrderCost": 174,
+  "partnerRate": 0.4
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888d3"
+  },
+  "order_id": "ORDER097",
+  "customer_id": "CUSTOMER010",
+  "orderDate": "2024-10-28",
+  "partner_id": "PARTNER005",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT063",
+      "productType": "others",
+      "quantity": 4,
+      "rate": 2.5
+    }
+  ],
+  "totalOrderCost": 92,
+  "partnerRate": 4.1
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888d4"
+  },
+  "order_id": "ORDER098",
+  "customer_id": "CUSTOMER012",
+  "orderDate": "2024-10-29",
+  "partner_id": "PARTNER001",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT051",
+      "productType": "others",
+      "quantity": 1,
+      "rate": 4.3
+    }
+  ],
+  "totalOrderCost": 55,
+  "partnerRate": 3.6
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888d5"
+  },
+  "order_id": "ORDER099",
+  "customer_id": "CUSTOMER013",
+  "orderDate": "2024-10-30",
+  "partner_id": "PARTNER004",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT071",
+      "productType": "others",
+      "quantity": 7,
+      "rate": 2.6
+    }
+  ],
+  "totalOrderCost": 98,
+  "partnerRate": 1.5
+},
+{
+  "_id": {
+    "$oid": "676c219f8226b2d9b56888d6"
+  },
+  "order_id": "ORDER100",
+  "customer_id": "CUSTOMER001",
+  "orderDate": "2024-10-31",
+  "partner_id": "PARTNER003",
+  "pastOrderItems": [
+    {
+      "product_id": "PRODUCT031",
+      "productType": "fresh",
+      "quantity": 4,
+      "rate": 3.7
+    },
+    {
+      "product_id": "PRODUCT001",
+      "productType": "fresh",
+      "quantity": 10,
+      "rate": 4.2
+    }
+  ],
+  "totalOrderCost": 18.2,
+  "partnerRate": 0.9
+}]

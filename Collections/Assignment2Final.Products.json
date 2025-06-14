@@ -1,0 +1,960 @@
+[{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888d7"
+  },
+  "product_id": "PRODUCT001",
+  "productName": "White Bread",
+  "description": "Soft white bread loaf.",
+  "productType": "fresh",
+  "dimensions": "30x15x10 cm",
+  "averageRating": 3.9000000000000004,
+  "cost": 1.5
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888d8"
+  },
+  "product_id": "PRODUCT002",
+  "productName": "Croissant",
+  "description": "Flaky butter croissant.",
+  "productType": "fresh",
+  "dimensions": "15x10x5 cm",
+  "averageRating": 0.35,
+  "cost": 2
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888d9"
+  },
+  "product_id": "PRODUCT003",
+  "productName": "Bagel",
+  "description": "Freshly baked bagels.",
+  "productType": "fresh",
+  "dimensions": "10x10x5 cm",
+  "averageRating": 3.4499999999999997,
+  "cost": 1
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888da"
+  },
+  "product_id": "PRODUCT004",
+  "productName": "Muffin",
+  "description": "Blueberry muffin.",
+  "productType": "fresh",
+  "dimensions": "10x10x5 cm",
+  "averageRating": 2.75,
+  "cost": 1.8
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888db"
+  },
+  "product_id": "PRODUCT005",
+  "productName": "Baguette",
+  "description": "Crispy French baguette.",
+  "productType": "fresh",
+  "dimensions": "40x10x5 cm",
+  "averageRating": 3.15,
+  "cost": 2.5
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888dc"
+  },
+  "product_id": "PRODUCT006",
+  "productName": "Chocolate Cake",
+  "description": "Rich chocolate cake slice.",
+  "productType": "fresh",
+  "dimensions": "20x20x10 cm",
+  "averageRating": 3.1999999999999997,
+  "cost": 3
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888dd"
+  },
+  "product_id": "PRODUCT007",
+  "productName": "Doughnut",
+  "description": "Glazed doughnut.",
+  "productType": "fresh",
+  "dimensions": "10x10x5 cm",
+  "averageRating": 1.65,
+  "cost": 1.2
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888de"
+  },
+  "product_id": "PRODUCT008",
+  "productName": "Pita Bread",
+  "description": "Soft pita bread.",
+  "productType": "fresh",
+  "dimensions": "15x15x5 cm",
+  "averageRating": 4.066666666666666,
+  "cost": 1.5
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888df"
+  },
+  "product_id": "PRODUCT009",
+  "productName": "Sourdough Bread",
+  "description": "Artisan sourdough loaf.",
+  "productType": "fresh",
+  "dimensions": "30x15x10 cm",
+  "averageRating": 2.1,
+  "cost": 3.5
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888e0"
+  },
+  "product_id": "PRODUCT010",
+  "productName": "Cinnamon Roll",
+  "description": "Warm cinnamon roll.",
+  "productType": "fresh",
+  "dimensions": "15x10x5 cm",
+  "averageRating": 0.7,
+  "cost": 2
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888e1"
+  },
+  "product_id": "PRODUCT011",
+  "productName": "Orange Juice",
+  "description": "Freshly squeezed orange juice.",
+  "productType": "fresh",
+  "dimensions": "10x10x25 cm",
+  "averageRating": 2.25,
+  "cost": 3
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888e2"
+  },
+  "product_id": "PRODUCT012",
+  "productName": "Milk",
+  "description": "Whole milk carton.",
+  "productType": "fresh",
+  "dimensions": "10x10x25 cm",
+  "averageRating": 3.85,
+  "cost": 1.5
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888e3"
+  },
+  "product_id": "PRODUCT013",
+  "productName": "Red Wine",
+  "description": "Premium red wine bottle.",
+  "productType": "fresh",
+  "dimensions": "10x10x30 cm",
+  "averageRating": 0.8999999999999999,
+  "cost": 15
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888e4"
+  },
+  "product_id": "PRODUCT014",
+  "productName": "Cola",
+  "description": "Carbonated soft drink.",
+  "productType": "fresh",
+  "dimensions": "10x10x30 cm",
+  "averageRating": 1.75,
+  "cost": 1.2
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888e5"
+  },
+  "product_id": "PRODUCT015",
+  "productName": "Lemonade",
+  "description": "Chilled lemonade bottle.",
+  "productType": "fresh",
+  "dimensions": "10x10x30 cm",
+  "averageRating": 2.3666666666666667,
+  "cost": 2
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888e6"
+  },
+  "product_id": "PRODUCT016",
+  "productName": "Iced Tea",
+  "description": "Sweet iced tea.",
+  "productType": "fresh",
+  "dimensions": "10x10x30 cm",
+  "averageRating": 2.5,
+  "cost": 2.5
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888e7"
+  },
+  "product_id": "PRODUCT017",
+  "productName": "Coffee",
+  "description": "Brewed hot coffee.",
+  "productType": "fresh",
+  "dimensions": "10x10x25 cm",
+  "averageRating": 2.8,
+  "cost": 1.8
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888e8"
+  },
+  "product_id": "PRODUCT018",
+  "productName": "Energy Drink",
+  "description": "High-energy drink.",
+  "productType": "fresh",
+  "dimensions": "10x10x30 cm",
+  "averageRating": 1.9,
+  "cost": 2.8
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888e9"
+  },
+  "product_id": "PRODUCT019",
+  "productName": "Coconut Water",
+  "description": "Pure coconut water.",
+  "productType": "fresh",
+  "dimensions": "10x10x25 cm",
+  "averageRating": 2.4000000000000004,
+  "cost": 3.5
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888ea"
+  },
+  "product_id": "PRODUCT020",
+  "productName": "Green Tea",
+  "description": "Organic green tea.",
+  "productType": "fresh",
+  "dimensions": "10x10x25 cm",
+  "averageRating": 3.1999999999999997,
+  "cost": 1.5
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888eb"
+  },
+  "product_id": "PRODUCT021",
+  "productName": "Apple",
+  "description": "Fresh red apples.",
+  "productType": "fresh",
+  "dimensions": "15x15x10 cm",
+  "averageRating": 3.0999999999999996,
+  "cost": 1.2
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888ec"
+  },
+  "product_id": "PRODUCT022",
+  "productName": "Banana",
+  "description": "Sweet bananas.",
+  "productType": "fresh",
+  "dimensions": "20x10x5 cm",
+  "averageRating": 4.35,
+  "cost": 1
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888ed"
+  },
+  "product_id": "PRODUCT023",
+  "productName": "Grapes",
+  "description": "Seedless green grapes.",
+  "productType": "fresh",
+  "dimensions": "15x10x5 cm",
+  "averageRating": 2.75,
+  "cost": 2
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888ee"
+  },
+  "product_id": "PRODUCT024",
+  "productName": "Orange",
+  "description": "Juicy oranges.",
+  "productType": "fresh",
+  "dimensions": "12x12x10 cm",
+  "averageRating": 3.025,
+  "cost": 1.5
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888ef"
+  },
+  "product_id": "PRODUCT025",
+  "productName": "Watermelon",
+  "description": "Large green watermelon.",
+  "productType": "fresh",
+  "dimensions": "30x20x15 cm",
+  "averageRating": 3.3,
+  "cost": 3
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888f0"
+  },
+  "product_id": "PRODUCT026",
+  "productName": "Peach",
+  "description": "Sweet and juicy peaches.",
+  "productType": "fresh",
+  "dimensions": "10x10x5 cm",
+  "averageRating": 0.7,
+  "cost": 1.8
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888f1"
+  },
+  "product_id": "PRODUCT027",
+  "productName": "Pineapple",
+  "description": "Tropical pineapple.",
+  "productType": "fresh",
+  "dimensions": "30x15x15 cm",
+  "averageRating": 2,
+  "cost": 3.5
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888f2"
+  },
+  "product_id": "PRODUCT028",
+  "productName": "Strawberries",
+  "description": "Fresh red strawberries.",
+  "productType": "fresh",
+  "dimensions": "12x8x5 cm",
+  "averageRating": 2.7,
+  "cost": 2.5
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888f3"
+  },
+  "product_id": "PRODUCT029",
+  "productName": "Blueberries",
+  "description": "Sweet blueberries.",
+  "productType": "fresh",
+  "dimensions": "10x10x5 cm",
+  "averageRating": 3.4000000000000004,
+  "cost": 3
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888f4"
+  },
+  "product_id": "PRODUCT030",
+  "productName": "Mango",
+  "description": "Ripe mangoes.",
+  "productType": "fresh",
+  "dimensions": "15x10x8 cm",
+  "averageRating": 1.6500000000000001,
+  "cost": 2.2
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888f5"
+  },
+  "product_id": "PRODUCT031",
+  "productName": "Carrot",
+  "description": "Crunchy orange carrots.",
+  "productType": "fresh",
+  "dimensions": "20x5x5 cm",
+  "averageRating": 3.05,
+  "cost": 0.8
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888f6"
+  },
+  "product_id": "PRODUCT032",
+  "productName": "Broccoli",
+  "description": "Fresh green broccoli.",
+  "productType": "fresh",
+  "dimensions": "20x20x15 cm",
+  "averageRating": 2.55,
+  "cost": 1.5
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888f7"
+  },
+  "product_id": "PRODUCT033",
+  "productName": "Spinach",
+  "description": "Fresh spinach leaves.",
+  "productType": "fresh",
+  "dimensions": "25x20x10 cm",
+  "averageRating": 1.1,
+  "cost": 1.2
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888f8"
+  },
+  "product_id": "PRODUCT034",
+  "productName": "Potato",
+  "description": "Fresh brown potatoes.",
+  "productType": "fresh",
+  "dimensions": "30x20x15 cm",
+  "averageRating": 1.9,
+  "cost": 0.6
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888f9"
+  },
+  "product_id": "PRODUCT035",
+  "productName": "Onion",
+  "description": "Fresh yellow onions.",
+  "productType": "fresh",
+  "dimensions": "20x15x10 cm",
+  "averageRating": 3.1,
+  "cost": 0.9
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888fa"
+  },
+  "product_id": "PRODUCT036",
+  "productName": "Tomato",
+  "description": "Juicy red tomatoes.",
+  "productType": "fresh",
+  "dimensions": "18x15x10 cm",
+  "averageRating": 3.1,
+  "cost": 1
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888fb"
+  },
+  "product_id": "PRODUCT037",
+  "productName": "Cucumber",
+  "description": "Fresh cucumbers.",
+  "productType": "fresh",
+  "dimensions": "20x5x5 cm",
+  "averageRating": 4.133333333333334,
+  "cost": 0.8
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888fc"
+  },
+  "product_id": "PRODUCT038",
+  "productName": "Bell Pepper",
+  "description": "Colorful bell peppers.",
+  "productType": "fresh",
+  "dimensions": "15x15x10 cm",
+  "averageRating": 3.3,
+  "cost": 1.2
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888fd"
+  },
+  "product_id": "PRODUCT039",
+  "productName": "Celery",
+  "description": "Crisp celery sticks.",
+  "productType": "fresh",
+  "dimensions": "25x5x5 cm",
+  "averageRating": 3.5,
+  "cost": 1
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888fe"
+  },
+  "product_id": "PRODUCT040",
+  "productName": "Zucchini",
+  "description": "Fresh green zucchini.",
+  "productType": "fresh",
+  "dimensions": "20x5x5 cm",
+  "averageRating": 1.65,
+  "cost": 1.3
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b56888ff"
+  },
+  "product_id": "PRODUCT041",
+  "productName": "Fiction Novel",
+  "description": "A thrilling fiction novel.",
+  "productType": "others",
+  "dimensions": "25x15x3 cm",
+  "averageRating": 4,
+  "cost": 10
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688900"
+  },
+  "product_id": "PRODUCT042",
+  "productName": "Science Textbook",
+  "description": "A comprehensive science textbook.",
+  "productType": "others",
+  "dimensions": "30x20x5 cm",
+  "averageRating": 3.3,
+  "cost": 20
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688901"
+  },
+  "product_id": "PRODUCT043",
+  "productName": "History Book",
+  "description": "A deep dive into history.",
+  "productType": "others",
+  "dimensions": "25x15x3 cm",
+  "averageRating": 2.6,
+  "cost": 15
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688902"
+  },
+  "product_id": "PRODUCT044",
+  "productName": "Fantasy Novel",
+  "description": "A magical fantasy novel.",
+  "productType": "others",
+  "dimensions": "25x15x3 cm",
+  "averageRating": 2.84,
+  "cost": 12
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688903"
+  },
+  "product_id": "PRODUCT045",
+  "productName": "Biography",
+  "description": "An inspiring biography.",
+  "productType": "others",
+  "dimensions": "25x15x3 cm",
+  "averageRating": 1.2666666666666666,
+  "cost": 18
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688904"
+  },
+  "product_id": "PRODUCT046",
+  "productName": "Cookbook",
+  "description": "A collection of delicious recipes.",
+  "productType": "others",
+  "dimensions": "25x20x4 cm",
+  "averageRating": 4.75,
+  "cost": 18
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688905"
+  },
+  "product_id": "PRODUCT047",
+  "productName": "Travel Guide",
+  "description": "A guide to exploring the world.",
+  "productType": "others",
+  "dimensions": "25x15x3 cm",
+  "averageRating": 2.8,
+  "cost": 15
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688906"
+  },
+  "product_id": "PRODUCT048",
+  "productName": "Self-Help Book",
+  "description": "Motivational and inspirational book.",
+  "productType": "others",
+  "dimensions": "25x15x3 cm",
+  "averageRating": 1.6666666666666667,
+  "cost": 12
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688907"
+  },
+  "product_id": "PRODUCT049",
+  "productName": "Children's Storybook",
+  "description": "Fun stories for children.",
+  "productType": "others",
+  "dimensions": "20x15x3 cm",
+  "averageRating": 2.9,
+  "cost": 8
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688908"
+  },
+  "product_id": "PRODUCT050",
+  "productName": "Graphic Novel",
+  "description": "A beautifully illustrated graphic novel.",
+  "productType": "others",
+  "dimensions": "25x20x3 cm",
+  "averageRating": 1.2,
+  "cost": 14
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688909"
+  },
+  "product_id": "PRODUCT051",
+  "productName": "Pop Album",
+  "description": "A hit pop music album.",
+  "productType": "others",
+  "dimensions": "12x12x1 cm",
+  "averageRating": 2.95,
+  "cost": 15
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b568890a"
+  },
+  "product_id": "PRODUCT052",
+  "productName": "Classical Album",
+  "description": "A soothing classical music album.",
+  "productType": "others",
+  "dimensions": "12x12x1 cm",
+  "averageRating": 3.15,
+  "cost": 20
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b568890b"
+  },
+  "product_id": "PRODUCT053",
+  "productName": "Jazz Album",
+  "description": "Relaxing jazz music collection.",
+  "productType": "others",
+  "dimensions": "12x12x1 cm",
+  "averageRating": 3.2,
+  "cost": 18
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b568890c"
+  },
+  "product_id": "PRODUCT054",
+  "productName": "Rock Album",
+  "description": "Classic rock hits.",
+  "productType": "others",
+  "dimensions": "12x12x1 cm",
+  "averageRating": 2.75,
+  "cost": 17
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b568890d"
+  },
+  "product_id": "PRODUCT055",
+  "productName": "Hip Hop Album",
+  "description": "Top hip hop tracks.",
+  "productType": "others",
+  "dimensions": "12x12x1 cm",
+  "averageRating": 2.85,
+  "cost": 16
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b568890e"
+  },
+  "product_id": "PRODUCT056",
+  "productName": "Country Album",
+  "description": "Best of country music.",
+  "productType": "others",
+  "dimensions": "12x12x1 cm",
+  "averageRating": 1.4,
+  "cost": 15
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b568890f"
+  },
+  "product_id": "PRODUCT057",
+  "productName": "Electronic Album",
+  "description": "Popular electronic music tracks.",
+  "productType": "others",
+  "dimensions": "12x12x1 cm",
+  "averageRating": 3.9,
+  "cost": 20
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688910"
+  },
+  "product_id": "PRODUCT058",
+  "productName": "Reggae Album",
+  "description": "Best reggae vibes.",
+  "productType": "others",
+  "dimensions": "12x12x1 cm",
+  "averageRating": 3.25,
+  "cost": 14
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688911"
+  },
+  "product_id": "PRODUCT059",
+  "productName": "Opera Album",
+  "description": "Famous opera performances.",
+  "productType": "others",
+  "dimensions": "12x12x1 cm",
+  "averageRating": 1.5,
+  "cost": 22
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688912"
+  },
+  "product_id": "PRODUCT060",
+  "productName": "Instrumental Album",
+  "description": "Peaceful instrumental tracks.",
+  "productType": "others",
+  "dimensions": "12x12x1 cm",
+  "averageRating": 4.25,
+  "cost": 19
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688913"
+  },
+  "product_id": "PRODUCT061",
+  "productName": "Apple iPhone 14",
+  "description": "Latest iPhone with A15 Bionic chip.",
+  "productType": "others",
+  "dimensions": "14x7x1 cm",
+  "averageRating": 4.05,
+  "cost": 999
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688914"
+  },
+  "product_id": "PRODUCT062",
+  "productName": "Samsung Galaxy S22",
+  "description": "Flagship Samsung smartphone with AMOLED display.",
+  "productType": "others",
+  "dimensions": "15x8x1 cm",
+  "averageRating": 1.65,
+  "cost": 799
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688915"
+  },
+  "product_id": "PRODUCT063",
+  "productName": "Google Pixel 7",
+  "description": "Google smartphone with excellent camera.",
+  "productType": "others",
+  "dimensions": "15x8x1 cm",
+  "averageRating": 2.2,
+  "cost": 599
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688916"
+  },
+  "product_id": "PRODUCT064",
+  "productName": "OnePlus 11",
+  "description": "High-performance smartphone with 120Hz screen.",
+  "productType": "others",
+  "dimensions": "16x8x1 cm",
+  "averageRating": 2.15,
+  "cost": 699
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688917"
+  },
+  "product_id": "PRODUCT065",
+  "productName": "Xiaomi 12 Pro",
+  "description": "Flagship phone with Snapdragon processor.",
+  "productType": "others",
+  "dimensions": "15x8x1 cm",
+  "averageRating": 2.966666666666667,
+  "cost": 649
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688918"
+  },
+  "product_id": "PRODUCT066",
+  "productName": "Sony Xperia 1 IV",
+  "description": "Sony's smartphone with 4K OLED display.",
+  "productType": "others",
+  "dimensions": "15x7x1 cm",
+  "averageRating": 2.25,
+  "cost": 1299
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688919"
+  },
+  "product_id": "PRODUCT067",
+  "productName": "Oppo Find X5 Pro",
+  "description": "Premium phone with Hasselblad camera tech.",
+  "productType": "others",
+  "dimensions": "15x7x1 cm",
+  "averageRating": 1.275,
+  "cost": 899
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b568891a"
+  },
+  "product_id": "PRODUCT068",
+  "productName": "Vivo X80 Pro",
+  "description": "High-end phone with Zeiss optics.",
+  "productType": "others",
+  "dimensions": "15x7x1 cm",
+  "averageRating": 1.35,
+  "cost": 799
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b568891b"
+  },
+  "product_id": "PRODUCT069",
+  "productName": "Realme GT 2 Pro",
+  "description": "Affordable flagship with AMOLED display.",
+  "productType": "others",
+  "dimensions": "15x7x1 cm",
+  "averageRating": 1.775,
+  "cost": 499
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b568891c"
+  },
+  "product_id": "PRODUCT070",
+  "productName": "Asus ROG Phone 6",
+  "description": "Gaming smartphone with advanced cooling system.",
+  "productType": "others",
+  "dimensions": "17x8x1 cm",
+  "averageRating": 3.0833333333333335,
+  "cost": 1099
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b568891d"
+  },
+  "product_id": "PRODUCT071",
+  "productName": "Dyson V15 Detect",
+  "description": "Cordless vacuum cleaner with laser detection.",
+  "productType": "others",
+  "dimensions": "126x25x20 cm",
+  "averageRating": 3.2,
+  "cost": 799
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b568891e"
+  },
+  "product_id": "PRODUCT072",
+  "productName": "Samsung Family Hub Refrigerator",
+  "description": "Smart refrigerator with touchscreen.",
+  "productType": "others",
+  "dimensions": "180x90x70 cm",
+  "averageRating": 2.2333333333333334,
+  "cost": 2999
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b568891f"
+  },
+  "product_id": "PRODUCT073",
+  "productName": "LG TWINWash Washing Machine",
+  "description": "Washing machine with dual load capability.",
+  "productType": "others",
+  "dimensions": "85x60x60 cm",
+  "averageRating": null,
+  "cost": 1499
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688920"
+  },
+  "product_id": "PRODUCT074",
+  "productName": "Philips Airfryer XXL",
+  "description": "Large air fryer for healthy cooking.",
+  "productType": "others",
+  "dimensions": "40x30x30 cm",
+  "averageRating": 1.65,
+  "cost": 350
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688921"
+  },
+  "product_id": "PRODUCT075",
+  "productName": "Breville Barista Pro",
+  "description": "Espresso machine with integrated grinder.",
+  "productType": "others",
+  "dimensions": "40x35x40 cm",
+  "averageRating": 2.716666666666667,
+  "cost": 799
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688922"
+  },
+  "product_id": "PRODUCT076",
+  "productName": "Panasonic Microwave NN-SN966S",
+  "description": "1.6 cubic foot stainless steel microwave.",
+  "productType": "others",
+  "dimensions": "60x50x40 cm",
+  "averageRating": 3.6,
+  "cost": 250
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688923"
+  },
+  "product_id": "PRODUCT077",
+  "productName": "iRobot Roomba i7+",
+  "description": "Robot vacuum cleaner with auto dirt disposal.",
+  "productType": "others",
+  "dimensions": "35x35x10 cm",
+  "averageRating": 1.8,
+  "cost": 999
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688924"
+  },
+  "product_id": "PRODUCT078",
+  "productName": "Instant Pot Duo 7-in-1",
+  "description": "Multi-functional pressure cooker.",
+  "productType": "others",
+  "dimensions": "33x31x29 cm",
+  "averageRating": 2.15,
+  "cost": 120
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688925"
+  },
+  "product_id": "PRODUCT079",
+  "productName": "Sony Bravia XR A80J",
+  "description": "65-inch OLED 4K TV.",
+  "productType": "others",
+  "dimensions": "145x85x15 cm",
+  "averageRating": null,
+  "cost": 2000
+},
+{
+  "_id": {
+    "$oid": "676c21a48226b2d9b5688926"
+  },
+  "product_id": "PRODUCT080",
+  "productName": "Ninja Foodi Power Blender",
+  "description": "High-speed blender for smoothies and soups.",
+  "productType": "others",
+  "dimensions": "25x20x40 cm",
+  "averageRating": 2.04,
+  "cost": 150
+}]

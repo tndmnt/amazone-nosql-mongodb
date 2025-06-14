@@ -1,0 +1,520 @@
+[{
+  "_id": {
+    "$oid": "676c21808226b2d9b5688756"
+  },
+  "customer_id": "CUSTOMER001",
+  "name": "Oliver",
+  "gender": "M",
+  "age": 25,
+  "addresses": [
+    {
+      "houseNumber": "74",
+      "street": "Oxford Road",
+      "city": "Manchester",
+      "postalCode": "M13 9PL",
+      "type": "Shipping",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -2.2392,
+          53.4723
+        ]
+      }
+    }
+  ],
+  "recommendItem": []
+},
+{
+  "_id": {
+    "$oid": "676c21808226b2d9b5688757"
+  },
+  "customer_id": "CUSTOMER002",
+  "name": "Charlotte",
+  "gender": "F",
+  "age": 32,
+  "addresses": [
+    {
+      "houseNumber": "18",
+      "street": "Deansgate",
+      "city": "Manchester",
+      "postalCode": "M3 4LQ",
+      "type": "Shipping",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -2.2472,
+          53.4781
+        ]
+      }
+    }
+  ],
+  "recommendItem": []
+},
+{
+  "_id": {
+    "$oid": "676c21808226b2d9b5688758"
+  },
+  "customer_id": "CUSTOMER003",
+  "name": "James",
+  "gender": "M",
+  "age": 28,
+  "addresses": [
+    {
+      "houseNumber": "56",
+      "street": "Portland Street",
+      "city": "Manchester",
+      "postalCode": "M1 6DP",
+      "type": "Shipping",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -2.2389,
+          53.4762
+        ]
+      }
+    }
+  ],
+  "recommendItem": []
+},
+{
+  "_id": {
+    "$oid": "676c21808226b2d9b5688759"
+  },
+  "customer_id": "CUSTOMER004",
+  "name": "Amelia",
+  "gender": "F",
+  "age": 19,
+  "addresses": [
+    {
+      "houseNumber": "12",
+      "street": "Wilmslow Road",
+      "city": "Manchester",
+      "postalCode": "M14 5TQ",
+      "type": "Shipping",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -2.2265,
+          53.4448
+        ]
+      }
+    }
+  ],
+  "recommendItem": []
+},
+{
+  "_id": {
+    "$oid": "676c21808226b2d9b568875a"
+  },
+  "customer_id": "CUSTOMER005",
+  "name": "Harry",
+  "gender": "M",
+  "age": 23,
+  "addresses": [
+    {
+      "houseNumber": "99",
+      "street": "Cheetham Hill Road",
+      "city": "Manchester",
+      "postalCode": "M8 8LG",
+      "type": "Shipping",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -2.2338,
+          53.4956
+        ]
+      }
+    }
+  ],
+  "recommendItem": []
+},
+{
+  "_id": {
+    "$oid": "676c21808226b2d9b568875b"
+  },
+  "customer_id": "CUSTOMER006",
+  "name": "Isla",
+  "gender": "F",
+  "age": 30,
+  "addresses": [
+    {
+      "houseNumber": "35",
+      "street": "Princess Street",
+      "city": "Manchester",
+      "postalCode": "M1 6JB",
+      "type": "Shipping",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -2.2421,
+          53.4743
+        ]
+      }
+    }
+  ],
+  "recommendItem": []
+},
+{
+  "_id": {
+    "$oid": "676c21808226b2d9b568875c"
+  },
+  "customer_id": "CUSTOMER007",
+  "name": "William",
+  "gender": "M",
+  "age": 35,
+  "addresses": [
+    {
+      "houseNumber": "22",
+      "street": "Market Street",
+      "city": "Manchester",
+      "postalCode": "M1 1WA",
+      "type": "Shipping",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -2.2397,
+          53.4825
+        ]
+      }
+    }
+  ],
+  "recommendItem": []
+},
+{
+  "_id": {
+    "$oid": "676c21808226b2d9b568875d"
+  },
+  "customer_id": "CUSTOMER008",
+  "name": "Emily",
+  "gender": "F",
+  "age": 27,
+  "addresses": [
+    {
+      "houseNumber": "68",
+      "street": "Piccadilly",
+      "city": "Manchester",
+      "postalCode": "M1 1RG",
+      "type": "Shipping",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -2.2334,
+          53.4816
+        ]
+      }
+    }
+  ],
+  "recommendItem": []
+},
+{
+  "_id": {
+    "$oid": "676c21808226b2d9b568875e"
+  },
+  "customer_id": "CUSTOMER009",
+  "name": "George",
+  "gender": "M",
+  "age": 41,
+  "addresses": [
+    {
+      "houseNumber": "47",
+      "street": "Oldham Road",
+      "city": "Manchester",
+      "postalCode": "M4 6BG",
+      "type": "Shipping",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -2.2214,
+          53.4873
+        ]
+      }
+    }
+  ],
+  "recommendItem": []
+},
+{
+  "_id": {
+    "$oid": "676c21808226b2d9b568875f"
+  },
+  "customer_id": "CUSTOMER010",
+  "name": "Grace",
+  "gender": "F",
+  "age": 18,
+  "addresses": [
+    {
+      "houseNumber": "83",
+      "street": "Chapel Street",
+      "city": "Manchester",
+      "postalCode": "M3 5JZ",
+      "type": "Shipping",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -2.2554,
+          53.4812
+        ]
+      }
+    }
+  ],
+  "recommendItem": []
+},
+{
+  "_id": {
+    "$oid": "676c21808226b2d9b5688760"
+  },
+  "customer_id": "CUSTOMER011",
+  "name": "Henry",
+  "gender": "M",
+  "age": 34,
+  "addresses": [
+    {
+      "houseNumber": "45",
+      "street": "Great Ancoats Street",
+      "city": "Manchester",
+      "postalCode": "M4 5AG",
+      "type": "Shipping",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -2.2157,
+          53.4849
+        ]
+      }
+    }
+  ],
+  "recommendItem": []
+},
+{
+  "_id": {
+    "$oid": "676c21808226b2d9b5688761"
+  },
+  "customer_id": "CUSTOMER012",
+  "name": "Sophie",
+  "gender": "F",
+  "age": 22,
+  "addresses": [
+    {
+      "houseNumber": "19",
+      "street": "Whitworth Street",
+      "city": "Manchester",
+      "postalCode": "M1 6LT",
+      "type": "Shipping",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -2.2436,
+          53.4728
+        ]
+      }
+    }
+  ],
+  "recommendItem": []
+},
+{
+  "_id": {
+    "$oid": "676c21808226b2d9b5688762"
+  },
+  "customer_id": "CUSTOMER013",
+  "name": "Thomas",
+  "gender": "M",
+  "age": 29,
+  "addresses": [
+    {
+      "houseNumber": "76",
+      "street": "Lever Street",
+      "city": "Manchester",
+      "postalCode": "M1 1BY",
+      "type": "Shipping",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -2.2378,
+          53.4831
+        ]
+      }
+    }
+  ],
+  "recommendItem": []
+},
+{
+  "_id": {
+    "$oid": "676c21808226b2d9b5688763"
+  },
+  "customer_id": "CUSTOMER014",
+  "name": "Evie",
+  "gender": "F",
+  "age": 20,
+  "addresses": [
+    {
+      "houseNumber": "54",
+      "street": "Rusholme Place",
+      "city": "Manchester",
+      "postalCode": "M14 5TE",
+      "type": "Shipping",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -2.2237,
+          53.4552
+        ]
+      }
+    }
+  ],
+  "recommendItem": []
+},
+{
+  "_id": {
+    "$oid": "676c21808226b2d9b5688764"
+  },
+  "customer_id": "CUSTOMER015",
+  "name": "Edward",
+  "gender": "M",
+  "age": 45,
+  "addresses": [
+    {
+      "houseNumber": "88",
+      "street": "Ashton Old Road",
+      "city": "Manchester",
+      "postalCode": "M11 2DA",
+      "type": "Shipping",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -2.1756,
+          53.4789
+        ]
+      }
+    }
+  ],
+  "recommendItem": []
+},
+{
+  "_id": {
+    "$oid": "676c21808226b2d9b5688765"
+  },
+  "customer_id": "CUSTOMER016",
+  "name": "Poppy",
+  "gender": "F",
+  "age": 26,
+  "addresses": [
+    {
+      "houseNumber": "22",
+      "street": "Hulme Street",
+      "city": "Manchester",
+      "postalCode": "M1 5GL",
+      "type": "Shipping",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -2.2485,
+          53.4664
+        ]
+      }
+    }
+  ],
+  "recommendItem": []
+},
+{
+  "_id": {
+    "$oid": "676c21808226b2d9b5688766"
+  },
+  "customer_id": "CUSTOMER017",
+  "name": "Samuel",
+  "gender": "M",
+  "age": 33,
+  "addresses": [
+    {
+      "houseNumber": "69",
+      "street": "Mosley Street",
+      "city": "Manchester",
+      "postalCode": "M2 3AQ",
+      "type": "Shipping",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -2.2417,
+          53.4798
+        ]
+      }
+    }
+  ],
+  "recommendItem": []
+},
+{
+  "_id": {
+    "$oid": "676c21808226b2d9b5688767"
+  },
+  "customer_id": "CUSTOMER018",
+  "name": "Florence",
+  "gender": "F",
+  "age": 21,
+  "addresses": [
+    {
+      "houseNumber": "53",
+      "street": "Chorlton Road",
+      "city": "Manchester",
+      "postalCode": "M15 4UW",
+      "type": "Billing",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -2.2603,
+          53.4621
+        ]
+      }
+    }
+  ],
+  "recommendItem": []
+},
+{
+  "_id": {
+    "$oid": "676c21808226b2d9b5688768"
+  },
+  "customer_id": "CUSTOMER019",
+  "name": "Daniel",
+  "gender": "M",
+  "age": 40,
+  "addresses": [
+    {
+      "houseNumber": "78",
+      "street": "Dantzic Street",
+      "city": "Manchester",
+      "postalCode": "M4 4DW",
+      "type": "Billing",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -2.2413,
+          53.4895
+        ]
+      }
+    }
+  ],
+  "recommendItem": []
+},
+{
+  "_id": {
+    "$oid": "676c21808226b2d9b5688769"
+  },
+  "customer_id": "CUSTOMER020",
+  "name": "Ruby",
+  "gender": "F",
+  "age": 24,
+  "addresses": [
+    {
+      "houseNumber": "94",
+      "street": "Fairfield Street",
+      "city": "Manchester",
+      "postalCode": "M1 3GF",
+      "type": "Billing",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -2.2229,
+          53.4752
+        ]
+      }
+    }
+  ],
+  "recommendItem": []
+}]

@@ -1,0 +1,280 @@
+[{
+    "distance": 5.004798856733579,
+    "productName": "Chocolate Cake",
+    "description": "Rich chocolate cake slice.",
+    "cost": 3,
+    "storeLocation": "1 Piccadilly Gardens, Manchester, M1 1RG"
+  },
+  {
+    "distance": 5.004798856733579,
+    "productName": "White Bread",
+    "description": "Soft white bread loaf.",
+    "cost": 1.5,
+    "storeLocation": "1 Piccadilly Gardens, Manchester, M1 1RG"
+  },
+  {
+    "distance": 5.004798856733579,
+    "productName": "Tomato",
+    "description": "Juicy red tomatoes.",
+    "cost": 1,
+    "storeLocation": "1 Piccadilly Gardens, Manchester, M1 1RG"
+  },
+  {
+    "distance": 5.004798856733579,
+    "productName": "Carrot",
+    "description": "Crunchy orange carrots.",
+    "cost": 0.8,
+    "storeLocation": "1 Piccadilly Gardens, Manchester, M1 1RG"
+  },
+  {
+    "distance": 5.004798856733579,
+    "productName": "Peach",
+    "description": "Sweet and juicy peaches.",
+    "cost": 1.8,
+    "storeLocation": "1 Piccadilly Gardens, Manchester, M1 1RG"
+  },
+  {
+    "distance": 5.004798856733579,
+    "productName": "Apple",
+    "description": "Fresh red apples.",
+    "cost": 1.2,
+    "storeLocation": "1 Piccadilly Gardens, Manchester, M1 1RG"
+  },
+  {
+    "distance": 5.004798856733579,
+    "productName": "Iced Tea",
+    "description": "Sweet iced tea.",
+    "cost": 2.5,
+    "storeLocation": "1 Piccadilly Gardens, Manchester, M1 1RG"
+  },
+  {
+    "distance": 5.004798856733579,
+    "productName": "Orange Juice",
+    "description": "Freshly squeezed orange juice.",
+    "cost": 3,
+    "storeLocation": "1 Piccadilly Gardens, Manchester, M1 1RG"
+  },
+  {
+    "distance": 140.53961295599404,
+    "productName": "Muffin",
+    "description": "Blueberry muffin.",
+    "cost": 1.8,
+    "storeLocation": "47 Market Street, Manchester, M1 1WR"
+  },
+  {
+    "distance": 140.53961295599404,
+    "productName": "Sourdough Bread",
+    "description": "Artisan sourdough loaf.",
+    "cost": 3.5,
+    "storeLocation": "47 Market Street, Manchester, M1 1WR"
+  },
+  {
+    "distance": 140.53961295599404,
+    "productName": "Cola",
+    "description": "Carbonated soft drink.",
+    "cost": 1.2,
+    "storeLocation": "47 Market Street, Manchester, M1 1WR"
+  },
+  {
+    "distance": 140.53961295599404,
+    "productName": "Coconut Water",
+    "description": "Pure coconut water.",
+    "cost": 3.5,
+    "storeLocation": "47 Market Street, Manchester, M1 1WR"
+  },
+  {
+    "distance": 140.53961295599404,
+    "productName": "Orange",
+    "description": "Juicy oranges.",
+    "cost": 1.5,
+    "storeLocation": "47 Market Street, Manchester, M1 1WR"
+  },
+  {
+    "distance": 140.53961295599404,
+    "productName": "Blueberries",
+    "description": "Sweet blueberries.",
+    "cost": 3,
+    "storeLocation": "47 Market Street, Manchester, M1 1WR"
+  },
+  {
+    "distance": 140.53961295599404,
+    "productName": "Potato",
+    "description": "Fresh brown potatoes.",
+    "cost": 0.6,
+    "storeLocation": "47 Market Street, Manchester, M1 1WR"
+  },
+  {
+    "distance": 140.53961295599404,
+    "productName": "Celery",
+    "description": "Crisp celery sticks.",
+    "cost": 1,
+    "storeLocation": "47 Market Street, Manchester, M1 1WR"
+  },
+  {
+    "distance": 494.5479704137558,
+    "productName": "Cucumber",
+    "description": "Fresh cucumbers.",
+    "cost": 0.8,
+    "storeLocation": "23 Deansgate, Manchester, M3 1AZ"
+  },
+  {
+    "distance": 494.5479704137558,
+    "productName": "Broccoli",
+    "description": "Fresh green broccoli.",
+    "cost": 1.5,
+    "storeLocation": "23 Deansgate, Manchester, M3 1AZ"
+  },
+  {
+    "distance": 494.5479704137558,
+    "productName": "Pineapple",
+    "description": "Tropical pineapple.",
+    "cost": 3.5,
+    "storeLocation": "23 Deansgate, Manchester, M3 1AZ"
+  },
+  {
+    "distance": 494.5479704137558,
+    "productName": "Banana",
+    "description": "Sweet bananas.",
+    "cost": 1,
+    "storeLocation": "23 Deansgate, Manchester, M3 1AZ"
+  },
+  {
+    "distance": 494.5479704137558,
+    "productName": "Milk",
+    "description": "Whole milk carton.",
+    "cost": 1.5,
+    "storeLocation": "23 Deansgate, Manchester, M3 1AZ"
+  },
+  {
+    "distance": 494.5479704137558,
+    "productName": "Doughnut",
+    "description": "Glazed doughnut.",
+    "cost": 1.2,
+    "storeLocation": "23 Deansgate, Manchester, M3 1AZ"
+  },
+  {
+    "distance": 494.5479704137558,
+    "productName": "Croissant",
+    "description": "Flaky butter croissant.",
+    "cost": 2,
+    "storeLocation": "23 Deansgate, Manchester, M3 1AZ"
+  },
+  {
+    "distance": 494.5479704137558,
+    "productName": "Coffee",
+    "description": "Brewed hot coffee.",
+    "cost": 1.8,
+    "storeLocation": "23 Deansgate, Manchester, M3 1AZ"
+  },
+  {
+    "distance": 540.8010744136069,
+    "productName": "Spinach",
+    "description": "Fresh spinach leaves.",
+    "cost": 1.2,
+    "storeLocation": "15 Oxford Street, Manchester, M1 5QA"
+  },
+  {
+    "distance": 540.8010744136069,
+    "productName": "Bell Pepper",
+    "description": "Colorful bell peppers.",
+    "cost": 1.2,
+    "storeLocation": "15 Oxford Street, Manchester, M1 5QA"
+  },
+  {
+    "distance": 540.8010744136069,
+    "productName": "Strawberries",
+    "description": "Fresh red strawberries.",
+    "cost": 2.5,
+    "storeLocation": "15 Oxford Street, Manchester, M1 5QA"
+  },
+  {
+    "distance": 540.8010744136069,
+    "productName": "Grapes",
+    "description": "Seedless green grapes.",
+    "cost": 2,
+    "storeLocation": "15 Oxford Street, Manchester, M1 5QA"
+  },
+  {
+    "distance": 540.8010744136069,
+    "productName": "Energy Drink",
+    "description": "High-energy drink.",
+    "cost": 2.8,
+    "storeLocation": "15 Oxford Street, Manchester, M1 5QA"
+  },
+  {
+    "distance": 540.8010744136069,
+    "productName": "Red Wine",
+    "description": "Premium red wine bottle.",
+    "cost": 15,
+    "storeLocation": "15 Oxford Street, Manchester, M1 5QA"
+  },
+  {
+    "distance": 540.8010744136069,
+    "productName": "Pita Bread",
+    "description": "Soft pita bread.",
+    "cost": 1.5,
+    "storeLocation": "15 Oxford Street, Manchester, M1 5QA"
+  },
+  {
+    "distance": 540.8010744136069,
+    "productName": "Bagel",
+    "description": "Freshly baked bagels.",
+    "cost": 1,
+    "storeLocation": "15 Oxford Street, Manchester, M1 5QA"
+  },
+  {
+    "distance": 812.910222513688,
+    "productName": "Baguette",
+    "description": "Crispy French baguette.",
+    "cost": 2.5,
+    "storeLocation": "21 Oldham Road, Manchester, M4 5AY"
+  },
+  {
+    "distance": 812.910222513688,
+    "productName": "Cinnamon Roll",
+    "description": "Warm cinnamon roll.",
+    "cost": 2,
+    "storeLocation": "21 Oldham Road, Manchester, M4 5AY"
+  },
+  {
+    "distance": 812.910222513688,
+    "productName": "Lemonade",
+    "description": "Chilled lemonade bottle.",
+    "cost": 2,
+    "storeLocation": "21 Oldham Road, Manchester, M4 5AY"
+  },
+  {
+    "distance": 812.910222513688,
+    "productName": "Green Tea",
+    "description": "Organic green tea.",
+    "cost": 1.5,
+    "storeLocation": "21 Oldham Road, Manchester, M4 5AY"
+  },
+  {
+    "distance": 812.910222513688,
+    "productName": "Watermelon",
+    "description": "Large green watermelon.",
+    "cost": 3,
+    "storeLocation": "21 Oldham Road, Manchester, M4 5AY"
+  },
+  {
+    "distance": 812.910222513688,
+    "productName": "Mango",
+    "description": "Ripe mangoes.",
+    "cost": 2.2,
+    "storeLocation": "21 Oldham Road, Manchester, M4 5AY"
+  },
+  {
+    "distance": 812.910222513688,
+    "productName": "Onion",
+    "description": "Fresh yellow onions.",
+    "cost": 0.9,
+    "storeLocation": "21 Oldham Road, Manchester, M4 5AY"
+  },
+  {
+    "distance": 812.910222513688,
+    "productName": "Zucchini",
+    "description": "Fresh green zucchini.",
+    "cost": 1.3,
+    "storeLocation": "21 Oldham Road, Manchester, M4 5AY"
+  }]
